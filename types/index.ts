@@ -5,6 +5,7 @@ export interface NewsItem {
     pubDate: string;
     content: string;
     source: string;
+    category?: string;
     fetchedAt: string;
     isImportant: boolean;
 }

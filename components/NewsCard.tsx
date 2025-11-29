@@ -53,9 +53,14 @@ export default function NewsCard({ item }: NewsCardProps) {
                     </svg>
                 </button>
             </div>
-            <p className="text-sm text-gray-500 dark:text-gray-400 mb-3">
-                {new Date(item.pubDate).toLocaleDateString()} • {item.source}
-            </p>
+            <div className="text-sm text-gray-500 dark:text-gray-400 mb-3 flex items-center gap-2">
+                {item.category && (
+                    <span className="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300">
+                        {item.category}
+                    </span>
+                )}
+                <span>{new Date(item.pubDate).toLocaleDateString()} • {item.source}</span>
+            </div>
             <p className="text-gray-700 dark:text-gray-300 line-clamp-3">
                 {item.content}
             </p>
