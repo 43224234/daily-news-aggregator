@@ -7,11 +7,14 @@ const parser = new Parser();
 const NEWS_FILE = path.join(__dirname, '../data/news.json');
 
 const FEEDS = [
-  { url: 'https://feeds.bbci.co.uk/news/world/rss.xml', category: 'World', categoryZh: '国际' },
-  { url: 'https://feeds.bbci.co.uk/news/business/rss.xml', category: 'Business', categoryZh: '商业' },
-  { url: 'https://feeds.bbci.co.uk/sport/rss.xml', category: 'Sport', categoryZh: '体育' },
-  { url: 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664', category: 'Stocks', categoryZh: '股市' },
-  { url: 'https://techcrunch.com/category/artificial-intelligence/feed/', category: 'AI', categoryZh: '人工智能' }
+  { url: 'https://feeds.bbci.co.uk/news/world/rss.xml', category: 'World', categoryZh: '国际', source: 'BBC News' },
+  { url: 'https://feeds.bbci.co.uk/news/business/rss.xml', category: 'Business', categoryZh: '商业', source: 'BBC News' },
+  { url: 'https://feeds.bbci.co.uk/sport/rss.xml', category: 'Sport', categoryZh: '体育', source: 'BBC Sport' },
+  { url: 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664', category: 'Stocks', categoryZh: '股市', source: 'CNBC' },
+  { url: 'https://techcrunch.com/category/artificial-intelligence/feed/', category: 'AI', categoryZh: '人工智能', source: 'TechCrunch' },
+  // { url: 'https://openai.com/blog/rss.xml', category: 'AI', categoryZh: '人工智能', source: 'OpenAI' },
+  { url: 'https://azure.microsoft.com/en-us/blog/feed/', category: 'AI', categoryZh: '人工智能', source: 'Azure Blog' },
+  { url: 'http://googleaiblog.blogspot.com/atom.xml', category: 'AI', categoryZh: '人工智能', source: 'Google AI' }
 ];
 
 async function fetchNews() {
@@ -25,7 +28,7 @@ async function fetchNews() {
     const newItems = [];
 
     for (const feedInfo of FEEDS) {
-      console.log(`Fetching ${feedInfo.category} news...`);
+      console.log(`Fetching ${feedInfo.category} news from ${feedInfo.url}...`);
       const feed = await parser.parseURL(feedInfo.url);
 
       for (const item of feed.items) {
@@ -56,7 +59,7 @@ async function fetchNews() {
           link: item.link,
           pubDate: item.pubDate,
           content: content,
-          source: 'BBC News',
+          source: feedInfo.source,
           category: feedInfo.categoryZh, // Store Chinese category directly
           fetchedAt: new Date().toISOString(),
           isImportant: false
@@ -80,8 +83,12 @@ async function fetchNews() {
     });
 
     const updatedNews = [...newItems, ...existingNews];
-    // Limit to 150 items
-    const trimmedNews = updatedNews.slice(0, 150);
+
+    // Sort by date (newest first)
+    updatedNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+    // Limit to 200 items
+    const trimmedNews = updatedNews.slice(0, 200);
 
     fs.writeFileSync(NEWS_FILE, JSON.stringify(trimmedNews, null, 2));
     console.log(`Added ${newItems.length} new items. Total: ${trimmedNews.length}`);
