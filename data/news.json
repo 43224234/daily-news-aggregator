@@ -1,5 +1,830 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c997n2zlegzo#1",
+    "title": "中日不和，日本《海贼王》歌手中途停止演出",
+    "link": "https://www.bbc.com/news/articles/c997n2zlegzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 08:17:32 GMT",
+    "content": "日本突然取消在上海举行的活动，引发批评并煽动民族主义情绪。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:09.491Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4g9dyd84lwo#0",
+    "title": "英国议员图利普·西迪克缺席审判后在孟加拉国被判入狱",
+    "link": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 08:05:54 GMT",
+    "content": "这位前部长和孟加拉国被驱逐的前领导人的侄女被判两年徒刑，她表示这些指控是出于政治动机。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:07.637Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/cricket/articles/cx25xrvv0k4o#0",
+    "title": "“Raise hell”——你从未听说过的最快投球手",
+    "link": "https://www.bbc.com/sport/cricket/articles/cx25xrvv0k4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 07:53:15 GMT",
+    "content": "邓肯·斯宾塞（Duncan Spencer）的故事，他是一位“速度快得惊人”的投球手，本可以为英格兰或澳大利亚效力。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:46.569Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/basketball/articles/cvgj57r0n98o#2",
+    "title": "约翰逊主演亚特兰大队双加时获胜",
+    "link": "https://www.bbc.com/sport/basketball/articles/cvgj57r0n98o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 07:53:12 GMT",
+    "content": "贾伦·约翰逊拿下职业生涯最高的 41 分，亚特兰大老鹰队在双加时赛中以 142-134 战胜费城 76 人队。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:03.758Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/articles/cd9z2gq335qo#9",
+    "title": "过去的经验是苏格兰镇获胜的关键——休斯",
+    "link": "https://www.bbc.com/sport/articles/cd9z2gq335qo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 07:15:25 GMT",
+    "content": "苏格兰镇老将达伦·休斯 (Darren Hughes) 告诉 BBC 体育 NI，继周日半决赛战胜纽布里奇之后，他很高兴能再次有机会赢得阿尔斯特俱乐部冠军。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:39.751Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c62vk0p5dn5o#0",
+    "title": "大型废物处理公司警告电子烟每天引发不止一起火灾",
+    "link": "https://www.bbc.com/news/articles/c62vk0p5dn5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 06:53:48 GMT",
+    "content": "一次性电子烟禁令六个月后，废物公司呼吁采取更强有力的措施来控制电子烟的不当处置。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2025-12-01T08:24:22.627Z",
+    "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx2dgp8mvmno#0",
+    "title": "洪都拉斯早期选举结果显示特朗普支持的人领先",
+    "link": "https://www.bbc.com/news/articles/cx2dgp8mvmno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 06:39:23 GMT",
+    "content": "美国总统威胁称，如果他喜爱的右翼总统候选人没有获胜，他将削减对洪都拉斯的援助。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:06.641Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/cq60y8z159vo#0",
+    "title": "“阿森纳值得澄清——但谁最有资格挑战？”",
+    "link": "https://www.bbc.com/sport/football/articles/cq60y8z159vo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 06:26:06 GMT",
+    "content": "MOTD 评论员艾伦·希勒 (Alan Shearer) 解释了切尔西和其他追逐者如果要挑战英超领头羊阿森纳，需要在哪些方面进行改进。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:44.297Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/crl93654jg5o#4",
+    "title": "露宿街头的人数“惊人”",
+    "link": "https://www.bbc.com/news/articles/crl93654jg5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 06:12:30 GMT",
+    "content": "一家慈善机构表示，由于生活成本危机，越来越多的人被迫无家可归。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2025-12-01T08:24:37.055Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cq604epg73yo#4",
+    "title": "“我们需要教孩子们个人理财知识”",
+    "link": "https://www.bbc.com/news/articles/cq604epg73yo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 06:09:52 GMT",
+    "content": "南方的校长欢迎将金融知识纳入国家课程的举措。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2025-12-01T08:24:37.964Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c36zwywll02o#0",
+    "title": "电商平台泄露近3400万客户数据",
+    "link": "https://www.bbc.com/news/articles/c36zwywll02o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 04:08:47 GMT",
+    "content": "零售巨头 Coupang 通常被描述为韩国的亚马逊网站。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2025-12-01T08:24:25.921Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cp8zyp988zvo#0",
+    "title": "美国议员要求对委内瑞拉赫格斯塞斯船只袭击索赔作出答复",
+    "link": "https://www.bbc.com/news/articles/cp8zyp988zvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 03:08:46 GMT",
+    "content": "媒体报道称，美国军方对一艘疑似贩毒船上的幸存者进行了第二次袭击，造成幸存者的担忧，促使两党展开调查。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:05.641Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8dy9qp71v2o#2",
+    "title": "为什么 2026 年对于印度太阳任务来说将是非比寻常的一年",
+    "link": "https://www.bbc.com/news/articles/c8dy9qp71v2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 01:13:59 GMT",
+    "content": "Aditya-L1 将首次能够在最大活动周期观测太阳。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:17.833Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/czrk7g50e1po#0",
+    "title": "英国广播公司证据显示，第一次世界大战有毒化合物喷洒在格鲁吉亚抗议者身上",
+    "link": "https://www.bbc.com/news/articles/czrk7g50e1po?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 00:19:04 GMT",
+    "content": "我们的调查发现，反政府示威者很可能成为卡米特的目标。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:03.220Z",
+    "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cgex9d0212xo#2",
+    "title": "希腊绵羊和山羊扑杀引发人们对羊奶酪短缺的担忧",
+    "link": "https://www.bbc.com/news/articles/cgex9d0212xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 00:10:14 GMT",
+    "content": "由于传染病爆发，全国各地的牲畜都被扑杀。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:18.821Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cgex9d0212xo#0",
+    "title": "希腊绵羊和山羊扑杀引发人们对羊奶酪短缺的担忧",
+    "link": "https://www.bbc.com/news/articles/cgex9d0212xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Dec 2025 00:10:14 GMT",
+    "content": "由于传染病爆发，全国各地的牲畜都被扑杀。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2025-12-01T08:24:26.268Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/videos/cjwy28v12z9o#1",
+    "title": "积极的迹象，但伊萨克在利物浦的工作仍在“进行中”",
+    "link": "https://www.bbc.com/sport/football/videos/cjwy28v12z9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 23:59:16 GMT",
+    "content": "每日比赛评论员艾伦·希勒表示，亚历山大·伊萨克表现出了积极的迹象，但仍需要加强与利物浦队友的联系。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:55.782Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/videos/czxg7r1xl6wo#1",
+    "title": "詹姆斯如何“轰动”帮助切尔西阻止阿森纳",
+    "link": "https://www.bbc.com/sport/football/videos/czxg7r1xl6wo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 23:59:13 GMT",
+    "content": "每日比赛评论员米卡·理查兹分析了里斯·詹姆斯如何在中场发挥出“轰动”的表现，帮助 10 人切尔西在斯坦福桥以 1-1 逼平英超领头羊阿森纳。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:58.287Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/videos/cj9y2pypzl4o#4",
+    "title": "阿莫林的半场调整如何为曼联扭转局面",
+    "link": "https://www.bbc.com/sport/football/videos/cj9y2pypzl4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 23:59:10 GMT",
+    "content": "每日比赛评论员阿兰·希勒称赞曼联主教练鲁本·阿莫林在下半场提高了“努力”和“投入”，最终以 2-1 逆转战胜了水晶宫。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:13.558Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/snooker/articles/cn81923g1j6o#0",
+    "title": "罗伯逊在英国锦标赛中晋级“比以往任何时候都更好”",
+    "link": "https://www.bbc.com/sport/snooker/articles/cn81923g1j6o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 23:41:08 GMT",
+    "content": "前世界冠军、世界排名第一的尼尔·罗伯逊相信，在进入英国锦标赛 16 强之后，他的表现“比以往任何时候都更好”。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:52.810Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/snooker/articles/cn81923g1j6o#9",
+    "title": "威廉姆斯复出并赢得英国锦标赛揭幕战",
+    "link": "https://www.bbc.com/sport/snooker/articles/cn81923g1j6o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 23:41:08 GMT",
+    "content": "两届冠军马克·威廉姆斯以 6-4 战胜大卫·吉尔伯特，晋级英国锦标赛 16 强。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:38.835Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cd9z2e3exk9o#0",
+    "title": "卢比奥表示，乌克兰会谈“富有成效”，但还需要做更多工作",
+    "link": "https://www.bbc.com/news/articles/cd9z2e3exk9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 23:24:20 GMT",
+    "content": "美国和乌克兰代表团在佛罗里达州会面，讨论与俄罗斯达成和平协议的大纲。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:03.834Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/cd0kn425k2xo#3",
+    "title": "利物浦计划竞标卡马文加——周一的八卦",
+    "link": "https://www.bbc.com/sport/football/articles/cd0kn425k2xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 23:11:14 GMT",
+    "content": "英超冠军利物浦竞购皇家马德里中场球员爱德华多·卡马文加，埃弗顿拒绝了对边锋伊利曼·恩迪亚耶的报价，而曼城则考虑引进伯恩茅斯前锋安托万·塞梅尼奥等等。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:08.639Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/athletics/articles/cjrjypdqg19o#3",
+    "title": "杜普兰蒂斯和麦克劳克林-莱夫隆被评为年度世界运动员",
+    "link": "https://www.bbc.com/sport/athletics/articles/cjrjypdqg19o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 23:07:07 GMT",
+    "content": "阿曼德·杜普兰蒂斯和西德尼·麦克劳克林-莱夫龙在摩纳哥举行的世界田径奖上荣获年度世界运动员称号。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:08.000Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/c75v7962722o#6",
+    "title": "阿贾克斯批评比赛中止后燃放烟花“令人发指”",
+    "link": "https://www.bbc.com/sport/football/articles/c75v7962722o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 22:55:07 GMT",
+    "content": "阿贾克斯批评这场烟花表演“极其令人愤慨”，导致荷兰联赛对阵格罗宁根的比赛被取消。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:21.411Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://techcrunch.com/?p=3071222",
+    "title": "《阿凡达》导演詹姆斯·卡梅隆表示生成式人工智能“令人恐惧”",
+    "link": "https://techcrunch.com/2025/11/30/avatar-director-james-cameron-says-generative-ai-is-horrifying/",
+    "pubDate": "Sun, 30 Nov 2025 22:53:15 +0000",
+    "content": "詹姆斯·卡梅隆的电影往往处于视觉效果技术的最前沿，但这并不意味着他是生成人工智能的粉丝。",
+    "source": "TechCrunch",
+    "category": "人工智能",
+    "fetchedAt": "2025-12-01T08:26:00.205Z",
+    "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgrwedyr0eo#1",
+    "title": "教皇利奥在首次出国访问中发出自己的声音",
+    "link": "https://www.bbc.com/news/articles/cvgrwedyr0eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 22:41:04 GMT",
+    "content": "宗教编辑阿利姆·马克布尔（Aleem Maqbool）写道，我们正在更多地了解教皇利奥打算如何履行他的职责。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:08.678Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/cyv8e7rd0g1o#2",
+    "title": "切尔西“神奇”詹姆斯的内线回归",
+    "link": "https://www.bbc.com/sport/football/articles/cyv8e7rd0g1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 22:28:59 GMT",
+    "content": "这位 25 岁的球员在对阵阿森纳的比赛中担任中场，四天后他在主场对阵巴塞罗那的比赛中也取得了同样令人印象深刻的表现。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:01.026Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/clyd38gp00eo#0",
+    "title": "里夫斯否认她在预算案临近时误导公众了解英国的财政状况",
+    "link": "https://www.bbc.com/news/articles/clyd38gp00eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 22:23:47 GMT",
+    "content": "保守党领袖凯米·巴德诺克表示，她对财政大臣否认撒谎感到不满，并呼吁她辞职。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2025-12-01T08:24:23.824Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cpvdn8pmmd1o#0",
+    "title": "“我看到他们开车压倒受伤的人”——苏丹战争中的可怕逃脱",
+    "link": "https://www.bbc.com/news/articles/cpvdn8pmmd1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 22:02:43 GMT",
+    "content": "BBC 探访了法希尔市陷落后人们正在避难的一个营地。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:04.756Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c1kpjwee3g7o#0",
+    "title": "保守党敦促金融监管机构就预算增加问题调查里夫斯和财政部",
+    "link": "https://www.bbc.com/news/articles/c1kpjwee3g7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 22:00:01 GMT",
+    "content": "影子财政大臣梅尔·斯特莱德呼吁金融监管机构在预算案前的简报中调查“可能的市场滥用行为”。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2025-12-01T08:24:24.845Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/formula1/articles/cz6817wyvgzo#0",
+    "title": "“卡塔尔大奖赛表明，三人冠军争夺战中任何事情都可能发生”",
+    "link": "https://www.bbc.com/sport/formula1/articles/cz6817wyvgzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 21:48:03 GMT",
+    "content": "一级方程式赛车即将进入 15 年来首次在两名以上车手之间进行的决赛冠军对决，任何事情都有可能发生。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:43.259Z",
+    "isImportant": true
+  },
+  {
+    "id": "https://techcrunch.com/?p=3071216",
+    "title": "新报告探讨了大卫·萨克斯如何从特朗普政府的角色中获利",
+    "link": "https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/",
+    "pubDate": "Sun, 30 Nov 2025 21:39:04 +0000",
+    "content": "根据一份新报告，大卫·萨克斯作为唐纳德·特朗普总统的人工智能和加密货币沙皇的角色可能会对他的投资产生很大的影响。 然而，萨克斯予以回击，称这个故事是“无意义的汉堡”。",
+    "source": "TechCrunch",
+    "category": "人工智能",
+    "fetchedAt": "2025-12-01T08:26:00.521Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/c23e4ez7gjlo#0",
+    "title": "谁入选了特洛伊本周英超最佳球队？",
+    "link": "https://www.bbc.com/sport/football/articles/c23e4ez7gjlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 21:37:58 GMT",
+    "content": "本赛季每轮英超比赛结束后，特洛伊·迪尼都会向我们推荐他的本周最佳球队。 你同意他的选择吗？",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:50.286Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/cde6l4egl5xo#0",
+    "title": "三届金球奖得主邦马蒂在训练中摔断腿",
+    "link": "https://www.bbc.com/sport/football/articles/cde6l4egl5xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 21:19:48 GMT",
+    "content": "西班牙中场球员艾塔娜·邦马蒂在训练中摔断腿后将长期缺席比赛。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:49.774Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c79x8x82gy4o#1",
+    "title": "Dignitas 创始人因协助自杀去世，享年 92 岁",
+    "link": "https://www.bbc.com/news/articles/c79x8x82gy4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 21:18:34 GMT",
+    "content": "路德维希·米内利 (Ludwig Minelli) 于 1998 年创立了该组织，此后该组织已帮助数千人走向死亡。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:11.740Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/clyd326v5dgo#0",
+    "title": "阿森纳错失扩大领先优势的“学习点”",
+    "link": "https://www.bbc.com/sport/football/articles/clyd326v5dgo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 20:58:07 GMT",
+    "content": "阿森纳以战平切尔西的方式结束了艰难的一周，但米克尔·阿尔特塔认为枪手“应该而且可以”在斯坦福桥获胜。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:48.449Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/cgmn1lnkrw4o#6",
+    "title": "凯尔特人队在苏格兰杯中迎战第六梯队奥金莱克·塔尔伯特",
+    "link": "https://www.bbc.com/sport/football/articles/cgmn1lnkrw4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 20:31:23 GMT",
+    "content": "上赛季被击败的苏格兰杯决赛入围者凯尔特人队在第四轮中被抽到了苏格兰西部联赛超级联赛球队奥金莱克塔尔伯特队，而卫冕冠军阿伯丁队则在主场对阵英冠球队拉斯流浪者队。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:20.813Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/cgmn1lnkrw4o#9",
+    "title": "苏格兰杯凯尔特人队战平第六梯队奥金莱克塔尔伯特",
+    "link": "https://www.bbc.com/sport/football/articles/cgmn1lnkrw4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 20:31:23 GMT",
+    "content": "上赛季被击败的苏格兰杯决赛入围者凯尔特人队在第四轮中被抽到了苏格兰西部联赛超级联赛球队奥金莱克塔尔伯特队，而卫冕冠军阿伯丁队则在主场对阵英冠球队拉斯流浪者队。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:37.785Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/boxing/articles/cy95dyjvy40o#0",
+    "title": "阿斯皮诺尔被诊断患有罕见的眼部疾病",
+    "link": "https://www.bbc.com/sport/boxing/articles/cy95dyjvy40o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 20:26:15 GMT",
+    "content": "汤姆·阿斯皮纳尔 (Tom Aspinall) 在 UFC 321 比赛中被西丽尔·甘恩 (Ciryl Gane) 意外戳伤双眼后，被诊断出患有罕见的眼部疾病。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:50.908Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://techcrunch.com/?p=3071213",
+    "title": "ChatGPT 三年前的今天推出",
+    "link": "https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/",
+    "pubDate": "Sun, 30 Nov 2025 20:14:09 +0000",
+    "content": "毫不夸张地说，ChatGPT 随后改变了商业和科技世界。",
+    "source": "TechCrunch",
+    "category": "人工智能",
+    "fetchedAt": "2025-12-01T08:26:00.864Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/videos/c0mp18821vmo#0",
+    "title": "10 人切尔西在激烈的伦敦德比中逼平阿森纳",
+    "link": "https://www.bbc.com/sport/football/videos/c0mp18821vmo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 19:59:48 GMT",
+    "content": "莫伊塞斯·凯塞多上半场被罚下场后，切尔西在斯坦福桥以 10 人的战绩将英超领头羊阿森纳逼迫成 1-1 平。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:47.729Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/videos/cwyxprj0gk8o#0",
+    "title": "利物浦战胜西汉姆联结束连败",
+    "link": "https://www.bbc.com/sport/football/videos/cwyxprj0gk8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 19:59:36 GMT",
+    "content": "亚历山大·伊萨克 (Alexander Isak) 攻入了他在利物浦的首个英超进球，阿内·斯洛特 (Arne Slot) 的球队客场 2-0 战胜西汉姆联 (West Ham)，结束了连败。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:52.014Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/videos/clyz7vp80n8o#1",
+    "title": "齐尔克泽和芒特帮助曼联在水晶宫取得逆转胜利",
+    "link": "https://www.bbc.com/sport/football/videos/clyz7vp80n8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 19:59:26 GMT",
+    "content": "约书亚·齐尔克泽打破了他长达 12 个月的英超联赛进球荒，随后梅森·芒特凭借一脚出色的任意球破门，帮助曼联在下半场逆转战胜水晶宫。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:54.146Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/videos/cjrj8l74y9po#4",
+    "title": "布莱顿击败诺丁汉森林排名第五",
+    "link": "https://www.bbc.com/sport/football/videos/cjrj8l74y9po?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 19:59:16 GMT",
+    "content": "凭借马克西姆·德库珀和斯特凡诺斯·齐马斯的进球，布莱顿以2-0击败诺丁汉森林，排名英超第五。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:11.825Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/videos/cr4d6w06y30o#1",
+    "title": "卡马拉绝技帮助维拉战胜狼队赢得德比",
+    "link": "https://www.bbc.com/sport/football/videos/cr4d6w06y30o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 19:59:08 GMT",
+    "content": "在维拉公园球场以 1-0 的德比战战胜狼队后，布巴卡尔·卡马拉打进一记令人惊叹的进球，帮助阿斯顿维拉升至英超第三。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:54.470Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/videos/c058m03818lo#4",
+    "title": "马雷斯卡赞扬切尔西对凯塞多红牌的“出色”反应",
+    "link": "https://www.bbc.com/sport/football/videos/c058m03818lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 19:46:24 GMT",
+    "content": "主教练恩佐·马雷斯卡称赞切尔西在中场球员莫伊塞斯·凯塞多上半场被罚下后在斯坦福桥以1-1战平英超领头羊阿森纳的“出色”反应。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:14.773Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvg81p61dnmo#1",
+    "title": "加利福尼亚州“生日派对”枪击事件中四名儿童丧生",
+    "link": "https://www.bbc.com/news/articles/cvg81p61dnmo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 19:10:41 GMT",
+    "content": "官员称，另有 11 人受伤，他们认为这是一次儿童生日聚会上发生的“有针对性”枪击事件。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:14.312Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/basketball/articles/cr7l2l5952eo#6",
+    "title": "英国队击败冰岛队赢得世界杯预选赛首场胜利",
+    "link": "https://www.bbc.com/sport/basketball/articles/cr7l2l5952eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 18:59:57 GMT",
+    "content": "英国队以90比82战胜冰岛队，取得2027年国际篮联世界杯预选赛首场胜利。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:24.240Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/c4gp0pjz442o#3",
+    "title": "罗尔的流浪者队陷入困境，“清晰的画面”浮现",
+    "link": "https://www.bbc.com/sport/football/articles/c4gp0pjz442o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 18:58:18 GMT",
+    "content": "丹尼·罗尔表示，自从他到来之后，流浪者队取得了进步，但在又一场平淡的主场平局后，球迷们可能会提出不同的看法。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:09.381Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/formula1/articles/c8r3kmykl2do#2",
+    "title": "诺里斯、皮亚斯特里和维斯塔潘需要什么才能赢得 F1 冠军？",
+    "link": "https://www.bbc.com/sport/formula1/articles/c8r3kmykl2do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 18:45:33 GMT",
+    "content": "兰多·诺里斯、奥斯卡·皮亚斯特里和马克斯·维斯塔潘各自需要什么才能获得 F1 车手头衔？",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:00.295Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/rugby-union/articles/c8jw7400190o#2",
+    "title": "巴斯在最后时刻战胜撒拉森人，登上榜首",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/c8jw7400190o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 18:32:22 GMT",
+    "content": "亨利·阿伦德尔最后时刻的射门帮助巴斯在萨拉森队取得了一场胜利，客队登上了普雷姆的榜首。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:02.664Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/cwygdgkg1yno#3",
+    "title": "维拉如何依靠远射进球数创纪录",
+    "link": "https://www.bbc.com/sport/football/articles/cwygdgkg1yno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 18:18:53 GMT",
+    "content": "阿斯顿维拉禁区外进球的比例比英超历史上任何一支球队都要高。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:10.626Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/c62dzdy9ez8o#0",
+    "title": "“这是没有萨拉赫的利物浦生活的开始吗？”",
+    "link": "https://www.bbc.com/sport/football/articles/c62dzdy9ez8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 18:09:45 GMT",
+    "content": "首席足球作家菲尔·麦克纳尔蒂问道，在萨拉赫在2-0战胜西汉姆联队的比赛中被淘汰后，这是否是利物浦在没有穆罕默德·萨拉赫的情况下生活的开始。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:45.344Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/cx2d0yen5r5o#6",
+    "title": "“这反映了我所经历的一切”——帕奎塔被红牌罚下",
+    "link": "https://www.bbc.com/sport/football/articles/cx2d0yen5r5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 18:05:12 GMT",
+    "content": "西汉姆联中场球员卢卡斯·帕奎塔表示，在0-2输给利物浦的比赛中他的红牌是在定点调查后“反映了我必须忍受的一切”。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:22.510Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/c4gp0z4xvwdo#2",
+    "title": "奥尼尔暂时留在凯尔特人......但是否应该停留更长时间？",
+    "link": "https://www.bbc.com/sport/football/articles/c4gp0z4xvwdo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 17:41:44 GMT",
+    "content": "马丁·奥尼尔现在认为，当邓迪周三造访时，他“很有可能”仍然执教凯尔特人队。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:01.888Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/snooker/videos/c70rwr9p997o#1",
+    "title": "最可爱的斯诺克选手来了！ 两岁的裘德走出去",
+    "link": "https://www.bbc.com/sport/snooker/videos/c70rwr9p997o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 17:35:49 GMT",
+    "content": "观看两岁的裘德·欧文斯在英国斯诺克锦标赛上模拟离场。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:57.156Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/cgkeme0641no#3",
+    "title": "制胜球手芒特的品质“毋庸置疑”",
+    "link": "https://www.bbc.com/sport/football/articles/cgkeme0641no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 17:34:05 GMT",
+    "content": "梅森·芒特在水晶宫为曼联攻入制胜球，并为客队在英超联赛中完成了他的第一个90分钟。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:07.131Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/videos/c9vjmrr189jo#4",
+    "title": "“莫对我们很重要”——斯洛特为放弃萨拉赫辩护",
+    "link": "https://www.bbc.com/sport/football/videos/c9vjmrr189jo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 16:49:26 GMT",
+    "content": "阿恩·斯洛特为自己在利物浦2-0战胜西汉姆联队后让穆罕默德·萨拉赫坐在替补席上的决定进行了辩护。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:12.413Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/c3w7197dj3do#8",
+    "title": "格拉斯纳：由于缺乏引援，水晶宫“放弃”了更好赛季的机会",
+    "link": "https://www.bbc.com/sport/football/articles/c3w7197dj3do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 16:48:14 GMT",
+    "content": "水晶宫主教练奥利弗·格拉斯纳批评俱乐部未能在夏季补强阵容，以便在欧洲足球的加入中保持竞争力。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:33.563Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/cricket/articles/cze8d8pwn52o#3",
+    "title": "印度击败南非，罗希特打破 ODI 六人制纪录",
+    "link": "https://www.bbc.com/sport/cricket/articles/cze8d8pwn52o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 16:47:21 GMT",
+    "content": "罗希特·夏尔马 (Rohit Sharma) 打破了沙希德 (Shahid) 由阿夫里迪 (Afridi) 保持的 15 年来单日国际比赛中最多六人的纪录，印度队在三场系列赛的首场比赛中击败了南非队。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:06.342Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/rugby-union/articles/cwyw79d47x9o#6",
+    "title": "格洛斯特-哈特普里重回巅峰 - PWR 综述",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cwyw79d47x9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 16:31:05 GMT",
+    "content": "格洛斯特-哈特普里队以 54-14 一边倒地战胜布里斯托尔熊队，重新回到英超女子橄榄球积分榜榜首。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:23.597Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/videos/c33m41x307do#4",
+    "title": "格拉斯纳猛烈抨击宫殿节俭：“一月窗口太晚了”",
+    "link": "https://www.bbc.com/sport/football/videos/c33m41x307do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 15:08:57 GMT",
+    "content": "水晶宫主教练奥利弗·格拉斯纳认为，考虑到他们的欧洲承诺，俱乐部应该在夏天花更多的钱，并认为一月份来增强他的球队已经太晚了。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:16.039Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/videos/cdj8d91jxdvo#7",
+    "title": "阿莫林：齐尔克泽对曼联的影响“巨大”",
+    "link": "https://www.bbc.com/sport/football/videos/cdj8d91jxdvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 15:03:44 GMT",
+    "content": "约书亚·齐尔克泽 (Joshua Zirkzee) 在 2-1 逆转水晶宫的比赛中进球后，鲁本·阿莫里姆 (Ruben Amorim) 赞扬了这位前锋。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:25.019Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c62vk7e0w4lo#4",
+    "title": "“债务压力正在导致心理健康问题”",
+    "link": "https://www.bbc.com/news/articles/c62vk7e0w4lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 14:55:29 GMT",
+    "content": "全科医生 Kamlesh Sreekissoon 博士表示，他的患者为了维持收支平衡而从事多种工作。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2025-12-01T08:24:38.529Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c075zd0j2j3o#1",
+    "title": "丈夫和妻子被指控使用间谍摄像机和耳机在澳大利亚赌场赢得近 60 万英镑",
+    "link": "https://www.bbc.com/news/articles/c075zd0j2j3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 14:42:53 GMT",
+    "content": "据称，这对夫妇在数周内使用了一系列设备（包括耳机）在纸牌游戏中作弊。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:10.380Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/cewjkn2ww8zo#8",
+    "title": "考虑修改守门员战术暂停的法律",
+    "link": "https://www.bbc.com/sport/football/articles/cewjkn2ww8zo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 13:48:03 GMT",
+    "content": "足球立法者正在讨论如果守门员受伤倒地，迫使球队暂时换下外场球员的举措，以打击利用漏洞创造“战术暂停”的球队。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:35.614Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/cm20j8p0qgeo#2",
+    "title": "“凝聚西汉姆精神的体现”",
+    "link": "https://www.bbc.com/sport/football/articles/cm20j8p0qgeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 13:45:25 GMT",
+    "content": "菲尔·麦克纳尔蒂写道，比利·邦兹去世，享年 79 岁，他是西汉姆联队历史上最伟大的球员之一，也是从未代表英格兰国家队出场过的最优秀球员之一。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:24:59.202Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/c865p45j3qeo#3",
+    "title": "皮划艇上的气候抗议者扰乱了澳大利亚港口的运营",
+    "link": "https://www.bbc.com/news/videos/c865p45j3qeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 13:08:54 GMT",
+    "content": "在世界最大煤炭出口港口之一的气候抗议活动中，数十人被捕。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:20.703Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cp34yk7z6yxo#1",
+    "title": "香港火灾死亡人数上升至146人 数千人悼念",
+    "link": "https://www.bbc.com/news/articles/cp34yk7z6yxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 12:13:41 GMT",
+    "content": "当局表示，作为刑事调查的一部分，他们已经完成了对七座塔楼中四座的搜查。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:12.733Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/boxing/articles/cre3wvq0e8eo#8",
+    "title": "惠特克在家遭窃后悬赏“巨额奖金”",
+    "link": "https://www.bbc.com/sport/boxing/articles/cre3wvq0e8eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 12:03:13 GMT",
+    "content": "英国轻重量级拳手本·惠特克在最近一场比赛归来后发现自己的家被盗，他将提供“巨额奖励”。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:37.067Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4gv76r5qpvo#1",
+    "title": "本杰明·内塔尼亚胡寻求以色列总统的赦免",
+    "link": "https://www.bbc.com/news/articles/c4gv76r5qpvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 11:49:50 GMT",
+    "content": "他否认在三项正在进行的有关贿赂、欺诈和违反信任指控的审判中存在任何不当行为。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:11.211Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/cricket/articles/c0l9160rk60o#8",
+    "title": "狮子队击败了十一世总理，贝瑟尔未能推动测试用例",
+    "link": "https://www.bbc.com/sport/cricket/articles/c0l9160rk60o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 11:13:31 GMT",
+    "content": "雅各布·贝塞尔 (Jacob Bethell) 打进 16 分，但未能在英格兰测试队中占据一席之地，英格兰雄狮队 (England Lions) 以八个边门的优势击败了首相的十一人队。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:36.467Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c5yq4rdrv1mo#4",
+    "title": "妈妈举办免费玩具交换活动，以帮助降低圣诞节费用",
+    "link": "https://www.bbc.com/news/articles/c5yq4rdrv1mo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 10:12:30 GMT",
+    "content": "Tzara Spurrier（网上称为 GlosBudgetMum）将在 Hesters Way 社区中心举办此次活动。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2025-12-01T08:24:39.300Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c93wnyxjkxko#1",
+    "title": "法国农场价值9万欧元的蜗牛被盗",
+    "link": "https://www.bbc.com/news/articles/c93wnyxjkxko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 08:45:37 GMT",
+    "content": "L'Escargot Des Grands Crus 表示，此次闯入事件是“一次真正的打击”，该公司正在为假日季的交货做准备。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:16.997Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c5y9ejley9do#0",
     "title": "东南亚洪水造成数百人死亡和失踪",
     "link": "https://www.bbc.com/news/articles/c5y9ejley9do?at_medium=RSS&at_campaign=rss",
@@ -44,6 +869,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.com/sport/boxing/articles/cpq4lr39lpzo#8",
+    "title": "TKV 获胜后重量级的下一步是什么？",
+    "link": "https://www.bbc.com/sport/boxing/articles/cpq4lr39lpzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 07:22:41 GMT",
+    "content": "杰米·“TKV”·茨希科娃 (Jeamie 'TKV' Tshikeva) 战胜弗雷泽·克拉克 (Frazer Clarke) 为英国重量级拳坛增添了新的维度，但世界其他重量级拳手呢？",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:34.639Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.com/sport/boxing/articles/cpq4lr39lpzo#3",
     "title": "TKV 获胜后重量级赛区下一步将何去何从？",
     "link": "https://www.bbc.com/sport/boxing/articles/cpq4lr39lpzo?at_medium=RSS&at_campaign=rss",
@@ -52,6 +888,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2025-11-30T08:26:05.270Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/rugby-union/articles/cqjgd0nyjn2o#8",
+    "title": "惨败成为常态——威尔士橄榄球将何去何从？",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cqjgd0nyjn2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 07:12:21 GMT",
+    "content": "BBC 威尔士体育频道询问威尔士橄榄球队在南非再次遭遇破纪录失利后将何去何从。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:32.413Z",
     "isImportant": false
   },
   {
@@ -77,6 +924,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.com/sport/boxing/videos/cgex199ely4o#7",
+    "title": "战斗之夜的幕后花絮",
+    "link": "https://www.bbc.com/sport/boxing/videos/cgex199ely4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 07:09:51 GMT",
+    "content": "我们在德比之战的战斗之夜走进幕后。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:28.644Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.com/sport/boxing/videos/cgex199ely4o#2",
     "title": "战斗之夜的幕后花絮",
     "link": "https://www.bbc.com/sport/boxing/videos/cgex199ely4o?at_medium=RSS&at_campaign=rss",
@@ -85,6 +943,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2025-11-30T08:26:01.323Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/cricket/articles/c5y90l4nnlyo#3",
+    "title": "粉球灰烬测试需要根本问题，但头部赞成",
+    "link": "https://www.bbc.com/sport/cricket/articles/c5y90l4nnlyo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 06:43:35 GMT",
+    "content": "英格兰队的乔·鲁特和澳大利亚队的特拉维斯·海德在板球最古老的对手之间的系列赛中表达了他们对粉球灰烬测试必要性的看法。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:04.991Z",
     "isImportant": false
   },
   {
@@ -99,6 +968,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.com/news/articles/cp9ky5z2gx0o#1",
+    "title": "乌克兰在黑海袭击油轮，加剧与俄罗斯的冲突",
+    "link": "https://www.bbc.com/news/articles/cp9ky5z2gx0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 06:22:36 GMT",
+    "content": "这两艘被无人机击中的船只被认为是用来绕开西方对俄罗斯的制裁的。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:13.391Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cp9ky5z2gx0o#0",
     "title": "乌克兰在黑海袭击油轮，加剧与俄罗斯的冲突",
     "link": "https://www.bbc.com/news/articles/cp9ky5z2gx0o?at_medium=RSS&at_campaign=rss",
@@ -107,6 +987,17 @@
     "source": "BBC News",
     "category": "国际",
     "fetchedAt": "2025-11-30T08:25:10.117Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c741mpdyw9no#1",
+    "title": "委内瑞拉谴责特朗普领空关闭警告",
+    "link": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 04:39:09 GMT",
+    "content": "美国表示正在打击毒品走私，但委内瑞拉表示唐纳德·特朗普的目标是推翻总统尼古拉斯·马杜罗。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:15.158Z",
     "isImportant": false
   },
   {
@@ -140,6 +1031,17 @@
     "source": "BBC News",
     "category": "国际",
     "fetchedAt": "2025-11-30T08:25:15.729Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/cy5gn3vpxpno#3",
+    "title": "观看：巨大火球摧毁悉尼垃圾处理设施的瞬间",
+    "link": "https://www.bbc.com/news/videos/cy5gn3vpxpno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 30 Nov 2025 01:04:19 GMT",
+    "content": "澳大利亚悉尼西部北圣玛丽的一个大型化学品罐被大火炸到空中。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:21.569Z",
     "isImportant": false
   },
   {
@@ -187,6 +1089,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.com/sport/football/videos/c741k8gy9njo#7",
+    "title": "福登让曼城“出狱”有多棒",
+    "link": "https://www.bbc.com/sport/football/videos/c741k8gy9njo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Nov 2025 23:59:28 GMT",
+    "content": "《今日比赛》的乔·哈特分析了菲尔·福登如何在曼城 3-2 战胜利兹联的比赛中将伊蒂哈德球场打造成“他的舞池”，并梅开二度，其中包括最后时刻的制胜球。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:27.584Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.com/sport/football/videos/c741k8gy9njo#2",
     "title": "福登让曼城“出狱”有多棒",
     "link": "https://www.bbc.com/sport/football/videos/c741k8gy9njo?at_medium=RSS&at_campaign=rss",
@@ -195,6 +1108,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2025-11-30T08:25:59.782Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/videos/czj0ed7p81go#7",
+    "title": "分析：维卡里奥的错误给弗兰克带来了更大的压力",
+    "link": "https://www.bbc.com/sport/football/videos/czj0ed7p81go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Nov 2025 23:59:21 GMT",
+    "content": "每日比赛评论员乔·哈特和丹尼·墨菲分析了古列尔莫·维卡里奥在托特纳姆热刺队犯下的错误，这使得富勒姆的哈里·威尔逊能够创作出“一件艺术品”，并增加了热刺主教练托马斯·弗兰克的压力。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:31.171Z",
     "isImportant": false
   },
   {
@@ -231,6 +1155,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.com/news/articles/c8e97kl240lo#1",
+    "title": "哈马斯卫生部称，自以色列发动进攻以来，加沙已有超过 7 万人死亡",
+    "link": "https://www.bbc.com/news/articles/c8e97kl240lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Nov 2025 23:16:22 GMT",
+    "content": "据报道，由于加沙停火协议仍然脆弱，以色列发动空袭，最新遇难者中有两名弟弟。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:15.987Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c8e97kl240lo#0",
     "title": "哈马斯卫生部称，自以色列发动进攻以来，加沙已有超过 7 万人死亡",
     "link": "https://www.bbc.com/news/articles/c8e97kl240lo?at_medium=RSS&at_campaign=rss",
@@ -250,6 +1185,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2025-11-30T08:26:09.067Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/boxing/videos/c14vjlyggezo#7",
+    "title": "TKV 以分歧判定战胜克拉克，夺得英国重量级冠军",
+    "link": "https://www.bbc.com/sport/boxing/videos/c14vjlyggezo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Nov 2025 23:13:07 GMT",
+    "content": "杰米·“TKV”·奇凯娃以分歧判定击败弗雷泽·克拉克，夺得英国重量级拳王头衔，评委们分别以 115-113 和 115-112 的比分判定 TKV 获胜，而第三位评委则以 115-112 判定克拉克获胜。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:29.930Z",
     "isImportant": false
   },
   {
@@ -572,6 +1518,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.com/news/articles/cvgj85x380do#1",
+    "title": "“商业费率变化将花费我 62,000 英镑”",
+    "link": "https://www.bbc.com/news/articles/cvgj85x380do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Nov 2025 18:07:57 GMT",
+    "content": "酒吧老板警告说，尽管有政府的支持，他们仍面临商业利率大幅上涨的情况。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2025-12-01T08:24:27.102Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cvgj85x380do#0",
     "title": "“商业费率变化将花费我 62,000 英镑”",
     "link": "https://www.bbc.com/news/articles/cvgj85x380do?at_medium=RSS&at_campaign=rss",
@@ -737,6 +1694,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.com/news/articles/cz0nljm4y74o#2",
+    "title": "泽连斯基高级助手倒台——基辅重启还是代价高昂的改组？",
+    "link": "https://www.bbc.com/news/articles/cz0nljm4y74o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Nov 2025 11:29:35 GMT",
+    "content": "日益扩大的腐败丑闻迫使乌克兰第二号人物安德烈·叶尔马克辞职。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2025-12-01T08:24:19.372Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cz0nljm4y74o#0",
     "title": "泽连斯基高级助手倒台——基辅重启还是代价高昂的改组？",
     "link": "https://www.bbc.com/news/articles/cz0nljm4y74o?at_medium=RSS&at_campaign=rss",
@@ -814,6 +1782,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.com/sport/snooker/articles/cy07gex946eo#12",
+    "title": "为何斯诺克黄金一代50岁依然光芒四射",
+    "link": "https://www.bbc.com/sport/snooker/articles/cy07gex946eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Nov 2025 07:07:25 GMT",
+    "content": "当罗尼·奥沙利文像马克·威廉姆斯和约翰·希金斯一样准备迎来 50 岁生日时，BBC 体育频道探讨了为什么 92 届选手仍然处于斯诺克运动的顶端。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:45.412Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.com/sport/snooker/articles/cy07gex946eo#7",
     "title": "为何斯诺克黄金一代50岁依然光芒四射",
     "link": "https://www.bbc.com/sport/snooker/articles/cy07gex946eo?at_medium=RSS&at_campaign=rss",
@@ -822,6 +1801,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2025-11-30T08:26:24.468Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/sport/football/articles/cgex9v57q0eo#12",
+    "title": "倒着说，13岁当主帅——索尔斯克亚的故事",
+    "link": "https://www.bbc.com/sport/football/articles/cgex9v57q0eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Nov 2025 06:55:01 GMT",
+    "content": "索尔斯克亚讨论了曼联、如果他不从事足球事业的话他会选择什么职业，以及他想执教的球队。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:44.108Z",
     "isImportant": false
   },
   {
@@ -902,6 +1892,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.com/sport/articles/cdj8dxpl9m9o#12",
+    "title": "世界杯上令人惊讶的成功故事",
+    "link": "https://www.bbc.com/sport/articles/cdj8dxpl9m9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Nov 2025 17:38:14 GMT",
+    "content": "扩大赛制意味着一批较小的国家有资格参加世界杯。 以下是一些寻求克服困难的弱势局外人。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:48.092Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.com/sport/articles/cdj8dxpl9m9o#13",
     "title": "世界杯上令人惊讶的成功故事",
     "link": "https://www.bbc.com/sport/articles/cdj8dxpl9m9o?at_medium=RSS&at_campaign=rss",
@@ -946,6 +1947,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.com/news/articles/cd9zqx5k8yno#1",
+    "title": "部长捍卫工人权利的“务实”转变",
+    "link": "https://www.bbc.com/news/articles/cd9zqx5k8yno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Nov 2025 15:11:06 GMT",
+    "content": "布里奇特·菲利普森 (Bridget Phillipson) 告诉英国广播公司 (BBC)，这种让步将使更广泛的利益能够迅速实现。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2025-12-01T08:24:28.776Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cd9zqx5k8yno#0",
     "title": "部长捍卫工人权利的“务实”转变",
     "link": "https://www.bbc.com/news/articles/cd9zqx5k8yno?at_medium=RSS&at_campaign=rss",
@@ -965,6 +1977,17 @@
     "source": "TechCrunch",
     "category": "人工智能",
     "fetchedAt": "2025-11-30T08:27:03.683Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cev8ed9klz1o#1",
+    "title": "没有其他收入的国家养老金领取者将不纳税",
+    "link": "https://www.bbc.com/news/articles/cev8ed9klz1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Nov 2025 13:51:12 GMT",
+    "content": "财政大臣表示，那些只领取国家养老金的人在 2030 年之前无需缴纳所得税。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2025-12-01T08:24:28.048Z",
     "isImportant": false
   },
   {
@@ -1133,6 +2156,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.com/sport/football/articles/clyx479y9y8o#12",
+    "title": "为什么 xG 不能总是告诉我们一支球队到底有多优秀",
+    "link": "https://www.bbc.com/sport/football/articles/clyx479y9y8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Nov 2025 07:15:01 GMT",
+    "content": "如果您查看上周英超联赛的预期进球数，您可能会认为该统计数据完全是垃圾。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:46.791Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.com/sport/football/articles/clyx479y9y8o#13",
     "title": "为什么 xG 不能总是告诉我们一支球队到底有多优秀",
     "link": "https://www.bbc.com/sport/football/articles/clyx479y9y8o?at_medium=RSS&at_campaign=rss",
@@ -1144,6 +2178,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.com/sport/cricket/articles/cde697wl1elo#5",
+    "title": "766 以及所有这一切——当库克征服澳大利亚时",
+    "link": "https://www.bbc.com/sport/cricket/articles/cde697wl1elo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Nov 2025 07:13:22 GMT",
+    "content": "距他在加巴完成史诗般的 235 场比赛整整 15 年了，阿拉斯泰尔·库克 (Alastair Cook) 讲述了他如何在 2010-11 赛季英格兰灰烬杯巡回赛中征服澳大利亚。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2025-12-01T08:25:17.390Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.com/sport/cricket/articles/cde697wl1elo#6",
     "title": "766 以及所有这一切——当库克征服澳大利亚时",
     "link": "https://www.bbc.com/sport/cricket/articles/cde697wl1elo?at_medium=RSS&at_campaign=rss",
@@ -1152,1055 +2197,6 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2025-11-30T08:26:19.065Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/sport/boxing/videos/c8xde0rqv80o#8",
-    "title": "投毒、复仇和摔跤——TKV 非凡的背景故事",
-    "link": "https://www.bbc.com/sport/boxing/videos/c8xde0rqv80o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 28 Nov 2025 06:50:32 GMT",
-    "content": "Jeamie 'TKV' Tshikeva 告诉 BBC Sport，他的家人是如何在蒙博托·塞塞·塞科 (Mobutu Sese Seko) 扎伊尔的关键人物后来到托特纳姆热刺定居的。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2025-11-30T08:26:25.561Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx2evx9l0y2o#4",
-    "title": "慈善机构表示，这个黑色星期五不要买新东西",
-    "link": "https://www.bbc.com/news/articles/cx2evx9l0y2o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 28 Nov 2025 06:34:36 GMT",
-    "content": "迪维兹的一家慈善机构正在支持全国“不买新东西”活动——这是黑色星期五的替代方案。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:41.022Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c751xw96e9yo#0",
-    "title": "船只会成为 3D 打印技术的突破吗？",
-    "link": "https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 28 Nov 2025 00:10:39 GMT",
-    "content": "荷兰公司押注用 3D 打印机制造的船体将意味着船只更便宜。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:23.147Z",
-    "isImportant": false
-  },
-  {
-    "id": "108232454",
-    "title": "人工智能交易“开绿灯”：两位 ETF 高管认为市场正在发生重大转变",
-    "link": "https://www.cnbc.com/2025/11/27/green-light-away-from-ai-trade-two-etf-ceos-see-a-key-market-shift.html",
-    "pubDate": "Thu, 27 Nov 2025 21:00:01 GMT",
-    "content": "市场可能已进入新周期。 原因如下。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:43.940Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/sport/football/articles/c4g4r81l03po#7",
-    "title": "萨顿对说唱歌手科菲·斯通的预测",
-    "link": "https://www.bbc.com/sport/football/articles/c4g4r81l03po?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 20:37:02 GMT",
-    "content": "BBC 体育足球专家克里斯·萨顿 (Chris Sutton) 与说唱歌手科菲·斯通 (Kofi Stone) 和人工智能 (AI) 进行了对本周末英超联赛比赛的预测。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2025-11-30T08:26:21.212Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3071132",
-    "title": "这个感恩节真正的戏剧可能是迈克尔·伯里 (Michael Burry) 与英伟达 (Nvidia) 的较量",
-    "link": "https://techcrunch.com/2025/11/27/this-thanksgivings-real-drama-may-be-michael-burry-versus-nvidia/",
-    "pubDate": "Thu, 27 Nov 2025 19:32:21 +0000",
-    "content": "伯里是煤矿里的金丝雀，警告煤矿崩溃不可避免吗？ 或者他的名气、他的业绩记录、他现在不受限制的声音以及快速增长的观众是否会引发他所预测的内爆？",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:04.089Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cqxq87nz3j2o#6",
-    "title": "BBC 与警方一起打击犯罪网络",
-    "link": "https://www.bbc.com/news/videos/cqxq87nz3j2o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 19:11:30 GMT",
-    "content": "英国广播公司新闻对在高街活动的有组织犯罪团伙进行调查后，三名男子在黎明突袭中被捕。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:44.802Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwyx4zpp0n0o#1",
-    "title": "雷切尔·里夫斯的预算案中谁是赢家和输家？",
-    "link": "https://www.bbc.com/news/articles/cwyx4zpp0n0o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 18:23:07 GMT",
-    "content": "BBC verify 调查了我们所了解的预算可能对不同群体产生的财务影响。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:27.528Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy0l19j9jgko#0",
-    "title": "工人权利的变化将如何影响您？",
-    "link": "https://www.bbc.com/news/articles/cy0l19j9jgko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 18:14:53 GMT",
-    "content": "工人权利的重大变革即将到来，但它将产生什么影响？",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:22.773Z",
-    "isImportant": false
-  },
-  {
-    "id": "108233065",
-    "title": "报告称美国证券交易委员会就第一品牌倒闭事件调查杰富瑞",
-    "link": "https://www.cnbc.com/2025/11/27/sec-investigates-jefferies-over-first-brands-collapse-report-says.html",
-    "pubDate": "Thu, 27 Nov 2025 18:02:34 GMT",
-    "content": "英国《金融时报》表示，美国证券交易委员会正在调查杰富瑞是否向投资者提供了有关他们在这家失败的汽车业务中的风险敞口的足够信息。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:44.446Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c23ev9r40ero#1",
-    "title": "BBC 调查高街犯罪网络后逮捕了三人",
-    "link": "https://www.bbc.com/news/articles/c23ev9r40ero?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 18:00:10 GMT",
-    "content": "两名伊朗男子和一名英国男子在伯明翰和西米德兰兹郡遭到袭击后被拘留。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:25.366Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/sport/football/videos/cqxq87502yyo#8",
-    "title": "利物浦必须“共同战斗”度过困难时期",
-    "link": "https://www.bbc.com/sport/football/videos/cqxq87502yyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 17:47:49 GMT",
-    "content": "周三在安菲尔德惨遭埃因霍温4-1惨败后，主帅阿恩·斯洛特表示利物浦必须“共同战斗”，这是红军12场比赛中的第9场失利，这是他们71年来最糟糕的一场失利。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2025-11-30T08:26:27.711Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c75vwevr652o#1",
-    "title": "IFS表示，家庭消费能力面临“惨淡”增长",
-    "link": "https://www.bbc.com/news/articles/c75vwevr652o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 16:35:50 GMT",
-    "content": "该智囊团表示，未来五年平均可支配收入预计每年“仅”增长 0.5%。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:25.001Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1e4lyz77jqo#1",
-    "title": "银行业巨头将在金丝雀码头建造大型新塔楼",
-    "link": "https://www.bbc.com/news/articles/c1e4lyz77jqo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 15:49:28 GMT",
-    "content": "全球最大的银行公司之一宣布计划建造一个“比碎片大厦还大”的新总部。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:26.752Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/sport/boxing/videos/cn7kr5zym2lo#8",
-    "title": "“永远不要给我贴上暴徒的标签”——克拉克和 TKV 对峙",
-    "link": "https://www.bbc.com/sport/boxing/videos/cn7kr5zym2lo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 15:40:13 GMT",
-    "content": "英国重量级选手杰米·“TKV”·茨科娃指责英国同胞弗雷泽·克拉克“不尊重”，并表示“永远不要给我贴上暴徒的标签”，两人在周六的比赛前发生了口头争吵。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2025-11-30T08:26:29.929Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwyg3w9vexzo#1",
-    "title": "西蒙·杰克：企业留下的疑问是——增长发生了什么？",
-    "link": "https://www.bbc.com/news/articles/cwyg3w9vexzo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 15:27:37 GMT",
-    "content": "今年的预算中，重大的亲商措施很少。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:24.649Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cgmn991pz9jo#1",
-    "title": "OBR 因预算分析发布不当而召集网络专家",
-    "link": "https://www.bbc.com/news/articles/cgmn991pz9jo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 13:19:51 GMT",
-    "content": "在记者提前获得该文件后，雷切尔·里夫斯的声明陷入混乱。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:29.005Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cq5ql70pd4go#1",
-    "title": "经典莫里斯货车将进行 21 世纪全电动改造",
-    "link": "https://www.bbc.com/news/articles/cq5ql70pd4go?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 13:09:22 GMT",
-    "content": "20 世纪 50 年代常见的经典货车的全电动版本即将投入生产。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:30.618Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy0pn8xrgrdo#1",
-    "title": "罗宾逊表示，苏格兰所得税计划没有变化",
-    "link": "https://www.bbc.com/news/articles/cy0pn8xrgrdo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 12:53:34 GMT",
-    "content": "财政部长表示，一月份的预算不会提高利率，也不会引入新的利率区间。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:29.747Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/c3w7e2p48l7o#3",
-    "title": "视频显示香港塔楼火速蔓延",
-    "link": "https://www.bbc.com/news/videos/c3w7e2p48l7o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 12:52:23 GMT",
-    "content": "BBC verify 的地理定位视频显示宏昌楼发生火灾。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2025-11-30T08:25:19.240Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn4dxmg7jyjo#1",
-    "title": "如果您未满 25 岁，预算可能会对您产生九种影响",
-    "link": "https://www.bbc.com/news/articles/cn4dxmg7jyjo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 12:10:34 GMT",
-    "content": "财政大臣的预算包含一系列特别影响年轻人的措施。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:27.121Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c9d6zwppjvjo#1",
-    "title": "“我的收入为 20,000 英镑，和儿子住在一起。 预算案意味着我们将缴纳更多税款”",
-    "link": "https://www.bbc.com/news/articles/c9d6zwppjvjo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 11:38:39 GMT",
-    "content": "BBC 新闻听取了不同收入人群对预算的看法。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:29.405Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/c36ze8rkl66o#6",
-    "title": "“我没想到会这样”——最低工资的讨论让一些人感到震惊",
-    "link": "https://www.bbc.com/news/videos/c36ze8rkl66o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 08:55:40 GMT",
-    "content": "BBC 的泰勒·爱德华兹 (Tyler Edwards) 询问卡迪夫 25 岁以下的年轻人，他们是否认为最低工资上涨足够。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:45.727Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/sport/tennis/articles/cy9p7x1x7e1o#13",
-    "title": "世界顶尖选手如何引领英国双打热潮",
-    "link": "https://www.bbc.com/sport/tennis/articles/cy9p7x1x7e1o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 08:48:01 GMT",
-    "content": "朱利安·卡什（Julian Cash）和劳埃德·格拉斯普尔（Lloyd Glasspool）向英国广播公司体育频道（BBC Sport）讲述了今年作为世界排名第一的双打组合的情况，以及为什么英国双打的状态如此之好。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2025-11-30T08:26:38.856Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sounds/play/p0mk3c6d#6",
-    "title": "测试赛特别节目：英格兰有权坚持 A 计划 - 斯图尔特",
-    "link": "https://www.bbc.co.uk/sounds/play/p0mk3c6d?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 08:27:00 GMT",
-    "content": "埃莉诺·奥尔德罗伊德 (Eleanor Oldroyd) 和嘉宾带来了布里斯班的最新消息，英格兰队正在为加巴做准备。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2025-11-30T08:26:20.150Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce86n44178no#1",
-    "title": "朝日称 150 万客户数据可能因网络攻击而泄露",
-    "link": "https://www.bbc.com/news/articles/ce86n44178no?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 03:41:46 GMT",
-    "content": "9 月份的勒索软件攻击导致朝日啤酒的日本业务瘫痪，并导致饮料短缺。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:30.974Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/c1e4ld1830yo#3",
-    "title": "观看：黎明航拍镜头揭示了香港公寓火灾的规模",
-    "link": "https://www.bbc.com/news/videos/c1e4ld1830yo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 03:28:52 GMT",
-    "content": "今早仍有超过800名消防员在宏福苑灭火。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2025-11-30T08:25:19.622Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cewj1e1yk2vo#2",
-    "title": "水力压裂技术改变了阿根廷的一座小镇，但这个国家又如何呢？",
-    "link": "https://www.bbc.com/news/articles/cewj1e1yk2vo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Nov 2025 00:02:47 GMT",
-    "content": "阿根廷希望石油和天然气的繁荣能够惠及整个国家。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:32.680Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cly1k34y426o#3",
-    "title": "观看：两名国民警卫队成员被枪杀的过程",
-    "link": "https://www.bbc.com/news/videos/cly1k34y426o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Nov 2025 23:27:17 GMT",
-    "content": "这两名士兵在华盛顿特区白宫附近几个街区遭到袭击后，情况危急。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2025-11-30T08:25:20.019Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=2976754",
-    "title": "以下是 2025 年筹集到 1 亿美元或以上资金的 49 家美国人工智能初创公司",
-    "link": "https://techcrunch.com/2025/11/26/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/",
-    "pubDate": "Wed, 26 Nov 2025 20:48:58 +0000",
-    "content": "去年对于美国及其他地区的人工智能行业来说是具有里程碑意义的一年。 2025 年相比如何？",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:05.276Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3070931",
-    "title": "OpenAI 声称青少年在自杀前规避了 ChatGPT 帮助策划的安全功能",
-    "link": "https://techcrunch.com/2025/11/26/openai-claims-teen-circumvented-safety-features-before-suicide-that-chatgpt-helped-plan/",
-    "pubDate": "Wed, 26 Nov 2025 20:26:36 +0000",
-    "content": "8 月，父母 Matthew 和 Maria Raine 就其 16 岁儿子 Adam 自杀事件起诉 OpenAI 及其首席执行官 Sam Altman，指控该公司过失致人死亡。 周二，OpenAI 自己提交了一份文件来回应这起诉讼，称自己不应该对这名青少年的死亡负责。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:05.645Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cj4w44w42j5o#1",
-    "title": "2025 年预算：要点一览",
-    "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Nov 2025 19:35:05 GMT",
-    "content": "税收、养老金和福利的变化——以下是您需要从 Rachel Reevesher 第二次预算中了解的内容。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:31.695Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=2607630",
-    "title": "ChatGPT：关于人工智能聊天机器人您需要了解的一切",
-    "link": "https://techcrunch.com/2025/11/26/chatgpt-everything-to-know-about-the-ai-chatbot/",
-    "pubDate": "Wed, 26 Nov 2025 19:33:39 +0000",
-    "content": "ChatGPT 产品更新和发布的时间表，从最新的开始，我们全年都在更新。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:06.045Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cd9zx8z5d1no#1",
-    "title": "工作场所养老金工资牺牲税减免",
-    "link": "https://www.bbc.com/news/articles/cd9zx8z5d1no?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Nov 2025 18:46:21 GMT",
-    "content": "一些养老金储蓄者在不缴纳国民保险的情况下，可以存入养老金的金额可能会受到影响。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:32.046Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cyvg3en12r1o#1",
-    "title": "费萨尔·伊斯兰：里夫斯让你缴纳更多税款的真正原因",
-    "link": "https://www.bbc.com/news/articles/cyvg3en12r1o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Nov 2025 18:42:24 GMT",
-    "content": "这是为了在政治和经济上争取喘息空间。 这两个因素现在密不可分。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:28.337Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c8jw9l7gx92o#1",
-    "title": "电动车车主将面临按英里付费税",
-    "link": "https://www.bbc.com/news/articles/c8jw9l7gx92o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Nov 2025 18:10:54 GMT",
-    "content": "从 2028 年 4 月起，电动汽车驾驶员将支付每英里 3 便士的道路费，而插电式混合动力汽车驾驶员将支付每英里 1.5 便士。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:32.346Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clydn7r5pn1o#1",
-    "title": "财政大臣如何从你未来的工资中扣除一大笔",
-    "link": "https://www.bbc.com/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Nov 2025 17:21:13 GMT",
-    "content": "您开始纳税的时间点以及您支付更高税率的时间点已被冻结三年。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:31.326Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3070868",
-    "title": "马斯克的 xAI 将在 Colossus 数据中心附近建造小型太阳能发电厂",
-    "link": "https://techcrunch.com/2025/11/26/musks-xai-to-build-small-solar-farm-adjacent-to-colossus-data-center/",
-    "pubDate": "Wed, 26 Nov 2025 17:19:04 +0000",
-    "content": "这家人工智能公司表示，它正在与一家开发商合作，在孟菲斯工厂旁边占地 88 英亩的土地上建造一个太阳能发电厂。 考虑到拟议的规模，太阳能发电厂可能会产生约 30 兆瓦的电力，仅占数据中心预计用电量的 10% 左右。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:06.344Z",
-    "isImportant": false
-  },
-  {
-    "id": "108232531",
-    "title": "中午涨幅最大的股票：戴尔、Arrowhead Pharmaceuticals、Urban Outfitters 等",
-    "link": "https://www.cnbc.com/2025/11/26/stocks-making-the-biggest-moves-midday-dell-arwr-urbn.html",
-    "pubDate": "Wed, 26 Nov 2025 17:06:02 GMT",
-    "content": "这些是午盘涨幅最大的股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:45.427Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3070834",
-    "title": "你秃头了吗？ 有一个人工智能可以做到这一点",
-    "link": "https://techcrunch.com/2025/11/26/are-you-balding-theres-an-ai-for-that/",
-    "pubDate": "Wed, 26 Nov 2025 16:44:08 +0000",
-    "content": "MyHair AI 检查头皮照片，帮助诊断脱发，并建议经过科学验证的诊所和治疗方法。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:06.700Z",
-    "isImportant": false
-  },
-  {
-    "id": "108232364",
-    "title": "盘前涨幅最大的股票：迪尔 (Deere)、戴尔技术 (Dell Technologies)、惠普 (HP)、欧特克 (Autodesk) 等",
-    "link": "https://www.cnbc.com/2025/11/26/stocks-making-the-biggest-moves-premarket-de-dell-hpq-adsk.html",
-    "pubDate": "Wed, 26 Nov 2025 14:28:12 GMT",
-    "content": "这些是早盘交易中涨幅最大的股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:45.789Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5y2g2qn0eyo#1",
-    "title": "Isas、汽车和养老金：预算如何影响您",
-    "link": "https://www.bbc.com/news/articles/c5y2g2qn0eyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Nov 2025 13:57:21 GMT",
-    "content": "财政大臣雷切尔·里夫斯 (Rachel Reeves) 提交的预算将影响您和您的财务状况。 方法如下。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:27.913Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/sport/cricket/articles/cz7nq3e9ygno#6",
-    "title": "澳大利亚的击球越来越难了吗？",
-    "link": "https://www.bbc.com/sport/cricket/articles/cz7nq3e9ygno?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Nov 2025 12:22:23 GMT",
-    "content": "在澳大利亚和英格兰进行了 104 年来首次为期两天的灰烬测试后，首席板球记者斯蒂芬·谢米尔特 (Stephan Shemilt) 探讨了原因，并询问该系列赛的其余部分是否可以快进进行。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2025-11-30T08:26:20.491Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/sport/formula1/articles/c4g9791d0nko#14",
-    "title": "迈凯伦赛季内部 - 规则、价值观、事件和关系",
-    "link": "https://www.bbc.com/sport/formula1/articles/c4g9791d0nko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Nov 2025 12:00:22 GMT",
-    "content": "球队内部的冠军争夺战往往会变得有毒。 安德鲁·本森分析了迈凯伦如何保持兰多·诺里斯和奥斯卡·皮亚斯特里之间的相对和谐。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2025-11-30T08:26:40.144Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3070538",
-    "title": "Onton 融资 750 万美元，将其人工智能驱动的购物网站扩展到家具以外的领域",
-    "link": "https://techcrunch.com/2025/11/26/onton-raises-7-5m-to-expand-its-ai-powered-shopping-site-beyond-furniture/",
-    "pubDate": "Wed, 26 Nov 2025 12:00:00 +0000",
-    "content": "Onton（原名 Deft）更名为 Onton，它为用户提供了一个由人工智能驱动的图像生成的无限画布，以促使他们更快地做出购买决定。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:07.988Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/sport/boxing/articles/ce3kdxx0gq0o#13",
-    "title": "“他们让我在头巾和拳击之间做出选择”",
-    "link": "https://www.bbc.com/sport/boxing/articles/ce3kdxx0gq0o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Nov 2025 08:11:53 GMT",
-    "content": "德国选手泽娜·纳萨尔 (Zeina Nassar) 将于周三首次亮相职业比赛，她如何改写了拳击比赛中戴头巾的规则。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2025-11-30T08:26:39.274Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/iplayer/episode/m002mrgq?at_mid=m9klBe7Sw5&at_campaign=The_Idea_Of_You&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002mrgq&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Idea_Of_You&at_bbc_team=BBC&at_creation=Film#11",
-    "title": "观看安妮·海瑟薇主演的屡获殊荣的浪漫喜剧",
-    "link": "https://www.bbc.co.uk/iplayer/episode/m002mrgq?at_mid=m9klBe7Sw5&at_campaign=The_Idea_Of_You&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002mrgq&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Idea_Of_You&at_bbc_team=BBC&at_creation=Film",
-    "pubDate": "Wed, 26 Nov 2025 00:31:08 GMT",
-    "content": "一位母亲带女儿去参加音乐节，并意外坠入爱河。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2025-11-30T08:26:35.572Z",
-    "isImportant": false
-  },
-  {
-    "id": "108232037",
-    "title": "盘后涨幅最大的股票：惠普公司 (HP Inc.)、戴尔技术公司 (Dell Technologies)、Urban Outfitters 等",
-    "link": "https://www.cnbc.com/2025/11/25/stocks-making-the-biggest-moves-after-hours-hpq-dell-urbn.html",
-    "pubDate": "Tue, 25 Nov 2025 22:29:37 GMT",
-    "content": "这些是在盘中交易中涨幅最大的股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:46.214Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3070628",
-    "title": "角色人工智能将为孩子们提供互动“故事”，而不是开放式聊天",
-    "link": "https://techcrunch.com/2025/11/25/character-ai-will-offer-interactive-stories-to-kids-instead-of-open-ended-chat/",
-    "pubDate": "Tue, 25 Nov 2025 21:22:04 +0000",
-    "content": "该公司上个月宣布，将不再允许未成年人使用其聊天功能。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:08.340Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3070641",
-    "title": "ChatGPT的语音模式不再是一个单独的界面",
-    "link": "https://techcrunch.com/2025/11/25/chatgpts-voice-mode-is-no-longer-a-separate-interface/",
-    "pubDate": "Tue, 25 Nov 2025 20:04:52 +0000",
-    "content": "ChatGPT 现在允许您在同一屏幕中使用语音和文本，随着实时出现的响应和视觉效果，使对话感觉更加自然。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:08.708Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3070646",
-    "title": "华纳音乐与人工智能音乐初创公司 Suno 签署协议并达成和解诉讼",
-    "link": "https://techcrunch.com/2025/11/25/warner-music-signs-deal-with-ai-music-startup-suno-settles-lawsuit/",
-    "pubDate": "Tue, 25 Nov 2025 19:57:31 +0000",
-    "content": "WMG 表示，艺术家和歌曲作者将完全控制他们的名字、图像、肖像、声音和作品是否以及如何在新的人工智能生成的音乐中使用。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:09.326Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3070345",
-    "title": "OpenAI 和 Perplexity 正在推出人工智能购物助手，但竞争对手的初创公司并不在意",
-    "link": "https://techcrunch.com/2025/11/25/openai-and-perplexity-are-launching-ai-shopping-assistants-but-competing-startups-arent-sweating-it/",
-    "pubDate": "Tue, 25 Nov 2025 19:35:06 +0000",
-    "content": "构建人工智能购物工具的初创公司创始人认为通用模型过于宽泛，无法提供真正个性化的购物体验。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:09.733Z",
-    "isImportant": false
-  },
-  {
-    "id": "108231669",
-    "title": "英伟达在秘密备忘录中点名迈克尔·伯里，反驳人工智能泡沫指控",
-    "link": "https://www.cnbc.com/2025/11/25/nvidia-pushes-back-on-charges-that-ai-investment-is-a-bubble.html",
-    "pubDate": "Tue, 25 Nov 2025 19:10:57 GMT",
-    "content": "这家芯片制造商悄悄向分析师分发了一份私人备忘录，其中明确点名了投资者迈克尔·伯里(Michael Burry)，并反驳了他的许多说法。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:47.063Z",
-    "isImportant": false
-  },
-  {
-    "id": "108231793",
-    "title": "中午涨幅最大的股票：Abercrombie & Fitch、Nvidia、Coinbase、Symbotic 等",
-    "link": "https://www.cnbc.com/2025/11/25/stocks-making-the-biggest-moves-midday-anf-nvda-coin-sym-more.html",
-    "pubDate": "Tue, 25 Nov 2025 17:20:31 GMT",
-    "content": "这些是午盘交易中涨幅最大的股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:46.636Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3070583",
-    "title": "微软人工智能聊天机器人 Copilot 于 1 月 15 日离开 WhatsApp",
-    "link": "https://techcrunch.com/2025/11/25/microsofts-ai-chatbot-copilot-leaves-whatsapp-on-january-15/",
-    "pubDate": "Tue, 25 Nov 2025 17:11:55 +0000",
-    "content": "WhatsApp 的新平台政策禁止 Copilot 等通用人工智能聊天机器人使用其服务。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:10.108Z",
-    "isImportant": false
-  },
-  {
-    "id": "108229914",
-    "title": "迈克尔·伯里 (Michael Burry) 的下一个“大空头”：深入分析他的分析，显示人工智能是一个泡沫",
-    "link": "https://www.cnbc.com/2025/11/25/michael-burrys-next-big-short-an-inside-look-at-his-analysis-showing-ai-is-a-bubble.html",
-    "pubDate": "Tue, 25 Nov 2025 16:29:35 GMT",
-    "content": "伯里的投资组合副经理表示，投资界“对这项技术的经济重要性的预期远超其所能提供的”。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:47.432Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3070532",
-    "title": "Speechify 在其 Chrome 扩展中添加了语音输入和语音助手",
-    "link": "https://techcrunch.com/2025/11/25/speechify-adds-voice-typing-and-voice-assistant-to-its-chrome-extension/",
-    "pubDate": "Tue, 25 Nov 2025 16:00:00 +0000",
-    "content": "在过去 12 个月中，由于语音识别模型整体质量的提高，语音检测工具激增。 Speechify 正在搭上这趟列车，推出自己的支持英语的听写工具。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:10.516Z",
-    "isImportant": false
-  },
-  {
-    "id": "108231621",
-    "title": "盘前涨幅最大的股票：Kohl's、Nvidia、Dick's Sporting Goods、Symbotic 等",
-    "link": "https://www.cnbc.com/2025/11/25/stocks-making-the-biggest-moves-premarket-kss-nvda-dks-sym.html",
-    "pubDate": "Tue, 25 Nov 2025 13:29:41 GMT",
-    "content": "这些是盘前交易中涨幅最大的股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:47.779Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/sport/rugby-union/articles/czdg5jj4e5eo#13",
-    "title": "引人入胜但令人困惑——国际橄榄球处于什么状态？",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/czdg5jj4e5eo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Tue, 25 Nov 2025 12:58:56 GMT",
-    "content": "在秋季国家系列赛期间出现一系列红牌逆转和 TMO 干扰之后 - 国际橄榄球处于什么状态？",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2025-11-30T08:26:39.700Z",
-    "isImportant": false
-  },
-  {
-    "id": "108231345",
-    "title": "贝莱德 (BlackRock) 旗下 iShares 比特币基金出现创纪录的资金外流，加密货币将迎来 2022 年以来最糟糕的月份",
-    "link": "https://www.cnbc.com/2025/11/24/blackrocks-ishares-bitcoin-fund-sees-record-exodus-as-crypto-heads-for-worst-month-since-2022.html",
-    "pubDate": "Tue, 25 Nov 2025 06:31:49 GMT",
-    "content": "由于其基础加密货币继续下跌，贝莱德 (Blackrock) 的现货比特币 ETF 11 月份迄今为止已出现价值 22 亿美元的资金流出。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:48.101Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/sport/cricket/articles/cjwyd76l09no#6",
-    "title": "健全还是有缺陷？ 英格兰队对克劳利的信心受到考验",
-    "link": "https://www.bbc.com/sport/cricket/articles/cjwyd76l09no?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Tue, 25 Nov 2025 06:19:41 GMT",
-    "content": "扎克·克劳利的位置再次成为英格兰队中争议最多的人。 这些数据令人震惊，那么英格兰队的想法是什么？它是否有缺陷？",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2025-11-30T08:26:20.901Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3070363",
-    "title": "谷歌与 Accel 合作寻找印度下一个人工智能突破点",
-    "link": "https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/",
-    "pubDate": "Tue, 25 Nov 2025 00:30:00 +0000",
-    "content": "Google 和 Accel 将通过新的合作伙伴关系，共同向每家初创公司投资最多 200 万美元。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:11.179Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cvgkerq52p4o#2",
-    "title": "将游客与非洲热情好客联系起来的企业家",
-    "link": "https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Tue, 25 Nov 2025 00:02:30 GMT",
-    "content": "TripZapp 创始人 Rory Okoli 希望让游客更轻松地预订和支付非洲旅游费用。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:33.012Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/clyx9n5p7v7o#5",
-    "title": "英国的预算监管机构是否变得过于强大？",
-    "link": "https://www.bbc.com/news/articles/clyx9n5p7v7o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Tue, 25 Nov 2025 00:00:03 GMT",
-    "content": "在本周的预算公布之前，一些人指责预算责任办公室是“增长的紧身衣”",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:42.106Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/extra/fqr8fcasop/alcaraz-v-sinner-the-evolution-of-a-new-duopoly#14",
-    "title": "对于将彼此视为“比家人更重要”的友好敌人来说，下一步该怎么办？",
-    "link": "https://www.bbc.co.uk/sport/extra/fqr8fcasop/alcaraz-v-sinner-the-evolution-of-a-new-duopoly?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Tue, 25 Nov 2025 00:00:00 GMT",
-    "content": "詹尼克·辛纳 (Jannik Sinner) 和卡洛斯·阿尔卡拉斯 (Carlos Alcaraz) 在 2025 年统治了男子网球。BBC 体育频道关注他们日益激烈的竞争的演变，以及下一步的发展方向。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2025-11-30T08:26:40.505Z",
-    "isImportant": false
-  },
-  {
-    "id": "108231266",
-    "title": "盘后涨幅最大的股票：Zoom、Semtech、Agilent Technologies、Sandisk 等",
-    "link": "https://www.cnbc.com/2025/11/24/stocks-making-the-biggest-moves-after-hours-zm-smtc-a.html",
-    "pubDate": "Mon, 24 Nov 2025 22:54:16 GMT",
-    "content": "这些是在盘中交易中涨幅最大的股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:49.084Z",
-    "isImportant": false
-  },
-  {
-    "id": "108230957",
-    "title": "中午涨幅最大的股票：诺和诺德、Inspire Medical、特斯拉、Tegna、Oscar Health 等",
-    "link": "https://www.cnbc.com/2025/11/24/stocks-making-the-biggest-moves-midday-nvo-insp-tsla-tgna-and-more.html",
-    "pubDate": "Mon, 24 Nov 2025 18:23:47 GMT",
-    "content": "这些是午盘涨幅最大的一些股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:49.528Z",
-    "isImportant": false
-  },
-  {
-    "id": "108230884",
-    "title": "迈克尔·伯里 (Michael Burry) 在取消对冲基金注册后发布时事通讯，阐述他对人工智能泡沫的看法",
-    "link": "https://www.cnbc.com/2025/11/24/michael-burry-launches-newsletter-to-lay-out-his-ai-bubble-views-after-deregistering-hedge-fund.html",
-    "pubDate": "Mon, 24 Nov 2025 16:30:25 GMT",
-    "content": "“大空头”投资者正在利用他在 X 上建立的大量受众，其中 160 万粉丝长期以来一直在解析他的神秘帖子。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:49.962Z",
-    "isImportant": false
-  },
-  {
-    "id": "108230838",
-    "title": "盘前涨幅最大的股票：诺和诺德 (Novo Nordisk)、特斯拉 (Tesla)、Alphabet、奥斯卡健康 (Oscar Health) 等",
-    "link": "https://www.cnbc.com/2025/11/24/stocks-making-the-biggest-moves-premarket.html",
-    "pubDate": "Mon, 24 Nov 2025 12:57:21 GMT",
-    "content": "这些是盘前涨幅最大的股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:50.330Z",
-    "isImportant": false
-  },
-  {
-    "id": "108224565",
-    "title": "美中贸易休战意味着更多本地化技术。 玩法如下",
-    "link": "https://www.cnbc.com/2025/11/23/a-us-china-trade-truce-means-more-localized-tech-how-to-play-it-.html",
-    "pubDate": "Mon, 24 Nov 2025 06:00:33 GMT",
-    "content": "分析师表示，随着美国和中国达成为期一年的休战协议，投资者的收获是两国将加倍投资本土科技。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:51.027Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ce8g8wrd61zo#2",
-    "title": "马丘比丘因旅游巴士引发争吵",
-    "link": "https://www.bbc.com/news/articles/ce8g8wrd61zo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Mon, 24 Nov 2025 00:06:53 GMT",
-    "content": "人们对载游客前往秘鲁世界遗产的巴士发起了抗议。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:34.344Z",
-    "isImportant": false
-  },
-  {
-    "id": "108229865",
-    "title": "由于比特币和人工智能股票下跌，Robinhood 股价本周下跌 12%",
-    "link": "https://www.cnbc.com/2025/11/21/robinhood-heads-for-brutal-weekly-loss-as-bitcoin-ai-stocks-are-hit-hard.html",
-    "pubDate": "Fri, 21 Nov 2025 21:22:52 GMT",
-    "content": "该平台的核心业务依赖散户投资者涌入市场的投机角落，特别是加密货币和人工智能相关股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:54.343Z",
-    "isImportant": false
-  },
-  {
-    "id": "108229921",
-    "title": "一位美联储官员可能拯救了市场免遭另一次溃败。 为什么约翰·威廉姆斯的言论如此重要",
-    "link": "https://www.cnbc.com/2025/11/21/one-fed-official-may-have-saved-market-from-another-rout-why-john-williams-remarks-matter-so-much.html",
-    "pubDate": "Fri, 21 Nov 2025 19:27:24 GMT",
-    "content": "他的职位使他成为美联储领导三驾马车的成员，该小组还包括主席杰罗姆·鲍威尔和副主席菲利普·杰斐逊。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:52.995Z",
-    "isImportant": false
-  },
-  {
-    "id": "108230018",
-    "title": "中午涨幅最大的股票：Oracle、Bath & Body Works、Gap 等",
-    "link": "https://www.cnbc.com/2025/11/21/stocks-making-the-biggest-moves-midday-orcl-bbwi-gap.html",
-    "pubDate": "Fri, 21 Nov 2025 17:11:23 GMT",
-    "content": "这些是午盘涨幅最大的股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:51.351Z",
-    "isImportant": false
-  },
-  {
-    "id": "108229892",
-    "title": "比特币继续下滑，扰乱市场，有可能跌破 80,000 美元",
-    "link": "https://www.cnbc.com/2025/11/21/bitcoin-continues-slide-thats-roiling-markets-threatens-to-break-below-80000.html",
-    "pubDate": "Fri, 21 Nov 2025 16:13:53 GMT",
-    "content": "比特币几乎跌破了 80,000 美元的关键支撑位。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:53.300Z",
-    "isImportant": false
-  },
-  {
-    "id": "108229878",
-    "title": "盘前涨幅最大的股票：比特币股票、Elastic、Gap 等",
-    "link": "https://www.cnbc.com/2025/11/21/stocks-making-big-moves-premarket-bitcoin-stocks-elastic-gap-and-more-.html",
-    "pubDate": "Fri, 21 Nov 2025 13:46:03 GMT",
-    "content": "这些是盘前交易中涨幅最大的一些股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:53.683Z",
-    "isImportant": false
-  },
-  {
-    "id": "108227160",
-    "title": "随着紧张局势的加剧，日本在中国的演唱会突然取消",
-    "link": "https://www.cnbc.com/2025/11/21/china-is-abruptly-canceling-japanese-music-concerts-as-tensions-simmer.html",
-    "pubDate": "Fri, 21 Nov 2025 10:33:57 GMT",
-    "content": "北京对日本首相高市早苗的台湾言论的最新回应，给陷入困境的企业增添了不确定性。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:54.697Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4gkgxeeyzno#5",
-    "title": "英镑为何在生活成本危机中苦苦挣扎的奇怪案例",
-    "link": "https://www.bbc.com/news/articles/c4gkgxeeyzno?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 21 Nov 2025 08:03:37 GMT",
-    "content": "为什么在我们很多人都感到经济拮据的时代，英国大街上的一些廉价商店却过得如此艰难？",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:42.570Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn0g2xxnrj3o#2",
-    "title": "“最难收的作物”：科技能否帮助小豆蔻种植者？",
-    "link": "https://www.bbc.com/news/articles/cn0g2xxnrj3o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 21 Nov 2025 00:01:09 GMT",
-    "content": "对天气和土壤敏感的小豆蔻很难种植——科技能提供帮助吗？",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:35.008Z",
-    "isImportant": false
-  },
-  {
-    "id": "108229513",
-    "title": "盘后涨幅最大的股票：Intuit、Gap、Ross Stores 等",
-    "link": "https://www.cnbc.com/2025/11/20/stocks-making-the-biggest-moves-after-hours-intu-gap-rost.html",
-    "pubDate": "Thu, 20 Nov 2025 22:29:12 GMT",
-    "content": "这些是在盘中交易中涨幅最大的股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:55.001Z",
-    "isImportant": false
-  },
-  {
-    "id": "108229314",
-    "title": "比特币跌至四月以来最低水平",
-    "link": "https://www.cnbc.com/2025/11/20/bitcoin-falls-to-lowest-level-since-april.html",
-    "pubDate": "Thu, 20 Nov 2025 18:38:56 GMT",
-    "content": "比特币周四跌至六个月多以来未见的水平。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:55.501Z",
-    "isImportant": false
-  },
-  {
-    "id": "108229290",
-    "title": "中午涨幅最大的股票：Nvidia、Exact Sciences、沃尔玛、Strategy、Regeneron 等",
-    "link": "https://www.cnbc.com/2025/11/20/stocks-making-the-biggest-moves-midday-nvda-wmt-mstr-regn-more.html",
-    "pubDate": "Thu, 20 Nov 2025 18:16:06 GMT",
-    "content": "这些是午盘交易中涨幅最大的一些股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:56.010Z",
-    "isImportant": false
-  },
-  {
-    "id": "108229090",
-    "title": "市场预测，继 9 月数据延迟后，美联储 12 月可能不会降息",
-    "link": "https://www.cnbc.com/2025/11/20/fed-likely-to-not-cut-rates-in-december-following-delayed-september-data-according-to-market-odds.html",
-    "pubDate": "Thu, 20 Nov 2025 14:36:31 GMT",
-    "content": "9 月份就业数据公布后，市场降息的可能性仍然较低，这是投资者自政府关门以来看到的第一份非农就业报告。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:56.927Z",
-    "isImportant": false
-  },
-  {
-    "id": "108229043",
-    "title": "盘前涨幅最大的股票：Nvidia、沃尔玛、Palo Alto Networks 等",
-    "link": "https://www.cnbc.com/2025/11/20/stocks-making-the-biggest-moves-premarket-nvda-wmt-panw.html",
-    "pubDate": "Thu, 20 Nov 2025 14:17:08 GMT",
-    "content": "这些是早盘交易中涨幅最大的股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:57.233Z",
-    "isImportant": false
-  },
-  {
-    "id": "108226580",
-    "title": "“Robotaxi 已达到临界点”：百度、英伟达领导者看到竞争加剧带来的势头",
-    "link": "https://www.cnbc.com/2025/11/20/global-robotaxi-race-heats-up-between-us-and-chinese-rivals.html",
-    "pubDate": "Thu, 20 Nov 2025 07:14:10 GMT",
-    "content": "最近几周，全球科技高管宣称机器人出租车行业终于接近拐点。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:57.666Z",
-    "isImportant": false
-  },
-  {
-    "id": "108228663",
-    "title": "盘后涨幅最大的股票：Nvidia、Palo Alto Networks、Oddity Tech、AMD 等",
-    "link": "https://www.cnbc.com/2025/11/19/stocks-making-the-biggest-moves-after-hours-nvda-panw-odd-amd.html",
-    "pubDate": "Wed, 19 Nov 2025 22:12:43 GMT",
-    "content": "这些是在盘中交易中涨幅最大的股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:58.005Z",
-    "isImportant": false
-  },
-  {
-    "id": "108228528",
-    "title": "美联储会议纪要显示对 10 月降息存在分歧并对 12 月降息表示怀疑",
-    "link": "https://www.cnbc.com/2025/11/19/fed-minutes-october-2025.html",
-    "pubDate": "Wed, 19 Nov 2025 20:13:12 GMT",
-    "content": "尽管联邦公开市场委员会在会议上批准了降息，但未来的道路看起来会更少创造。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2025-11-30T08:26:58.337Z",
-    "isImportant": false
-  },
-  {
-    "id": {
-      "$": {
-        "isPermaLink": "false"
-      }
-    },
-    "title": "Microsoft Foundry：在模块化、可互操作且安全的代理堆栈上扩展创新",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/",
-    "pubDate": "Tue, 18 Nov 2025 16:00:00 +0000",
-    "content": "代理商正在重塑软件。 他们不再仅仅是助手，而是成为我们日常工具中的动态协作者。 \nMicrosoft Foundry：在模块化、可互操作且安全的代理堆栈上扩展创新一文首先出现在 Microsoft Azure 博客上。",
-    "source": "Azure Blog",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:22.358Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=47825",
-    "title": "Microsoft Ignite 2025 上的 Azure：解释所有智能云新闻",
-    "link": "https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/",
-    "pubDate": "Tue, 18 Nov 2025 16:00:00 +0000",
-    "content": "在本周的 Microsoft Ignite 2025 大会上，Azure 推出了解决方案，通过专为这一拐点设计的创新来解决您的技术战略问题。 \nMicrosoft Ignite 2025 上的 Azure 帖子：解释的所有智能云新闻首先出现在 Microsoft Azure 博客上。",
-    "source": "Azure Blog",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:23.110Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=47822",
-    "title": "Microsoft 数据库和 Microsoft Fabric：您的统一且由 AI 驱动的数据资产",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/",
-    "pubDate": "Tue, 18 Nov 2025 16:00:00 +0000",
-    "content": "今天，我很高兴地宣布推出下一代 Microsoft 数据库：SQL Server 2025、Azure Document DB、Azure Horizo​​n DB 和 Fabric 数据库，每个数据库都经过重新设计，以满足人工智能的需求。 \nMicrosoft 数据库和 Microsoft Fabric：统一且由 AI 驱动的数据资产一文首先出现在 Microsoft Azure 博客上。",
-    "source": "Azure Blog",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:24.424Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=47820",
-    "title": "宣布 Azure Copilot 代理和 AI 基础设施创新",
-    "link": "https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/",
-    "pubDate": "Tue, 18 Nov 2025 16:00:00 +0000",
-    "content": "了解 Azure 在 Microsoft Ignite 2025 上宣布的新 AI 功能和产品，以帮助实现云基础设施现代化。 \n宣布 Azure Copilot 代理和 AI 基础设施创新的帖子首先出现在 Microsoft Azure 博客上。",
-    "source": "Azure Blog",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:25.511Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://azure.microsoft.com/en-us/blog/?p=48126",
-    "title": "在 Microsoft Foundry 中引入 Anthropic 的 Claude 模型：将前沿智能引入 Azure",
-    "link": "https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/",
-    "pubDate": "Tue, 18 Nov 2025 15:00:28 +0000",
-    "content": "Microsoft Foundry 已经提供了最广泛的云模型选择，随着今天与 Anthropic 的合作伙伴关系公告，我们感到自豪的是，Azure 现在是唯一一个在一个平台上为客户提供 Claude 和 GPT 前沿模型访问权限的云。 \n《在 Microsoft Foundry 中介绍 Anthropic 的 Claude 模型：将前沿智能引入 Azure》一文首先出现在 Microsoft Azure 博客上。",
-    "source": "Azure Blog",
-    "category": "人工智能",
-    "fetchedAt": "2025-11-30T08:27:25.850Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/ckg4y4z169go#2",
-    "title": "人工智能意味着更好的广告还是“令人毛骨悚然的废话”？",
-    "link": "https://www.bbc.com/news/articles/ckg4y4z169go?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Tue, 18 Nov 2025 14:48:29 GMT",
-    "content": "广告商正在使用人工智能来个性化广告，但并非所有人都认为这是一个好主意。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:36.158Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/sport/cricket/articles/cdjrvjwxmlxo#14",
-    "title": "“感觉就像上帝的手放在我的大脑上”——英格兰队被少年羞辱的那一天",
-    "link": "https://www.bbc.com/sport/cricket/articles/cdjrvjwxmlxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Tue, 18 Nov 2025 06:47:10 GMT",
-    "content": "BBC 体育频道的《灰烬重生》系列节目以阿什顿·阿加尔 (Ashton Agar) 19 岁时以 11 号击球数破纪录地首次参加板球测试的内幕故事作为结尾。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2025-11-30T08:26:40.885Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4g3ydv2ygro#2",
-    "title": "从花店到无人机制造商：武器如何变得如此主流",
-    "link": "https://www.bbc.com/news/articles/c4g3ydv2ygro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 14 Nov 2025 22:24:18 GMT",
-    "content": "随着无人机成为乌克兰的焦点，全球各地的军事公司都在提高产量。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2025-11-30T08:25:35.792Z",
     "isImportant": false
   }
 ]
