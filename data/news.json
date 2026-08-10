@@ -1,5 +1,720 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c9d841yexe0o#0",
+    "title": "泰晤士水务公司向财务主管支付了 100 万英镑的签约费",
+    "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 08:57:54 GMT",
+    "content": "作为说服史蒂夫·巴克加入这家陷入困境的公用事业公司的一揽子计划的一部分，这笔七位数的付款给了他。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2026-08-10T09:12:34.091Z",
+    "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o#0",
+    "title": "因凡蒂诺“通过欺骗”破坏了信任——足联主席",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 08:46:54 GMT",
+    "content": "欧足联、中北美及加勒比地区足联和亚洲足联发表的公开信指责国际足联“通过欺骗”破坏信任。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:44.931Z",
+    "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo#1",
+    "title": "Swap agreed for Everton's McNeil & Palace's Johnson",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 08:09:16 GMT",
+    "content": "Everton and Crystal Palace agree a swap deal that will involve Toffees' winger Dwight McNeil joining the Eagles and Wales international Brennan Johnson moving in the opposite direction.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:52.071Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/athletics/articles/c9d338xxwp7o#2",
+    "title": "European Athletics Championships: Key events, timetable & BBC coverage",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/c9d338xxwp7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 08:04:21 GMT",
+    "content": "Timetable and BBC coverage times for the European Athletics Championships in Birmingham from 10-16 August.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:55.025Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/articles/czjlk29xy90o#4",
+    "title": "Who am I? Guess The Hundred cricket star No 21",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/czjlk29xy90o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 07:57:11 GMT",
+    "content": "Will you get today's player in as few attempts as possible?",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:03.925Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cd9wg9x3n55o#1",
+    "title": "Brazilian player falls down tunnel during goal celebration",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cd9wg9x3n55o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 07:46:33 GMT",
+    "content": "Brazilian player Jacy says he got \"carried away\" after he ended up falling down a hold in his goal celebration in Coritib's 2-1 win against Chapecoense.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:54.596Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o#0",
+    "title": "特大风暴袭来，中国数百万人撤离家园",
+    "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 07:23:54 GMT",
+    "content": "台风“海豚”登陆，给上海等华东地区带来强风和暴雨。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:10.540Z",
+    "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo#0",
+    "title": "伯纳姆提出禁止“订阅陷阱”以降低生活成本",
+    "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 07:16:12 GMT",
+    "content": "首相即将开始英国之行，并宣布了一系列旨在缓解生活成本的公告。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2026-08-10T09:12:35.267Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/american-football/articles/c0m7kl42grlo#10",
+    "title": "Mayobridge to Madden – Smyth enjoying next level in NFL",
+    "link": "https://www.bbc.co.uk/sport/american-football/articles/c0m7kl42grlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 07:08:26 GMT",
+    "content": "As he enters his first pre-season as an NFL starter, County Down's Charlie Smyth says he is getting used to being a player rather than fan of the sport.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:17.219Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo#0",
+    "title": "霍奇金森黄金崛起和追寻世界纪录背后的团队",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 07:00:24 GMT",
+    "content": "BBC 体育频道关注英国 800 米明星基利·霍奇金森 (Keely Hodgkinson) 的黄金崛起和追求世界纪录背后的团队。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:47.389Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c74gzej20xpo#4",
+    "title": "Who am I? Guess Premier League star No 21",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c74gzej20xpo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 05:38:11 GMT",
+    "content": "Work out the identity of today's player in as few attempts as possible.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:01.882Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cx27gkmed3wo#0",
+    "title": "利物浦在伊劳拉的带领下如何发展",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx27gkmed3wo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 05:15:18 GMT",
+    "content": "四场季前赛只是一个很小的样本，但安多尼·伊拉奥拉已经开始在利物浦留下自己的印记。 那么红军在新主帅的带领下表现如何呢？",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:50.165Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o#0",
+    "title": "科技领导者表示人工智能意味着更少的工作——他们的员工表示他们每周工作长达 90 小时",
+    "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 05:00:32 GMT",
+    "content": "科技公司并没有模仿自己的说法，声称这项技术可以给人们更多的空闲时间。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2026-08-10T09:12:37.373Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c5ywqxvgzl0o#2",
+    "title": "The Argentine who wishes he could play for Wales",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5ywqxvgzl0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 03:47:50 GMT",
+    "content": "Proud of his Welsh roots, Chile-based Argentine defender Jeremias James hopes for a rule change to help his international ambitions.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:58.091Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#0",
+    "title": "加拿大野火失控，居民警告要做好最坏的打算",
+    "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 03:33:51 GMT",
+    "content": "不列颠哥伦比亚省 Bald Range 野火已造成 1 人死亡，火势蔓延超过 53 平方英里。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:18.968Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo#0",
+    "title": "你的纹身会妨碍你找工作吗？",
+    "link": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 00:40:48 GMT",
+    "content": "四分之一的英国人口——包括新首相——至少有一个纹身，但他们在工作场所仍然存在意见分歧。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2026-08-10T09:12:40.690Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/czjlk8wx771o#0",
+    "title": "您可能会错过 150 英镑的能源账单折扣 - 以下是查看方法",
+    "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 23:47:30 GMT",
+    "content": "有些人需要确保在截止日期之前将自己的名字写在能源账单上，才有资格获得帮助。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2026-08-10T09:12:39.049Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/czjlk8wx771o#3",
+    "title": "您可能会错过 150 英镑的能源账单折扣 - 以下是查看方法",
+    "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 23:47:30 GMT",
+    "content": "有些人需要确保在截止日期之前将自己的名字写在能源账单上，才有资格获得帮助。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2026-08-10T09:13:24.958Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cly8djwgem0o#0",
+    "title": "BBC 分享南非特种部队谋杀顶级侦探的证据",
+    "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 23:05:29 GMT",
+    "content": "弗兰斯·马蒂帕 (Frans Mathipa) 在开车时被枪杀 - 我们了解了针对八名被告的起诉案件。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:14.848Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o#0",
+    "title": "穆里尼奥表示他同意接替弗格森执掌曼联",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 23:01:26 GMT",
+    "content": "何塞·穆里尼奥在一部新纪录片中透露，大卫·莫耶斯于 2013 年在老特拉福德接替了弗格森爵士，但情况本来可以如此不同。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:48.513Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o#10",
+    "title": "Mourinho says he agreed to replace Ferguson at Man Utd",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 23:01:26 GMT",
+    "content": "David Moyes succeeded Sir Alex Ferguson at Old Trafford in 2013 but things could have been so different, Jose Mourinho reveals in a new documentary.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:16.108Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c4gw456e3xxo#4",
+    "title": "African quartet secure Women's World Cup places",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gw456e3xxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 22:06:43 GMT",
+    "content": "Algeria, Morocco, Cameroon and Malawi all qualify for the 2027 Women's World Cup in Brazil by reaching the semi-finals of the Women's Africa Cup of Nations.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:03.273Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/golf/articles/c4gjqyw1zy3o#1",
+    "title": "Niemann wins as Rahm secures LIV season title",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/c4gjqyw1zy3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 21:52:44 GMT",
+    "content": "Joaquin Niemann leads throughout to win the LIV Golf New York event while Jon Rahm secures his third straight season title.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:53.975Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo#3",
+    "title": "基纳汉的听证会如何在都柏林法庭内进行",
+    "link": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 21:26:56 GMT",
+    "content": "犯罪头目嫌疑人丹尼尔·基纳汉 (Daniel Kinahan) 出庭，被指控从迪拜引渡后指挥犯罪组织的活动。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:32.478Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo#0",
+    "title": "内塔尼亚胡表示，以色列拒绝特朗普针对加沙的15点计划",
+    "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 21:25:04 GMT",
+    "content": "以色列总理表示，在哈马斯“真正”解除武装之前，以色列军队不会从加沙撤军。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:12.313Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c5y36vr1j2zo#0",
+    "title": "McInnes left frustrated amid Rangers' poor start to season",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5y36vr1j2zo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 21:04:55 GMT",
+    "content": "Derek McInnes is still seeking a win after three games as Rangers managers and feels hard done by following a 2-1 home defeat by Hibernian and injury to big-money striker Youssef Chermiti.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:50.791Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cx2klxw043xo#2",
+    "title": "Villa interested in Endrick loan - Monday's gossip",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2klxw043xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 21:04:49 GMT",
+    "content": "Aston Villa interested in Endrick loan, Harry Kane expected to extend Bayern Munich deal and Arsenal make Bradley Barcola contact, plus more.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:55.961Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o#0",
+    "title": "犯罪头目嫌疑人丹尼尔·基纳汉引渡后出庭",
+    "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 20:58:18 GMT",
+    "content": "爱尔兰监狱管理局购买了一辆防弹防弹面包车，在这名 49 岁的男子从迪拜引渡后将其送往法庭。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:11.225Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/articles/c0m7g2kpzjwo#4",
+    "title": "Scotland scrape past UAE with one wicket & ball left",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c0m7g2kpzjwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 20:43:44 GMT",
+    "content": "Scotland beat United Arab Emirates by one wicket as Jasper Davidson struck the winning boundary with just one ball to spare in a dramatic finish to their Men's Cricket World Cup League 2 Tri-Series match in Dundee.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:05.702Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151435",
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "pubDate": "Sun, 09 Aug 2026 20:35:17 +0000",
+    "content": "The AI-focused hedge fund is still making some big bets.",
+    "source": "TechCrunch",
+    "category": "人工智能",
+    "fetchedAt": "2026-08-10T09:14:43.775Z",
+    "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/crl74pjggp7o#3",
+    "title": "Livingstone and Brevis power Spirit to success",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/crl74pjggp7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 20:26:29 GMT",
+    "content": "A partnership of 103 between Liam Livingstone and Dewald Brevis, including some huge sixes, sees London Spirit coast to victory over Birmingham Phoenix.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:58.751Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cdew452xgyko#8",
+    "title": "Were signs always there that Vrancken's Hearts would come good?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cdew452xgyko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 20:23:31 GMT",
+    "content": "Heart of Midlothian have at last secured their first win under new head coach Wouter Vrancken, but statistics suggested it was only a matter of time.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:12.892Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/articles/c70gn1634z7o#0",
+    "title": "Sunrisers thump Fire to close in on qualification",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c70gn1634z7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 20:15:45 GMT",
+    "content": "Sunrisers Leeds move closer to securing qualification for The Hundred's knockout stages with a 71-run win over Welsh Fire, while a 101-run partnership helps London Spirit beat Birmingham Phoenix by seven wickets.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:51.389Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo#1",
+    "title": "尼日利亚军队称已安全救出被枪手绑架的33人",
+    "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 19:57:28 GMT",
+    "content": "周六，这些人在穿越该国西北部扎姆法拉州时被绑架。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:21.385Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/articles/c5ydjxj4z0mo#8",
+    "title": "Middlesex through as One-Day Cup nears tense finale",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c5ydjxj4z0mo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 19:52:54 GMT",
+    "content": "A day of unlikely One-Day Cup results includes defeats for the top three in Group A as Middlesex go through.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:13.870Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo#2",
+    "title": "'Celtic fans are going to fall in love with him' - Hogh makes his mark",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 19:43:56 GMT",
+    "content": "Kasper Hogh earns rave reviews after his first goals - and first hat-trick - for Celtic in Saturday's 5-1 thrashing of Kilmarnock.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:56.387Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo#10",
+    "title": "'Celtic fans are going to fall in love with him' - Hogh makes his mark",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 19:43:56 GMT",
+    "content": "Kasper Hogh earns rave reviews after his first goals - and first hat-trick - for Celtic in Saturday's 5-1 thrashing of Kilmarnock.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:16.670Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o#1",
+    "title": "Mudryk's emotional return and 'leader' Palmer - inside Chelsea's pre-season",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 19:41:04 GMT",
+    "content": "Chelsea's pre-season campaign was all about new manager Xabi Alonso, so what have we learned about his side?",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:52.686Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c935w1d05d7o#1",
+    "title": "自由女神像附近的船只翻船导致妇女和婴儿死亡，男子被捕",
+    "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 19:40:09 GMT",
+    "content": "据报道，最初从水中救出的另外十二人目前情况稳定。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:26.463Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o#2",
+    "title": "Guimaraes can ignite something different in us - Arteta ",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 19:27:03 GMT",
+    "content": "Mikel Arteta said the signing of Bruno Guimaraes will \"ignite something different\" in Arsenal and hinted that the Gunners are not done with their summer transfer activity.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:55.447Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/golf/articles/cy8el1jzn62o#2",
+    "title": "Hull lets late lead slip as Huang, 17, wins again",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/cy8el1jzn62o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 19:22:44 GMT",
+    "content": "England's Charley Hull lets slip a one-shot lead with two holes to play at the PIF London Championship as 17-year-old Anna Huang wins her fourth event on the Ladies' European Tour.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:57.581Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151431",
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "pubDate": "Sun, 09 Aug 2026 19:20:32 +0000",
+    "content": "Programming with Claude Code will soon require even less human oversight.",
+    "source": "TechCrunch",
+    "category": "人工智能",
+    "fetchedAt": "2026-08-10T09:14:44.461Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/athletics/articles/c5y3djlk7jdo#5",
+    "title": "Defiant Hodgkinson says home European title would mean as much as Olympic gold",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/c5y3djlk7jdo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 19:00:32 GMT",
+    "content": "Keely Hodgkinson will seek to prove she is still number one following a \"tricky\" outdoor season when she faces world-class rivals for European 800m gold in Birmingham.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:07.503Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/articles/c07r9zp8021o#5",
+    "title": "Email 'hoax' nearly ended Falconer's Hundred hopes",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c07r9zp8021o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 18:12:32 GMT",
+    "content": "How concerns over phishing online, rather than fishing outside off stump, nearly scuppered Caleb Falconer's hopes of a contract in The Hundred.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:08.146Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cycling/articles/ceqevv9vjpdo#1",
+    "title": "Vollering wins final stage to clinch second Tour title",
+    "link": "https://www.bbc.co.uk/sport/cycling/articles/ceqevv9vjpdo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 17:59:30 GMT",
+    "content": "Demi Vollering shows her prowess on the final stage of the Tour de France Femmes to become the race's first two-time winner.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:53.365Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cn4n884vr4mo#5",
+    "title": "Como sign defender Chalobah from Chelsea",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cn4n884vr4mo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 17:55:36 GMT",
+    "content": "Como have signed defender Trevoh Chalobah from Chelsea in a deal worth more than £30m.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:06.956Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/tennis/articles/cdx7gg7wq2do#5",
+    "title": "World number one Sinner to miss Cincinnati Open",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cdx7gg7wq2do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 17:48:18 GMT",
+    "content": "World number one Jannik Sinner withdraws from this week's Cincinnati Open because of a knee injury, but still expects to be fit for the US Open later this month.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:08.806Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/cz05gg5z78lo#3",
+    "title": "Rainford-Brent and Finn give a catching masterclass",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cz05gg5z78lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 17:30:32 GMT",
+    "content": "After some of the incredible catches in the Hundred this year, Ebony Rainford-Brent and Steven Finn talk about the technique that goes in to them.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:59.810Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/ce34v2eyn1qo#4",
+    "title": "Digne completes move to PSG from Aston Villa",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ce34v2eyn1qo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 17:12:56 GMT",
+    "content": "France international Lucas Digne has completed his move from Aston Villa to European champions Paris St-Germain.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:02.591Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/cj63ddw24z5o#3",
+    "title": "Kapp stars as Spirit win by 32 runs against Phoenix",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cj63ddw24z5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 17:06:50 GMT",
+    "content": "Marizanne Kapp stars with the bat as London Spirit beat Birmingham Phoenix in The Hundred at Lord's.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:00.507Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/cg4dgev6v6zo#3",
+    "title": "Sunrisers thump Welsh Fire to inch closer to knockouts",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cg4dgev6v6zo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 16:49:21 GMT",
+    "content": "Mitch Marsh makes 50 as Sunrisers Leeds post 201-4 at Headingley and beat Welsh Fire by 71 runs to move closer to a place in the knockouts of The Hundred men's competition.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:59.207Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo#1",
+    "title": "波多黎各因严重干旱而实行供水配给",
+    "link": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 16:43:23 GMT",
+    "content": "炎热的天气和老化的基础设施导致了配给，影响了数十万人。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:24.170Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/articles/cx2drxj1p72o#4",
+    "title": "Litchfield helps Sunrisers boost knockout hopes",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cx2drxj1p72o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 16:34:01 GMT",
+    "content": "Sunrisers Leeds keep their hopes of making The Hundred knockout phase alive with a six-wicket win over Welsh Fire, which simultaneously eliminates their opponents.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:05.058Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo#0",
+    "title": "莱比锡炸弹事件发生几天后，在德国基地上空发现了无人机",
+    "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 16:18:10 GMT",
+    "content": "警方正在调查在军事基地上空目击无人机的事件，据报道该基地用于存放爱国者导弹系统零件。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:17.371Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/snooker/articles/cly81lwjvd4o#5",
+    "title": "Trump loses, Murphy breaks record at China Open",
+    "link": "https://www.bbc.co.uk/sport/snooker/articles/cly81lwjvd4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 15:56:37 GMT",
+    "content": "World number one Judd Trump loses to Thailand's Noppon Saengkham, Shaun Murphy sets a new scoring record and Ronnie O'Sullivan makes a winning start to his campaign on day two of the China Open.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:09.365Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/horse-racing/articles/cy8mgr83kzko#8",
+    "title": "Royalty, bombers and racing fairytales - Chepstow at 100",
+    "link": "https://www.bbc.co.uk/sport/horse-racing/articles/cy8mgr83kzko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 15:55:07 GMT",
+    "content": "BBC Sport Wales recalls the major events at the Monmouthshire track that is celebrating its centenary.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:14.447Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cgjeznj6979o#1",
+    "title": "厄瓜多尔指控前部长涉嫌总统候选人暗杀案",
+    "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 15:34:04 GMT",
+    "content": "检察官指控其他六人，包括洛斯洛博斯贩毒集团的头目，在谋杀费尔南多·比亚维森西奥的过程中间接扮演了角色。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:19.623Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151401",
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "pubDate": "Sun, 09 Aug 2026 15:00:00 +0000",
+    "content": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+    "source": "TechCrunch",
+    "category": "人工智能",
+    "fetchedAt": "2026-08-10T09:14:44.989Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151324",
+    "title": "The AI safety test is becoming a safety risk",
+    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "pubDate": "Sun, 09 Aug 2026 14:30:00 +0000",
+    "content": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "source": "TechCrunch",
+    "category": "人工智能",
+    "fetchedAt": "2026-08-10T09:14:45.605Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c1m1j8l11ego#8",
+    "title": "Brazilian top-flight club wear name of English fan with MND on shirts",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c1m1j8l11ego?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 14:16:20 GMT",
+    "content": "Brazilian top flight club Coritiba wear the name of an English fan from Norwich on their shirts to raise awareness of motor neurone disease.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:13.318Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/c4gdjpezy8go#3",
+    "title": "Welsh Fire eliminated after heavy defeat by Sunrisers Leeds",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/c4gdjpezy8go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 13:06:14 GMT",
+    "content": "Welsh Fire are eliminated from The Hundred Women's competition after Phoebe Litchfield makes 55 to give the Sunrisers Leeds a six-wicket victory at Headingley.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:01.207Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/rugby-league/articles/cm2g8w7edmyo#8",
+    "title": "Five-time Super League champion Makinson to retire",
+    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cm2g8w7edmyo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 12:34:17 GMT",
+    "content": "Catalans Dragons winger Tommy Makinson announces he will retire at the end of the season.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:15.074Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go#0",
+    "title": "西西里岛海岸发现古罗马沉船",
+    "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 12:27:26 GMT",
+    "content": "意大利文化部长表示，这是多年来最重要的水下考古发现之一。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:18.231Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/crl74296x05o#7",
+    "title": "'Outstanding innings' - Litchfield hits rapid 55",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/crl74296x05o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 12:23:53 GMT",
+    "content": "Phoebe Litchfield makes an \"outstanding\" 55 off 25 balls for Sunrisers Leeds against Welsh Fire at Headingley.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:09.927Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/basketball/articles/cd0x3dye57ko#4",
+    "title": "Carrington makes 'white privilege' post after ejection",
+    "link": "https://www.bbc.co.uk/sport/basketball/articles/cd0x3dye57ko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 09:58:51 GMT",
+    "content": "Chicago Sky guard DiJonai Carrington is ejected from her side's defeat by Indiana Fever for committing a hard foul, before taking to social media to post \"white privilege\".",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:04.384Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/football/articles/czrj0yd2p4ro#1",
     "title": "父亲去世后，梅西错过了迈阿密的失利",
     "link": "https://www.bbc.co.uk/sport/football/articles/czrj0yd2p4ro?at_medium=RSS&at_campaign=rss",
@@ -11,6 +726,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c8en56r919ro#5",
+    "title": "Unmasking London City's Spanish superstar",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c8en56r919ro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 08:00:15 GMT",
+    "content": "Alexia Putellas' arrival at London City Lionesses was the biggest transfer in WSL history - but who is the person behind the global stardom?",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:06.397Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/football/articles/c8en56r919ro#0",
     "title": "揭秘伦敦城的西班牙巨星",
     "link": "https://www.bbc.co.uk/sport/football/articles/c8en56r919ro?at_medium=RSS&at_campaign=rss",
@@ -19,6 +745,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-09T08:36:09.991Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c4g630klknjo#8",
+    "title": "What are your favourite new kits for the coming season?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4g630klknjo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 07:22:01 GMT",
+    "content": "BBC Sport has rounded up some of the best new kits released by clubs around the world over the summer - vote for your top 10",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:12.450Z",
     "isImportant": false
   },
   {
@@ -66,6 +803,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/cycling/articles/c20d8redpyxo#2",
+    "title": "Money problems and broken dreams - why is it so hard to run a cycling team?",
+    "link": "https://www.bbc.co.uk/sport/cycling/articles/c20d8redpyxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 06:28:05 GMT",
+    "content": "The Hess women's cycling team was owned by a rich benefactor with a background in high finance - so how did they end up failing to pay riders and staff?",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:13:57.017Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/cycling/articles/c20d8redpyxo#1",
     "title": "金钱问题和梦想破灭——为什么管理一支自行车队这么难？",
     "link": "https://www.bbc.co.uk/sport/cycling/articles/c20d8redpyxo?at_medium=RSS&at_campaign=rss",
@@ -88,6 +836,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o#14",
+    "title": "New season, new boss - will Alexander-Arnold be key figure at Real Madrid?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 05:18:56 GMT",
+    "content": "Trent Alexander-Arnold faces a defining second season at Real Madrid as he looks to prove his worth under Jose Mourinho.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:23.203Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o#0",
     "title": "新赛季，新主帅——亚历山大-阿诺德会成为皇马的关键人物吗？",
     "link": "https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o?at_medium=RSS&at_campaign=rss",
@@ -96,6 +855,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-09T08:36:04.917Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o#1",
+    "title": "佩雷斯·希尔顿在直播中自残的报道称他面临漫长的康复期",
+    "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 04:32:06 GMT",
+    "content": "据他的家人称，这位美国博主在医院的情况“严重但稳定”。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:22.692Z",
     "isImportant": false
   },
   {
@@ -132,6 +902,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/cqx7q17531do#2",
+    "title": "尼日利亚的集体婚礼——如何区分恋人和骗子是很棘手的",
+    "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 01:10:50 GMT",
+    "content": "该计划适用于无力承担与婚姻相关的巨额财务费用的夫妇。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:31.585Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o#1",
     "title": "洛杉矶仓库大火中大量腐烂的食物散发出难以忍受的恶臭",
     "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
@@ -143,6 +924,28 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/c4g64152v71o#1",
+    "title": "原始图像，无滤镜：为什么 MySpace 粉丝希望重新推出它",
+    "link": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 09 Aug 2026 00:04:20 GMT",
+    "content": "粉丝和创作者表示，复兴后的 MySpace 必须让人感觉个性化，而不是算法驱动的。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2026-08-10T09:12:42.904Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo#2",
+    "title": "数百人因法国野火被捕，但谁应该为此负责？",
+    "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 08 Aug 2026 23:59:23 GMT",
+    "content": "政府正试图将上个月席卷全国的前所未有的火灾归咎于责任。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:29.465Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo#0",
     "title": "数百人因法国野火被捕，但谁应该为此负责？",
     "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
@@ -151,6 +954,17 @@
     "source": "BBC News",
     "category": "国际",
     "fetchedAt": "2026-08-09T08:34:21.441Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c20d8qre98do#1",
+    "title": "以色列被指控将约旦河西岸古代遗址的考古武器化",
+    "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 08 Aug 2026 23:43:44 GMT",
+    "content": "以色列正计划在西岸历史悠久的巴勒斯坦地区大规模征用土地。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:25.730Z",
     "isImportant": false
   },
   {
@@ -231,6 +1045,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/cg7meg7mnp1o#7",
+    "title": "Super Giants suffer batting collapse but hang on to beat Brave ",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cg7meg7mnp1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 08 Aug 2026 20:30:30 GMT",
+    "content": "Despite a huge batting collapse, Manchester Super Giants do enough to beat Southern Brave by 10 runs in Southampton, to keep their hopes alive of qualifying for the knockout stages of the men's Hundred.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:10.371Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/cricket/videos/cg7meg7mnp1o#3",
     "title": "Super Giants suffer batting collapse but hang on to beat Brave ",
     "link": "https://www.bbc.co.uk/sport/cricket/videos/cg7meg7mnp1o?at_medium=RSS&at_campaign=rss",
@@ -286,6 +1111,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/c4gxez068g2o#7",
+    "title": "'They are falling apart' - Super Giants lose eight wickets for 30 runs",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/c4gxez068g2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 08 Aug 2026 19:24:39 GMT",
+    "content": "From being 119-0, Manchester Super Giants lose eight wickets for 30 runs to stumble to 149-8 in their men's Hundred match against Southern Brave in Southampton.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:10.862Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/cricket/videos/c4gxez068g2o#3",
     "title": "'They are falling apart' - Super Giants lose eight wickets for 30 runs",
     "link": "https://www.bbc.co.uk/sport/cricket/videos/c4gxez068g2o?at_medium=RSS&at_campaign=rss",
@@ -294,6 +1130,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-09T08:36:31.758Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o#1",
+    "title": "阿曼表示霍尔木兹会谈积极，伊朗警告协议不会打开海峡",
+    "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 08 Aug 2026 19:18:57 GMT",
+    "content": "双方均表示谈判已取得进展，以商定穿过海峡的新航线，但取得突破仍不明朗。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-10T09:12:26.794Z",
     "isImportant": false
   },
   {
@@ -352,6 +1199,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/cr495lxveyno#7",
+    "title": "'What a throw!' - Southern Brave's two stunning run outs",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cr495lxveyno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 08 Aug 2026 18:47:12 GMT",
+    "content": "Moeen Ali and Tristan Stubbs produce two moments of magic in the field as they run out Tim Seifert and Leus du Plooy respectively, with two superb direct hits as Southern Brave fight back against Manchester Super Giants in Southampton.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:11.322Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/cricket/videos/cr495lxveyno#3",
     "title": "'What a throw!' - Southern Brave's two stunning run outs",
     "link": "https://www.bbc.co.uk/sport/cricket/videos/cr495lxveyno?at_medium=RSS&at_campaign=rss",
@@ -360,6 +1218,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-09T08:36:32.477Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/c934jpex2ddo#11",
+    "title": "Stubbs 'fuming' after stunning elbow catch is overturned",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/c934jpex2ddo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 08 Aug 2026 18:26:30 GMT",
+    "content": "Tristan Stubbs is left \"fuming\" after taking a brilliant catch with his elbow, only for the decision to be given not out after review in Southern Brave's match against the Manchester Super Giants in Southampton.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:17.907Z",
     "isImportant": false
   },
   {
@@ -396,6 +1265,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/cpq8wzej8vvo#11",
+    "title": "Super Giants close in on knockout stages after beating Brave",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cpq8wzej8vvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 08 Aug 2026 17:34:10 GMT",
+    "content": "Richa Ghosh scores a quickfire half-century as Manchester Super Giants beat Southern Brave by 27 runs  to boost their chances of reaching the knockout stages of The Hundred women's competition.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:18.485Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/cricket/videos/cpq8wzej8vvo#7",
     "title": "Super Giants close in on knockout stages after beating Brave",
     "link": "https://www.bbc.co.uk/sport/cricket/videos/cpq8wzej8vvo?at_medium=RSS&at_campaign=rss",
@@ -418,6 +1298,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/cj4kl7dzrl7o#11",
+    "title": "Santner sends Rockets eight points clear at the top",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cj4kl7dzrl7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 08 Aug 2026 17:02:30 GMT",
+    "content": "Mitch Santner smashes 52 off 23 balls as Trent Rockets move eight points clear at the top of The Hundred with a six-wicket victory over MI London at The Oval.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:19.068Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/cricket/videos/cj4kl7dzrl7o#7",
     "title": "Santner sends Rockets eight points clear at the top",
     "link": "https://www.bbc.co.uk/sport/cricket/videos/cj4kl7dzrl7o?at_medium=RSS&at_campaign=rss",
@@ -426,6 +1317,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-09T08:36:39.135Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c4gj9j7yv9do#14",
+    "title": "Garcia hopes long-term friend Alonso's Chelsea finish second to Liverpool",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gj9j7yv9do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 08 Aug 2026 16:45:47 GMT",
+    "content": "As two Liverpool legends meet in pre-season, Luis Garcia says he hopes Xabi Alonso's Chelsea finish behind their former club in the Premier League.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:24.304Z",
     "isImportant": false
   },
   {
@@ -561,6 +1463,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/cz7dy4yl848o#11",
+    "title": "Sciver-Brunt helps Rockets thrash MI London to reach knockouts ",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cz7dy4yl848o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 08 Aug 2026 13:00:41 GMT",
+    "content": "Nat Sciver-Brunt and Beth Mooney make unbeaten half-centuries as Trent Rockets beat already-eliminated MI London by nine wickets at The Oval.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:19.735Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/cricket/videos/cz7dy4yl848o#7",
     "title": "Sciver-Brunt helps Rockets thrash MI London to reach knockouts ",
     "link": "https://www.bbc.co.uk/sport/cricket/videos/cz7dy4yl848o?at_medium=RSS&at_campaign=rss",
@@ -635,6 +1548,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-09T08:36:37.330Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/videos/cp3r469vq79o#7",
+    "title": "Watch Guimaraes' best moments after Arsenal sign midfield maestro",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cp3r469vq79o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 08 Aug 2026 11:09:40 GMT",
+    "content": "Watch Bruno Guimaraes' best Premier League moments after Arsenal sign the Brazil midfielder from Newcastle.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:11.759Z",
     "isImportant": false
   },
   {
@@ -778,6 +1702,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-08T08:34:28.185Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo#14",
+    "title": "Life as a Wag in the transfer window",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 08 Aug 2026 05:15:34 GMT",
+    "content": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:23.701Z",
     "isImportant": false
   },
   {
@@ -968,6 +1903,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/videos/c98vppyny3go#11",
+    "title": "Partick Thistle beat Livingston in Scottish Championship",
+    "link": "https://www.bbc.co.uk/sport/videos/c98vppyny3go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 07 Aug 2026 21:25:41 GMT",
+    "content": "An early Robbie Crawford back-heel and a Cammy MacPherson own goal give Partick Thistle victory over Livingston as two of the promotion favourites meet in the Scottish Championship at Firhill.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:20.873Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/videos/c98vppyny3go#7",
     "title": "Partick Thistle beat Livingston in Scottish Championship",
     "link": "https://www.bbc.co.uk/sport/videos/c98vppyny3go?at_medium=RSS&at_campaign=rss",
@@ -1064,6 +2010,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-08T08:34:37.327Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/cn9nzy8d793o#11",
+    "title": "Sunrisers in qualification contention after comfortable win over eliminated Phoenix",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cn9nzy8d793o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 07 Aug 2026 21:00:28 GMT",
+    "content": "Sunrisers Leeds earn a vital win in the race for qualification by demolishing Birmingham Phoenix, who are subsequently eliminated from The Hundred after a fifth loss in six games.",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-10T09:14:20.191Z",
     "isImportant": false
   },
   {
@@ -1240,963 +2197,6 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-08T08:34:47.250Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/c70glx1ww78o#3",
-    "title": "到目前为止我们对泰国致命枪击事件的了解",
-    "link": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 17:17:36 GMT",
-    "content": "一名十几岁的男孩在向曼谷一所学校开枪之前开枪射杀了他的祖父母，造成至少七人死亡。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-08T08:33:34.644Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/cycling/articles/cr597qv1634o#2",
-    "title": "Niewiadoma-Phinney wins on Ventoux to take Tour lead",
-    "link": "https://www.bbc.co.uk/sport/cycling/articles/cr597qv1634o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 17:11:42 GMT",
-    "content": "Katarzyna Niewiadoma-Phinney produces a thrilling solo ride to the summit of Mont Ventoux to claim her first Tour de France Femmes stage win and the overall race lead.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:40.380Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cglj813z9rro#1",
-    "title": "'Critically important' summit called on future of Scottish football",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cglj813z9rro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 17:06:48 GMT",
-    "content": "The Scottish Football Association is to hold a \"critically important\" summit around the future of the national game.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:36.721Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cglj813z9rro#10",
-    "title": "'Critically important' summit called on future of Scottish football",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cglj813z9rro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 17:06:48 GMT",
-    "content": "The Scottish Football Association is to hold a \"critically important\" summit around the future of the national game.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:58.070Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/cricket/articles/cwylw8w8zg3o#4",
-    "title": "Sunrisers knock out three sides with win over Phoenix",
-    "link": "https://www.bbc.co.uk/sport/cricket/articles/cwylw8w8zg3o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 16:56:10 GMT",
-    "content": "Sunrisers Leeds put three sides out of contention for the Hundred's knock-out stage with a comprehensive nine-wicket win over Birmingham Phoenix at Edgbaston.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:46.606Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cqjx2ell51ko#5",
-    "title": "McGregor says comeback starts now after knee surgery",
-    "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cqjx2ell51ko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 16:29:35 GMT",
-    "content": "Conor McGregor reiterates his desire to return to fighting after undergoing surgery on the knee injury suffered during his UFC comeback.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:48.706Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151175",
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "pubDate": "Fri, 07 Aug 2026 16:16:09 +0000",
-    "content": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2026-08-08T08:35:24.568Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/clylejzkkx4o#1",
-    "title": "西班牙警方破获“最大”走私网络，逮捕 78 人",
-    "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 16:13:45 GMT",
-    "content": "该团伙将合成毒品从西班牙运往阿尔及利亚，然后利用回程走私移民和武器。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-08T08:32:59.157Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o#0",
-    "title": "90秒停电如何给铁路通勤者带来混乱",
-    "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 16:11:32 GMT",
-    "content": "这一事件引发了人们的疑问：电力供应中断为何会产生如此广泛的影响。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-08T08:33:36.465Z",
-    "isImportant": true
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o#1",
-    "title": "墨西哥和秘鲁在庇护争端后恢复外交关系",
-    "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 15:38:28 GMT",
-    "content": "2025 年 11 月，秘鲁前总理贝齐·查韦斯 (Betssy Chávez) 向墨西哥大使馆寻求庇护后，两国关系破裂。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-08T08:33:10.535Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c87nrpwg20vo#5",
-    "title": "France set to take part in U20 Women's World Cup despite Uefa boycott threat",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c87nrpwg20vo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 15:35:22 GMT",
-    "content": "France say they are still planning to compete in the Under-20 Women's World Cup next month despite a threat from Uefa to boycott Fifa competitions.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:48.178Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo#0",
-    "title": "古德温考虑出售部分国防业务",
-    "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 15:22:51 GMT",
-    "content": "该公司是英国和美国护卫舰和潜艇项目零部件的主要供应商。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-08T08:33:38.308Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c07rxpj2ln9o#8",
-    "title": "Palace sign defender Tomiyasu after pre-season trial",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c07rxpj2ln9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 15:08:25 GMT",
-    "content": "Crystal Palace complete the signing of Japan defender Takehiro Tomiyasu following a successful pre-season trial.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:54.620Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151106",
-    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "pubDate": "Fri, 07 Aug 2026 14:22:49 +0000",
-    "content": "Airbnb will debut a new AI-powered search experience with a toggle.",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2026-08-08T08:35:25.185Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c07rxz03034o#2",
-    "title": "泰国学生说，当我的老师被枪杀时，我正站在她面前",
-    "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 14:20:27 GMT",
-    "content": "这名学生说，在袭击造成五名老师死亡后，她担心再也见不到她的母亲了。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-09T08:35:01.424Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c07rxz03034o#0",
-    "title": "泰国学生说，当我的老师被枪杀时，我正站在她面前",
-    "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 14:20:27 GMT",
-    "content": "这名学生说，在袭击造成五名老师死亡后，她担心再也见不到她的母亲了。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-08T08:32:53.766Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c20j5rle717o#0",
-    "title": "由于夏季持续缓慢，上个月美国就业岗位意外下降",
-    "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 14:03:55 GMT",
-    "content": "分析师原本预计新增就业岗位数量会增加，但 7 月份岗位数量减少了 23,000 个。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-08T08:33:39.717Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3151233",
-    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-    "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-    "pubDate": "Fri, 07 Aug 2026 14:00:00 +0000",
-    "content": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a theory that doesn’t paint Silicon Valley in a very flattering light.   In Lepore’s upcoming book, The Rise and Fall of the Artificial State, the Pulitzer […]",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2026-08-08T08:35:25.696Z",
-    "isImportant": false
-  },
-  {
-    "id": "108346586",
-    "title": "Odds the Fed will hike in September tumble following big July jobs miss",
-    "link": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
-    "pubDate": "Fri, 07 Aug 2026 13:34:44 GMT",
-    "content": "A weaker labor market would weaken the case for raising rates, which some members of the central bank have called for amid higher energy prices.",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2026-08-08T08:35:12.141Z",
-    "isImportant": true
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o#1",
-    "title": "特朗普政府将向德国公司支付 12 亿美元以停止美国风电项目",
-    "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 13:32:41 GMT",
-    "content": "RWE 的赔偿是一系列取消风能项目交易中的最新一项，风能项目长期以来一直受到特朗普的嘲笑。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-08T08:33:16.253Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o#0",
-    "title": "特朗普政府将向德国公司支付 12 亿美元以停止美国风电项目",
-    "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 13:32:41 GMT",
-    "content": "RWE 的赔偿是一系列取消风能项目交易中的最新一项，风能项目长期以来一直受到特朗普的嘲笑。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-08T08:33:40.066Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c74gwz54jedo#5",
-    "title": "Perimeter walls around pitches banned after Vigar death",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c74gwz54jedo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 13:24:10 GMT",
-    "content": "The Football Association has banned solid perimeter walls around pitches after a safety review following the death of former Arsenal youth player Billy Vigar.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:49.921Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5yrqr8npe9o#3",
-    "title": "妈妈们希望交换校服能帮助家庭",
-    "link": "https://www.bbc.co.uk/news/articles/c5yrqr8npe9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 13:23:44 GMT",
-    "content": "物品被捐赠给两人，用于在塔维斯托克图书馆举行的交换活动。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-08T08:34:09.245Z",
-    "isImportant": false
-  },
-  {
-    "id": "108346526",
-    "title": "Stocks making the biggest moves premarket: Atlassian Corporation, Doximity, First Solar, Airbnb & more",
-    "link": "https://www.cnbc.com/2026/08/07/stocks-making-the-biggest-moves-premarket-atlassian-corporation-wendys-vista-corp-first-solar-airbnb-more.html",
-    "pubDate": "Fri, 07 Aug 2026 13:23:35 GMT",
-    "content": "These are the stocks posting the largest moves premarket.",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2026-08-08T08:35:12.595Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c4gw03rqwkwo#14",
-    "title": "Why can't the Premier League attract the world's best players?",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c4gw03rqwkwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 13:22:20 GMT",
-    "content": "Vinicius Jr chose to stay at Real Madrid, but why does the Premier League rarely attract global superstars at their peak?",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-09T08:36:56.864Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c4gw03rqwkwo#2",
-    "title": "Why can't the Premier League attract the world's best players?",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c4gw03rqwkwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 13:22:20 GMT",
-    "content": "Vinicius Jr chose to stay at Real Madrid, but why does the Premier League rarely attract global superstars at their peak?",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:37.901Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cy7j72nvzmzo#15",
-    "title": "A secret invite and other 'pinch-me' moments before Leicester woke up    ",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cy7j72nvzmzo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 12:41:51 GMT",
-    "content": "Leicester are gearing up for League One but 10 years ago they were defending Premier League champions. The dream moments haven't been forgotten.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-09T08:36:58.525Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cy7j72nvzmzo#4",
-    "title": "A secret invite and other 'pinch-me' moments before Leicester woke up    ",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cy7j72nvzmzo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 12:41:51 GMT",
-    "content": "Leicester are gearing up for League One but 10 years ago they were defending Premier League champions. The dream moments haven't been forgotten.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:43.535Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo#4",
-    "title": "Man City reject Barcelona's Rodri bid & in talks for Bouaddi",
-    "link": "https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 12:20:52 GMT",
-    "content": "Manchester City reject £38m offer from Barcelona for Rodri and remain in talks for Lille midfielder Ayyoub Bouaddi.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:44.176Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo#10",
-    "title": "Man City reject Barcelona's £38.5m bid for Rodri",
-    "link": "https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 12:20:52 GMT",
-    "content": "Manchester City are open to selling midfielder Rodri but would demand more than £60m for the Spain captain.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:57.419Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/boxing/articles/cpvw7rkgkrjo#4",
-    "title": "Price fight now likely to be held in 2027 - Shields",
-    "link": "https://www.bbc.co.uk/sport/boxing/articles/cpvw7rkgkrjo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 12:19:36 GMT",
-    "content": "Pound-for-pound star Claressa Shields says a fight with Wales' Lauren Price is now likely to take place in 2027.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:45.911Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go#4",
-    "title": "Norway call on Infantino to resign but two countries back Fifa president",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 12:04:25 GMT",
-    "content": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:44.874Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c0m7knennd3o#4",
-    "title": "Emotional Guimaraes wanted to leave - Newcastle chief Wilson",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c0m7knennd3o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 12:00:16 GMT",
-    "content": "Newcastle United sporting director Ross Wilson says the club did not plan to sell Bruno Guimaraes, but their \"very emotional\" captain wanted to join Arsenal.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:45.443Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151093",
-    "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-    "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-    "pubDate": "Fri, 07 Aug 2026 11:40:37 +0000",
-    "content": "Meta's total fine has racked up to $942 million in this case.",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2026-08-08T08:35:26.200Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c0qv4g0x79go#8",
-    "title": "Atletico Madrid in talks for Tottenham captain Romero",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c0qv4g0x79go?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 10:51:46 GMT",
-    "content": "Atletico Madrid hold talks over a move for Tottenham captain Cristian Romero, who is expected to leave the club this summer.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:55.900Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c39e4jryjn2o#14",
-    "title": "Scottish summer malaise continues, but some room for optimism",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c39e4jryjn2o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 10:28:54 GMT",
-    "content": "Supporters and former Hibs player Scott Allan react to a mixed night for Scottish clubs in Europe.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:35:06.370Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c15171py593o#8",
-    "title": "Lewis-Skelly's chance to threaten Arsenal's big-name midfielders",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c15171py593o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 10:07:49 GMT",
-    "content": "Myles Lewis-Skelly broke into the Arsenal first team at left-back, but the teenager's preference has always been to play in midfield.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:53.491Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c36d8w5g080o#5",
-    "title": "Sullivan expected to ignore safety advice and attend West Ham game",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c36d8w5g080o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 10:03:32 GMT",
-    "content": "David Sullivan is expected to attend Saturday's EFL Cup first-round tie against Portsmouth despite being advised to stay away from home matches at the London Stadium.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:50.650Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#1",
-    "title": "Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元",
-    "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 09:22:03 GMT",
-    "content": "除了该裁决之外，Meta 还被勒令在此案中支付 3.75 亿美元的罚款，总计 9.42 亿美元。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-08T08:33:12.975Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo#2",
-    "title": "德国机场无人机炸弹袭击：俄罗斯可能参与其中吗？",
-    "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 08:48:16 GMT",
-    "content": "英国广播公司从之前的案件中看到证据表明，与俄罗斯有关的代理人不仅处理无人机和爆炸物，而且还将它们运送到德国。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-08T08:33:30.606Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go#0",
-    "title": "墨西哥与阿根廷一起支持因凡蒂诺",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 08:42:12 GMT",
-    "content": "墨西哥反对其地区管理机构中北美及加勒比地区足联，公开支持饱受批评的国际足联主席詹尼·因凡蒂诺。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:54:41.069Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o#1",
-    "title": "“蟑螂”抗议后，印度各邦掀起了新的青年骚乱",
-    "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 08:32:57 GMT",
-    "content": "在印度共产党的抗议活动震惊德里几周后，一场由青年领导的新的就业和招聘运动正在贾坎德邦集结。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-08T08:33:12.250Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#0",
-    "title": "Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元",
-    "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 08:06:40 GMT",
-    "content": "除了该裁决之外，Meta 还被勒令在此案中支付 3.75 亿美元的罚款，总计 9.42 亿美元。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:51:06.290Z",
-    "isImportant": true
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#0",
-    "title": "Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元",
-    "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 08:06:40 GMT",
-    "content": "除了该裁决之外，Meta 还被勒令在此案中支付 3.75 亿美元的罚款，总计 9.42 亿美元。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-07T08:53:12.137Z",
-    "isImportant": true
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/clyj57g4kkeo#5",
-    "title": "人们想从阿尔戈斯得到什么？",
-    "link": "https://www.bbc.co.uk/news/videos/clyj57g4kkeo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 08:04:21 GMT",
-    "content": "由于 Sainsbury 同意以 1.2 亿英镑出售 Argos，我们询问人们是否仍然在那里购物，以及新所有者可以采取哪些措施来与亚马逊等大型在线零售商竞争。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-07T08:54:24.549Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cvg9pe0jv7zo#2",
-    "title": "斯坦威提高了 Thistle 促销竞标 - 观看 BBC 直播",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvg9pe0jv7zo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 08:00:11 GMT",
-    "content": "马克·威尔逊认为，让帕蒂克·提斯特尔重回苏格兰超级联赛的目标是本·斯坦威在周五 BBC 苏格兰直播比赛中利文斯顿造访时签署一份令人惊讶的新合同的一个重要因素。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:55:39.554Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c78gzlkm0xko#8",
-    "title": "National League returns - can it live up to last season's drama?",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c78gzlkm0xko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 07:35:19 GMT",
-    "content": "The National League kicks off on Saturday with a lot to live up to following the most dramatic end to the 2025-26 campaign.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:53.020Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/cricket/articles/cx250x8xwe6o#2",
-    "title": "我是谁？ 猜猜百强板球明星第 18 名",
-    "link": "https://www.bbc.co.uk/sport/cricket/articles/cx250x8xwe6o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 07:00:29 GMT",
-    "content": "你会以尽可能少的尝试获得今天的球员吗？",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:55:43.708Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/clyj5e2lyp0o#10",
-    "title": "为什么斯旺西主帅马托斯不喜欢三人",
-    "link": "https://www.bbc.co.uk/sport/football/articles/clyj5e2lyp0o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 06:58:07 GMT",
-    "content": "维托尔·马托斯坚称，在签下罗斯·斯图尔特后，斯旺西城可以在 2026-27 赛季在队中配备三名高级前锋。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:58:35.187Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/tennis/articles/cr7kl7jxv59o#0",
-    "title": "诺里在蒙特利尔精彩反击中挽救赛点",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/cr7kl7jxv59o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 06:56:04 GMT",
-    "content": "英国选手卡梅伦·诺里在加拿大公开赛上凭借出色的反击击败世界排名第七的亚历克斯·德米纳尔，挽救了一个赛点。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:54:55.455Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/tennis/articles/cr7kl7jxv59o#10",
-    "title": "诺里在蒙特利尔精彩反击中挽救赛点",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/cr7kl7jxv59o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 06:56:04 GMT",
-    "content": "英国选手卡梅伦·诺里在加拿大公开赛上凭借出色的反击击败世界排名第七的亚历克斯·德米纳尔，挽救了一个赛点。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:58:32.583Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/c1j1eg31y6no#3",
-    "title": "日本医院手术室瞬间发生地震",
-    "link": "https://www.bbc.co.uk/news/videos/c1j1eg31y6no?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 06:46:34 GMT",
-    "content": "监控录像显示，上个月熊本综合医院发生 6.8 级地震时，医生正在保护手术台上的一名患者。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:52:50.142Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c87nlvj2zy9o#8",
-    "title": "Caldentey embraces 'cool' pressure as Arsenal target Treble",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c87nlvj2zy9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 06:27:36 GMT",
-    "content": "Midfielder Mariona Caldentey explains why Arsenal, strengthened by seven new players, are talking up their chances of winning the Treble this season.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:56.453Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c87nlvj2zy9o#0",
-    "title": "卡尔登蒂拥抱“冷静”压力，阿森纳瞄准三冠王",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c87nlvj2zy9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 06:27:36 GMT",
-    "content": "中场球员马里奥纳·卡尔登蒂解释了为什么阿森纳在七名新球员的加入下，正在谈论他们本赛季赢得三冠王的机会。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:54:59.147Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cdx7wq2r21yo#14",
-    "title": "39 moves across five countries - football's ultimate journeyman",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cdx7wq2r21yo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 06:21:57 GMT",
-    "content": "As he prepares to manage in the FA Cup for the first time, Zeph Thomas tells BBC Sport about his extraordinary career path spanning 39 moves in 18 years.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:35:05.730Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cdx7wq2r21yo#0",
-    "title": "跨越五个国家的 39 次转会——足球的终极熟练工",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cdx7wq2r21yo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 06:21:57 GMT",
-    "content": "当泽夫·托马斯准备首次执教足总杯时，他向 BBC 体育频道讲述了他在 18 年里 39 次转会的非凡职业生涯。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:54:45.894Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo#1",
-    "title": "澳大利亚航空机组人员在仲冬进行大胆的南极洲救援",
-    "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 05:44:29 GMT",
-    "content": "飞机在完全黑暗和 -43°C 的温度下着陆后，团队从麦克默多站疏散了一名患者。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-08T08:33:19.407Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo#0",
-    "title": "澳大利亚航空机组人员在仲冬进行大胆的南极洲救援",
-    "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 05:44:29 GMT",
-    "content": "飞机在完全黑暗和 -43°C 的温度下着陆后，团队从麦克默多站疏散了一名患者。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:51:23.490Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c8dne1893elo#1",
-    "title": "我是谁？ 猜猜英超18号球星",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c8dne1893elo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 05:39:30 GMT",
-    "content": "以尽可能少的尝试找出当今玩家的身份。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:55:14.829Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o#5",
-    "title": "Who will leave Chelsea? How Blues could cut 41-man squad",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 05:34:16 GMT",
-    "content": "With 25 days until the transfer window closes, Chelsea will be working hard to cut their 41-man senior squad. But who could be heading out?",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-08T08:34:47.696Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o#0",
-    "title": "谁将离开切尔西？ 蓝军如何削减 41 人阵容",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 05:34:16 GMT",
-    "content": "距离转会窗口关闭还有 25 天，切尔西将努力削减 41 人的成年阵容。 但谁能出去呢？",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:54:36.153Z",
-    "isImportant": true
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o#10",
-    "title": "谁将离开切尔西？ 蓝军如何削减 41 人阵容",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 05:34:16 GMT",
-    "content": "距离转会窗口关闭还有 25 天，切尔西将努力削减 41 人的成年阵容。 但谁能出去呢？",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:58:30.443Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/cly83vm923go#3",
-    "title": "台湾总统为何半夜撤离？",
-    "link": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 04:52:19 GMT",
-    "content": "台湾总统赖清德参加了紧急疏散演习，这是台湾为应对中国潜在入侵做准备的军事演习的一部分。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:53:03.771Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo#0",
-    "title": "欧足联表示，随着英足总撤回对因凡蒂诺的支持，抵制活动仍可能继续进行",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 01:57:02 GMT",
-    "content": "欧洲管理机构欧足联表示，国际足联在周三的一次会议上对主席詹尼·因凡蒂诺的支持“没有改变任何事情”。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:51:12.711Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo#2",
-    "title": "欧足联表示，随着英足总撤回对因凡蒂诺的支持，抵制活动仍可能继续进行",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 01:57:02 GMT",
-    "content": "欧洲管理机构欧足联表示，国际足联在周三的一次会议上对主席詹尼·因凡蒂诺的支持“没有改变任何事情”。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:55:15.263Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o#3",
-    "title": "“被消灭”——英国广播公司报道斯波坎社区被大火摧毁",
-    "link": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 01:10:58 GMT",
-    "content": "官员们仍在努力控制大火，大火已烧毁至少 860 座建筑物，其中包括数百所房屋。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:52:53.797Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cdrvn686dljo#1",
-    "title": "特朗普对关键芯片材料征收15%关税以对抗中国",
-    "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 01:03:35 GMT",
-    "content": "此举旨在保护美国公司，因为它们面临着来自中国芯片行业日益激烈的竞争。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:51:39.055Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cdrvn686dljo#0",
-    "title": "特朗普对关键芯片材料征收15%关税以对抗中国",
-    "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 01:03:35 GMT",
-    "content": "此举旨在保护美国公司，因为它们面临着来自中国芯片行业日益激烈的竞争。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-07T08:53:18.614Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo#1",
-    "title": "两人因法国主播死亡事件被定罪",
-    "link": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 00:51:40 GMT",
-    "content": "46 岁的拉斐尔·格雷文 (Raphaël Graven) 于 2025 年 8 月去世，流媒体平台 Kick 现场直播了他的死讯。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:51:32.396Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj63966j95yo#1",
-    "title": "特朗普再次试图通过新的行政命令限制美国出生公民权",
-    "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 00:34:14 GMT",
-    "content": "该行政命令禁止生育旅游，并扩大了其子女不符合美国出生公民权的现有定义。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-08T08:33:17.041Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj63966j95yo#0",
-    "title": "特朗普再次试图通过新的行政命令限制美国出生公民权",
-    "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 00:34:14 GMT",
-    "content": "该行政命令禁止生育旅游，并扩大了其子女不符合美国出生公民权的现有定义。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:51:08.491Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cr7kldz4djno#2",
-    "title": "苏丹的隐形儿童——在战争中出生却没有合法身份",
-    "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Fri, 07 Aug 2026 00:26:52 GMT",
-    "content": "因强奸而出生的婴儿往往无法获得出生证明，这意味着一生都会遇到问题。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:52:35.910Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo#1",
-    "title": "监管机构发现，多吉夸大其为美国人节省了 1100 亿美元的说法",
-    "link": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 06 Aug 2026 23:55:35 GMT",
-    "content": "对以前负责削减政府支出的机构进行的审查发现其计算存在几个问题。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:51:36.196Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo#0",
-    "title": "为什么航空公司对锂离子电池发出警告",
-    "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 06 Aug 2026 23:04:40 GMT",
-    "content": "航空业希望乘客在携带锂离子电池旅行时要小心。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-07T08:53:27.586Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o#0",
-    "title": "Argos 正在进行改造 - 但它能吸引新的购物者吗？",
-    "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 06 Aug 2026 23:03:48 GMT",
-    "content": "这家零售商已有 50 年历史，但在与亚马逊等新竞争对手的竞争中举步维艰。 它的新主人能否扭转局面？",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-07T08:53:15.724Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151017",
-    "title": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间",
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "pubDate": "Thu, 06 Aug 2026 22:43:53 +0000",
-    "content": "有关 OpenAI 神秘的新型人工智能设备的更多细节使它听起来像一个昂贵的智能扬声器。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2026-08-07T09:01:53.367Z",
-    "isImportant": true
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo#1",
-    "title": "据报道，胡塞武装袭击造成至少30名也门政府军死亡",
-    "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 06 Aug 2026 22:41:09 GMT",
-    "content": "胡塞武装称，他们向中部马里布省和哈德拉毛省的“沙特军事基地”发射了导弹和无人机。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:52:10.444Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ce3e4enkrqro#2",
-    "title": "印度是一个步行者的国家 - 但它的城市忘记了他们",
-    "link": "https://www.bbc.co.uk/news/articles/ce3e4enkrqro?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 06 Aug 2026 22:39:46 GMT",
-    "content": "印度最高法院将注意力集中在不安全的人行道和该国被遗忘的行人身上。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:52:43.363Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/boxing/articles/cx2dp2lgw1do#4",
-    "title": "爱尔兰拳击手里维斯在医院“取得进展”",
-    "link": "https://www.bbc.co.uk/sport/boxing/articles/cx2dp2lgw1do?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 06 Aug 2026 22:33:17 GMT",
-    "content": "昆斯伯里的发起人弗兰克·沃伦表示，爱尔兰拳击手李·里维斯周六晚上在都柏林比赛后住院，目前正在“取得进展”。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:56:40.430Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o#3",
-    "title": "杰基在哪里？ 心爱的直播鹰情况危急",
-    "link": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 06 Aug 2026 22:31:18 GMT",
-    "content": "这只秃鹰作为加州巢穴直播的主角而闻名于世，它被诊断出患有贫血症。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:53:05.994Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c0kmd62el06o#1",
-    "title": "麦金尼斯上任初期，旧习惯困扰着流浪者队",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c0kmd62el06o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 06 Aug 2026 22:30:52 GMT",
-    "content": "德里克·麦金尼斯表示，流浪者队“犯了打败自己的罪”，因为他的球队在欧罗巴联赛首回合输给比亚韦斯托克的比赛中丢掉了廉价的进球。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:55:03.695Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o#2",
-    "title": "“放下手机”：韩国流行乐队探讨音乐会礼仪",
-    "link": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 06 Aug 2026 22:07:11 GMT",
-    "content": "柯蒂斯的请求在热衷于捕捉每一个瞬间的粉丝群体中引起了不同的反应。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:52:36.506Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/rugby-league/articles/c62x34le1p8o#4",
-    "title": "圣海伦斯队输给赫尔足球俱乐部后附加赛希望破灭",
-    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c62x34le1p8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 06 Aug 2026 22:01:22 GMT",
-    "content": "随着圣海伦斯的赛季继续瓦解，哈维·巴伦 (Harvey Barron) 的首个成年队帽子戏法激励实力不强的赫尔足球俱乐部 (Hull FC) 在 BrewDog 体育场取得九年来的首场胜利。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:56:20.292Z",
-    "isImportant": false
-  },
-  {
-    "id": "108346272",
-    "title": "盘后涨幅最大的股票：Twilio、Airbnb、DraftKings、Trade Desk 等",
-    "link": "https://www.cnbc.com/2026/08/06/stocks-making-the-biggest-moves-after-hours-sg-abnb-dkng-ttd.html",
-    "pubDate": "Thu, 06 Aug 2026 21:53:59 GMT",
-    "content": "这些是在盘中交易中涨幅最大的股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2026-08-07T09:00:13.657Z",
-    "isImportant": true
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/c89n8940vq8o#3",
-    "title": "观看：美国宇航局宇航员在国际空间站外进行 6.5 小时太空行走",
-    "link": "https://www.bbc.co.uk/news/videos/c89n8940vq8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 06 Aug 2026 21:49:48 GMT",
-    "content": "宇航员阿尼尔·梅农 (Anil Menon) 和杰西卡·梅尔 (Jessica Meir) 冒险出去安装安装硬件，以便将来在空间站添加太阳能电池板。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-07T08:52:58.556Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/ce971e8ny8mo#8",
-    "title": "伯明翰以10万英镑签下前锋埃法·埃法",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ce971e8ny8mo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 06 Aug 2026 21:26:51 GMT",
-    "content": "伯明翰城签下了来自勒阿弗尔的法国青年国脚尚塞勒·埃法·埃法。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-07T08:58:04.595Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/cricket/videos/c3r0752wvdwo#11",
-    "title": "Spirit eliminated after losing fiery match against MI London",
-    "link": "https://www.bbc.co.uk/sport/cricket/videos/c3r0752wvdwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 06 Aug 2026 21:18:20 GMT",
-    "content": "London Spirit become the first team to be eliminated from The Hundred after a four-wicket defeat by MI London in front of a record crowd at Lord's.",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-09T08:36:49.318Z",
     "isImportant": false
   }
 ]
