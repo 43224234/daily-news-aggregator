@@ -1,5 +1,489 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o#0",
+    "title": "特朗普称赞美国控制委内瑞拉650亿桶石油的“历史性”协议",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 13:16:43 GMT",
+    "content": "委内瑞拉临时总统表示，这项不寻常的协议将有助于重振该国经济。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:17.716Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o#0",
+    "title": "特朗普称赞美国控制委内瑞拉650亿桶石油的“历史性”协议",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 13:16:43 GMT",
+    "content": "委内瑞拉临时总统表示，这项不寻常的协议将有助于重振该国经济。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2026-08-29T13:32:42.111Z",
+    "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c86xwqez4npo#0",
+    "title": "基辅武器库遭袭 至少37人死亡 数百人撤离",
+    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 12:55:39 GMT",
+    "content": "一项针对乌克兰军队在居民区附近储存武器的调查已经开始。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:15.430Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cx2zwwz5z4no#1",
+    "title": "三周的国际比赛打破了人们的担忧——穆里尼奥",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2zwwz5z4no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 12:54:26 GMT",
+    "content": "穆里尼奥表示，为期三周的国际比赛日是皇马的一个“担忧”，几名关键球员在世界杯后面临着艰巨的赛程。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:16.209Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o#0",
+    "title": "森林队将为埃弗顿少年阿姆斯特朗出价4000万英镑",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 12:41:06 GMT",
+    "content": "诺丁汉森林发起了一项雄心勃勃的竞标，签下埃弗顿的青少年中场球员哈里森·阿姆斯特朗。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:09.674Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3eq38dzpe5o#3",
+    "title": "理发师提供免费返校理发服务",
+    "link": "https://www.bbc.co.uk/news/articles/c3eq38dzpe5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 11:47:46 GMT",
+    "content": "吉尔福德理发师 Sid Gumbrell 表示，他想回馈父母并帮助他们支付生活费用。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2026-08-29T13:32:58.340Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/tennis/articles/c74exxnd7r3o#0",
+    "title": "美国公开赛上的大麻气味令人分心——博尔特",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c74exxnd7r3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 11:07:31 GMT",
+    "content": "英国排名第一的凯蒂·博尔特抱怨大麻的气味让她无法参加美国公开赛。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:11.332Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/formula1/articles/cj06j11ej4lo#1",
+    "title": "缓慢的起步让我想留下来 - 诺里斯将迈凯轮合约延长至 2030 年",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/cj06j11ej4lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 09:52:52 GMT",
+    "content": "在 BBC 体育频道的独家采访中，兰多·诺里斯解释了为何他签署了一份新合同，该合同将使他至少在迈凯伦效力到 2030 年底。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:13.624Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/triathlon/articles/cyvz3y2vgq0o#5",
+    "title": "博格兰在威海再次获胜，波特获得第二名",
+    "link": "https://www.bbc.co.uk/sport/triathlon/articles/cyvz3y2vgq0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 08:51:38 GMT",
+    "content": "法国选手卡桑德尔·博格兰德在世界铁人三项锦标赛系列赛中取得四连胜，英国选手贝丝·波特在威海获得第二名。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:49.915Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy8z9084d00o#1",
+    "title": "荷兰卫生机构对特朗普形状的摇头丸发出“红色警报”",
+    "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 08:48:34 GMT",
+    "content": "卫生研究所表示，这些药物具有延迟作用，“增加了用药过量的风险”。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:24.404Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o#0",
+    "title": "利物浦同意以 1.23 亿英镑收购巴黎圣日耳曼球队巴克拉",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 08:03:53 GMT",
+    "content": "利物浦即将签下前锋布拉德利·巴克拉，这将增加人们对科迪·加克波未来的怀疑。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:06.816Z",
+    "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o#1",
+    "title": "前白宫提词器操作员被勒令为特朗普演讲投注支付 172,000 美元",
+    "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 07:11:04 GMT",
+    "content": "这名工作人员被发现利用他对总统演讲的事先了解进行了利润丰厚的赌注。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:22.229Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c70d4n1d0r9o#2",
+    "title": "这个小镇力求在德甲首秀中克服困难",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c70d4n1d0r9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 06:55:10 GMT",
+    "content": "埃尔弗斯贝格没有火车站，人口只有 13,000 人，但它的足球队却从德国地区联赛迅速崛起到德甲联赛。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:29.834Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/boxing/articles/c5ye30735xpo#1",
+    "title": "Itauma 诉 Hrgovic - 重量级世界冠军争夺战预测",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/c5ye30735xpo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 06:21:04 GMT",
+    "content": "来自拳击界的人物对周六摩西·伊塔马 (Moses Itauma) 和菲利普·赫尔戈维奇 (Filip Hrgovic) 之间的重量级世界冠军争夺战进行了预测。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:18.694Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c07ler0rxlro#2",
+    "title": "特里皮尔称赞麦莉在纽卡斯尔面对托纳利重聚时的“伟大表现”",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c07ler0rxlro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 06:11:10 GMT",
+    "content": "纽卡斯尔中场球员刘易斯·麦利 (Lewis Miley) 20 岁，准备在托特纳姆热刺球场迎战前队友桑德罗·托纳利 (Sandro Tonali)，他将“随心所欲”。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:32.387Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/tennis/articles/cgmr97470epo#2",
+    "title": "英国选手费里首次闯入ATP巡回赛决赛，对手退赛",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cgmr97470epo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 06:03:20 GMT",
+    "content": "阿瑟·费里首次进入 ATP 巡回赛决赛，对手詹姆斯·达克沃斯在温斯顿塞勒姆公开赛上因伤退赛。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:27.115Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c8d3jpyd1rno#5",
+    "title": "这位 50 岁的业余足球运动员成为病毒式的灵感来源",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c8d3jpyd1rno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 05:30:20 GMT",
+    "content": "50 岁的克雷格·柯比 (Craig Kirby) 在儿子去世后曾想过退出足球界，但他没想到记录自己最后一个赛季的视频会走红。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:56.959Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c89jw4554e5o#2",
+    "title": "通过我们的每日测验来锻炼你的足球大脑",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c89jw4554e5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 05:18:55 GMT",
+    "content": "通过今天的《我是谁？》、《五中五》和《脑筋急转弯》来测试您的球知识。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:33.325Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/videos/c3r02929wllo#3",
+    "title": "让我们勇敢地进入英超联赛——考文垂的兰帕德",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c3r02929wllo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 05:13:17 GMT",
+    "content": "弗兰克·兰帕德和汤姆·格伦南讨论了为什么考文垂本赛季将在英超联赛中踢出勇敢的足球。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:40.635Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c87v04d59n3o#2",
+    "title": "兰帕德处于穆里尼奥和安切洛蒂的“中间”",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c87v04d59n3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 05:12:27 GMT",
+    "content": "考文垂城主帅弗兰克·兰帕德在自己的执教生涯八年后，将何塞·穆里尼奥和卡利·安切洛蒂视为对他的风格产生主要影响的人。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:23.049Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm2r9n2mrp8o#2",
+    "title": "忘记星巴克咖啡吧——Z 世代喜欢他们的冰镇饮料",
+    "link": "https://www.bbc.co.uk/news/articles/cm2r9n2mrp8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 04:30:27 GMT",
+    "content": "年轻消费者正在选择可定制的冷饮，咖啡连锁店也在竞相追赶。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:39.566Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo#0",
+    "title": "中国没有播放西藏洪水的镜头——我们对那里的受害者知之甚少",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 03:54:11 GMT",
+    "content": "这场致命的山洪爆发中一些最引人注目的镜头在中国的公众视野中是隐藏的。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:12.597Z",
+    "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo#2",
+    "title": "美伊战争影响蔓延，索马里海盗猖獗",
+    "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 01:14:13 GMT",
+    "content": "上周四天内有两艘船被扣押，自 1 月份以来遭到袭击的数量至少达到 13 艘。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:33.181Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo#1",
+    "title": "冰岛就是否重启加入欧盟谈判进行投票",
+    "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 00:56:19 GMT",
+    "content": "动荡的国际事务促使投票提前，但竞选活动更多地关注冰岛至关重要的渔业。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:21.136Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo#2",
+    "title": "“图书女王”多莉·帕顿如何用阅读天赋激励数百万儿童",
+    "link": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 00:35:04 GMT",
+    "content": "全球各地的家庭分享帕顿想象力图书馆的免费书籍如何帮助他们的孩子。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:35.445Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c99dvm39mreo#0",
+    "title": "9/11 劫机者的女房东透露了他们与涉嫌沙特间谍的联系",
+    "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 00:32:17 GMT",
+    "content": "一名向两名基地组织成员出租房屋的妇女首次向 BBC 公开讲话。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:19.411Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o#2",
+    "title": "哪些关税真正会让加拿大人和美国人付出代价",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 29 Aug 2026 00:15:19 GMT",
+    "content": "一年多来，家庭和企业已经习惯了关税影响生活成本，那么现在会发生什么变化呢？",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:40.049Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o#1",
+    "title": "加拿大为其大学挖走数十名美国顶尖研究人员",
+    "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 23:47:38 GMT",
+    "content": "新的研究资金正在吸引气候和医学等领域的研究人员北上。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:27.318Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/golf/articles/c20lnlpx714o#6",
+    "title": "霍夫兰在巡回锦标赛中并列领先",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/c20lnlpx714o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 23:09:36 GMT",
+    "content": "挪威选手维克托·霍夫兰 (Viktor Hovland) 和美国选手瑞安·杰拉德 (Ryan Gerard) 以低于标准杆 10 杆的成绩并列领先，即将在亚特兰大举行的巡回锦标赛周末举行。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:13.216Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo#2",
+    "title": "魔术师和特立独行者——这可能是切尔基在曼城的时刻",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 22:56:42 GMT",
+    "content": "在对阵水晶宫的比赛中打入两粒进球并表现得神气十足后，菲尔·麦克纳尔蒂询问拉扬·切尔基现在是否是为曼城大放异彩的时候了。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:24.985Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cjw5056v9v7o#9",
+    "title": "麦金尼斯支持自己带领流浪者队取得成功",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cjw5056v9v7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 22:29:37 GMT",
+    "content": "经理德里克·麦金尼斯表示，流浪者队距离他想要的“还有很长的路要走”，但他支持自己在埃布罗克斯取得成功。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:28.716Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/rugby-league/articles/c4gq4ep3gg7o#9",
+    "title": "哈德斯菲尔德五次尝试获胜，击败了李",
+    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c4gq4ep3gg7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 22:00:52 GMT",
+    "content": "哈德斯菲尔德巨人队五次尝试得分，击败了状态正佳的李，让豹队等待确保他们在超级联赛附加赛中的席位。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:35.265Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/rugby-league/articles/c8r6dyk5g2eo#5",
+    "title": "利兹联在圣海伦斯大胜，重回榜首",
+    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c8r6dyk5g2eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 21:59:42 GMT",
+    "content": "利兹犀牛队客场罕见地全面战胜圣海伦斯队，以积分优势重返超级联赛榜首。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:59.522Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no#3",
+    "title": "哈兰德和切尔基带领曼城在皇宫取得胜利",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 21:30:06 GMT",
+    "content": "埃尔林·哈兰德和拉扬·切尔基双双梅开二度，帮助曼城在英超联赛中4-1战胜水晶宫。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:35.728Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo#1",
+    "title": "市长称柏林正遭受黑客勒索",
+    "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 21:29:01 GMT",
+    "content": "凯·韦格纳表示，德国首都和城邦不会屈服于网络攻击中被盗数据的赎金要求。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:28.656Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo#3",
+    "title": "尼泊尔洪水后获救的97岁老妇看起来像“战士”",
+    "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 21:17:54 GMT",
+    "content": "一位 97 岁的妇女古纳·玛雅·博哈拉 (Guna Maya Bohara) 在山洪暴发中幸存下来，并被挖掘机救出。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:41.429Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cp8416ll9yvo#2",
+    "title": "阿森纳和巴萨监视拉什福德 - 周六的八卦",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cp8416ll9yvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 20:48:59 GMT",
+    "content": "阿森纳关注马库斯·拉什福德，切尔西关注摩纳哥的拉明·卡马拉，瓦伦西亚则力争利物浦中场哈维·埃利奥特等等。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:20.558Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/darts/articles/czjz78lwjzzo#5",
+    "title": "格里夫斯在欧洲首秀中输给了克罗斯",
+    "link": "https://www.bbc.co.uk/sport/darts/articles/czjz78lwjzzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 20:35:22 GMT",
+    "content": "博·格里夫斯 (Beau Greaves) 在匈牙利飞镖杯欧洲巡回赛首秀中以 6-5 险胜罗布·克罗斯 (Rob Cross)。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:01.591Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://techcrunch.com/?p=3158531",
+    "title": "Neocloud Lambda 获得 10 亿美元债务以购买更多芯片",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "pubDate": "Fri, 28 Aug 2026 20:24:11 +0000",
+    "content": "Neocloud Lambda 已筹集 10 亿美元私人债务来购买 Nvidia AI 芯片并将其出租给微软。 这是一系列贷款中的最新一笔，突显了人工智能热潮的高昂成本。",
+    "source": "TechCrunch",
+    "category": "人工智能",
+    "fetchedAt": "2026-08-29T13:36:20.635Z",
+    "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/tennis/articles/c3rexy3jllyo#6",
+    "title": "伤病的不确定性导致了阿尔卡拉斯的“侵入性想法”",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c3rexy3jllyo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 20:16:44 GMT",
+    "content": "七届大满贯冠军卡洛斯·阿尔卡拉斯表示，不知道自己何时能够从手腕受伤中恢复是他长期缺席期间最具挑战性的部分。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:17.812Z",
+    "isImportant": false
+  },
+  {
+    "id": "108355880",
+    "title": "玉米和小麦价格跃升至三年多来的最高价格",
+    "link": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
+    "pubDate": "Fri, 28 Aug 2026 20:00:56 GMT",
+    "content": "玉米和小麦期货已飙升至三年多来的最高水平。 但最近这些反弹的原因明显不同。",
+    "source": "CNBC",
+    "category": "股市",
+    "fetchedAt": "2026-08-29T13:35:34.755Z",
+    "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/czxzv29p12lo#1",
+    "title": "格陵兰岛称种族灭绝指控的调查结果尚未最终",
+    "link": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 19:57:50 GMT",
+    "content": "专家们研究了 20 世纪 60 年代和 70 年代因纽特社区强制避孕的使用情况。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:29.958Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/tennis/articles/c20v7y3vy2do#5",
+    "title": "“我向穆雷学习”——博尔特不会犯结婚戒指错误",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c20v7y3vy2do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 19:55:25 GMT",
+    "content": "安迪·穆雷长期以来一直是英国网球界的指导人物，但新婚的凯蒂·博尔特在备战美国网球公开赛时，在确保结婚戒指安全方面不会效仿他的做法。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:47.030Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo#1",
+    "title": "英国广播公司 (BBC) 表示，美国计划切断对中东主要盟友的军事援助",
+    "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 19:45:39 GMT",
+    "content": "伊拉克库尔德斯坦担心特朗普政府的计划将使该地区更容易受到伊朗的进一步袭击。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:32.222Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o#0",
     "title": "右翼评论员米洛·扬诺普洛斯 (Milo Yiannopoulos) 被 ICE 拘留",
     "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
@@ -20,6 +504,17 @@
     "category": "国际",
     "fetchedAt": "2026-08-28T19:49:45.544Z",
     "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/articles/c17j0y17epdo#5",
+    "title": "萨法拉兹否认知道巴基斯坦威胁结束巡演",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c17j0y17epdo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 19:38:35 GMT",
+    "content": "主教练萨法拉兹·艾哈迈德表示，他和他的球员们并不知道巴基斯坦板球委员会在接受天空电视台采访伊姆兰·汗的儿子时对英格兰和威尔士板球委员会发出威胁。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:52.796Z",
+    "isImportant": false
   },
   {
     "id": "108355897",
@@ -55,6 +550,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o#6",
+    "title": "当沃特金斯即将退出时，杰克逊会给维拉带来什么？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 19:14:48 GMT",
+    "content": "BBC体育频道探讨了尼古拉斯·杰克逊将为阿斯顿维拉带来什么新前锋，奥利·沃特金斯有望加盟阿尔希拉尔。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:14.973Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o#0",
     "title": "当沃特金斯即将退出时，杰克逊会给维拉带来什么？",
     "link": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o?at_medium=RSS&at_campaign=rss",
@@ -63,6 +569,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-28T19:52:10.631Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/articles/cvgy0zdex14o#5",
+    "title": "英格兰如何发起进攻来困扰澳大利亚",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cvgy0zdex14o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 19:11:13 GMT",
+    "content": "前英格兰队队长迈克尔·沃恩预测英格兰队的新节奏四重奏将给澳大利亚带来麻烦 - 那么是什么让他们在对阵巴基斯坦时有效呢？",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:44.686Z",
     "isImportant": false
   },
   {
@@ -75,6 +592,17 @@
     "category": "体育",
     "fetchedAt": "2026-08-28T19:52:04.211Z",
     "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o#1",
+    "title": "西方官员称，俄罗斯言辞激烈，但希望避免与北约发生战争",
+    "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 19:05:23 GMT",
+    "content": "但他们表示，莫斯科可能会继续针对北约成员国采取“混合活动”，而不采取直接军事行动。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:25.740Z",
+    "isImportant": false
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o#0",
@@ -96,6 +624,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-28T19:53:10.849Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/cwyz10x20p3o#3",
+    "title": "英格兰队在主球场享受统治性的一天，接近系列赛胜利",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cwyz10x20p3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 18:29:17 GMT",
+    "content": "英格兰队在当天的球棒和球方面都占据了统治地位，让自己完全掌控了对阵巴基斯坦的第二场测试赛，第二天比赛以 81-3 结束，主队在洛德球场领先 261 分。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:33:37.696Z",
     "isImportant": false
   },
   {
@@ -132,6 +671,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/athletics/articles/c5yenn85dqgo#6",
+    "title": "更多英国运动员因巴蒂斯特案被定罪",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/c5yenn85dqgo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 17:54:59 GMT",
+    "content": "BBC体育透露，威尔·沙曼、理查德·沙曼和拉明·迪恩也在此案中被定罪，导致莱昂·巴蒂斯特入狱。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:08.276Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/athletics/articles/c5yenn85dqgo#0",
     "title": "更多英国运动员因巴蒂斯特案被定罪",
     "link": "https://www.bbc.co.uk/sport/athletics/articles/c5yenn85dqgo?at_medium=RSS&at_campaign=rss",
@@ -140,6 +690,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-28T19:52:06.941Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo#0",
+    "title": "乱流中丧生男子的妻子起诉航空公司",
+    "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 17:47:00 GMT",
+    "content": "琳达·基钦 (Linda Kitchen) 的律师表示，飞机从 6,000 英尺高空坠落后，她的丈夫“受了致命伤”。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2026-08-29T13:32:44.984Z",
     "isImportant": false
   },
   {
@@ -165,6 +726,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/boxing/articles/czxzv235w54o#9",
+    "title": "梅耶尔和卡梅伦在最后对峙中发生冲突",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/czxzv235w54o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 17:35:37 GMT",
+    "content": "周六在伯明翰举行的轻中量级统一战之前，米凯拉·梅耶尔和尚特尔·卡梅伦在最后一场对决中头槌相撞。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:31.191Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/boxing/articles/czxzv235w54o#1",
     "title": "梅耶尔和卡梅伦在最后对峙中发生冲突",
     "link": "https://www.bbc.co.uk/sport/boxing/articles/czxzv235w54o?at_medium=RSS&at_campaign=rss",
@@ -176,6 +748,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro#1",
+    "title": "小偷光天化日之下从维也纳博物馆偷走 600 颗钻石项链",
+    "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 17:29:16 GMT",
+    "content": "警方正在追捕两名嫌疑人，他们认为他们购买了展览门票来获取珠宝。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:29.081Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro#0",
     "title": "小偷光天化日之下从维也纳博物馆偷走 600 颗钻石项链",
     "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
@@ -184,6 +767,17 @@
     "source": "BBC News",
     "category": "国际",
     "fetchedAt": "2026-08-28T19:49:56.734Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/boxing/articles/cly4v9qg7l4o#9",
+    "title": "称重时赫尔戈维奇被推下舞台后扇了伊塔玛一巴掌",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/cly4v9qg7l4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 17:04:47 GMT",
+    "content": "英国重量级拳手摩西·伊塔马将菲利普·赫尔戈维奇推下了舞台，克罗地亚人扇了他一巴掌，周六的世界冠军赛称重现场爆发了混乱。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:27.140Z",
     "isImportant": false
   },
   {
@@ -217,6 +811,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-28T19:53:03.657Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo#1",
+    "title": "移民危机持续，休达爆发暴力事件",
+    "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 16:30:59 GMT",
+    "content": "一群移民被指控向一辆军车投掷石块，而一些当地人则放火焚烧他们在海滩上的营地。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:30.932Z",
     "isImportant": false
   },
   {
@@ -275,6 +880,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c209g56znylo#9",
+    "title": "维多西奇出局后，鲁伊斯被任命为布莱顿主帅",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c209g56znylo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 16:00:28 GMT",
+    "content": "在达里奥·维多西奇令人震惊地离开后，布莱顿确认任命阿图罗·鲁伊斯为新任女足主教练。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:36.831Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/football/articles/c209g56znylo#2",
     "title": "维多西奇出局后，鲁伊斯被任命为布莱顿主帅",
     "link": "https://www.bbc.co.uk/sport/football/articles/c209g56znylo?at_medium=RSS&at_campaign=rss",
@@ -305,6 +921,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-28T19:53:25.188Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/cwyz1jkpn3no#7",
+    "title": "精彩的保龄球——无情的罗宾逊控球明星",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cwyz1jkpn3no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 15:37:50 GMT",
+    "content": "英格兰投球手奥利罗宾逊以 4 个三柱门的成绩仅获得 11 分，而巴基斯坦则以 110 分出局，这使得英格兰在第二次洛德测试赛的第二天领先 180 分。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:20.154Z",
     "isImportant": false
   },
   {
@@ -396,6 +1023,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c4gmx03npxmo#6",
+    "title": "分裂、戏剧性和权力——因凡蒂诺和欧足联的下一步是什么？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gmx03npxmo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 15:00:20 GMT",
+    "content": "丹·罗恩报道称，爆炸性的法庭文件揭示了欧足联与国际足联主席詹尼·因凡蒂诺的不和日益加剧。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:06.281Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/football/articles/c4gmx03npxmo#2",
     "title": "分裂、戏剧性和权力——因凡蒂诺和欧足联的下一步是什么？",
     "link": "https://www.bbc.co.uk/sport/football/articles/c4gmx03npxmo?at_medium=RSS&at_campaign=rss",
@@ -404,6 +1042,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-28T19:52:24.352Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/ckg7z1wyn1no#9",
+    "title": "离开的沃特金斯因拒绝参加比赛而道歉 - 埃默里",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckg7z1wyn1no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 14:34:58 GMT",
+    "content": "奥利·沃特金斯将离开阿斯顿维拉，成为他们的英超联赛进球纪录保持者。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:32.489Z",
     "isImportant": false
   },
   {
@@ -448,6 +1097,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-28T19:53:16.921Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo#1",
+    "title": "挪威国王去世后奥斯陆市长取消婚礼",
+    "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 13:50:34 GMT",
+    "content": "挪威首都市长安妮·林德博原计划于周五与未婚夫结婚。",
+    "source": "BBC News",
+    "category": "国际",
+    "fetchedAt": "2026-08-29T13:32:25.313Z",
     "isImportant": false
   },
   {
@@ -558,6 +1218,17 @@
     "source": "BBC Sport",
     "category": "体育",
     "fetchedAt": "2026-08-28T19:53:37.668Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/c4gjp4800lvo#7",
+    "title": "阿切尔铲除马苏德，英格兰取得早期突破",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/c4gjp4800lvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 11:43:31 GMT",
+    "content": "英格兰队在巴基斯坦第一局开始时就取得了早期突破，乔弗拉·阿切尔和杰米·史密斯联手将尚·马苏德击倒，巴基斯坦队以 5-1 领先，回应了英格兰队在洛德球场第二场测试的第二天第一局打出的 290 分的成绩。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:22.643Z",
     "isImportant": false
   },
   {
@@ -679,6 +1350,17 @@
     "source": "BBC News",
     "category": "国际",
     "fetchedAt": "2026-08-28T19:50:43.386Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o#1",
+    "title": "“还不够”——美国家长和青少年谈论 Meta 对年轻用户的新限制",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 09:32:14 GMT",
+    "content": "作为儿童安全诉讼 180 亿美元和解协议的一部分，Meta 宣布对其应用程序实施新的限制。 我们询问了家人的想法。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2026-08-29T13:32:49.103Z",
     "isImportant": false
   },
   {
@@ -811,6 +1493,17 @@
     "source": "BBC News",
     "category": "商业",
     "fetchedAt": "2026-08-28T19:50:54.579Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c4gdvv2dwgdo#9",
+    "title": "新郎在婚礼上寻求直升机在勋爵球场玩耍",
+    "link": "https://www.bbc.co.uk/news/articles/c4gdvv2dwgdo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 28 Aug 2026 05:46:43 GMT",
+    "content": "Peter Melhuish 在结婚不到 24 小时后就需要担任他的板球队队长。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:40.314Z",
     "isImportant": false
   },
   {
@@ -979,6 +1672,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo#1",
+    "title": "退伍军人告诉他们，由于文书错误，他们欠了数千英镑",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 27 Aug 2026 23:06:22 GMT",
+    "content": "数百名前英国军人因工资过高而被削减养老金。",
+    "source": "BBC News",
+    "category": "商业",
+    "fetchedAt": "2026-08-29T13:32:47.627Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo#0",
     "title": "退伍军人告诉他们，由于文书错误，他们欠了数千英镑",
     "link": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
@@ -1064,6 +1768,17 @@
     "source": "TechCrunch",
     "category": "人工智能",
     "fetchedAt": "2026-08-28T19:55:37.431Z",
+    "isImportant": false
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/athletics/videos/c3d7e5lrerzo#7",
+    "title": "苏黎世 100 米栏第二世界纪录由拉塞尔创造",
+    "link": "https://www.bbc.co.uk/sport/athletics/videos/c3d7e5lrerzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 27 Aug 2026 19:44:16 GMT",
+    "content": "美国选手马赛·拉塞尔在女子 100 米栏比赛中以 12.09 秒的成绩夺得冠军，打破了苏黎世钻石联赛的世界纪录。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:24.521Z",
     "isImportant": false
   },
   {
@@ -1309,6 +2024,17 @@
     "isImportant": false
   },
   {
+    "id": "https://www.bbc.co.uk/sport/cricket/videos/cqlwrrqnr51o#12",
+    "title": "“真是个收获啊！” - 考克斯因失误而被解雇",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cqlwrrqnr51o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 27 Aug 2026 16:53:23 GMT",
+    "content": "英格兰选手乔丹·考克斯 (Jordan Cox) 在第二场测试赛首日由替补萨尔曼·阿里·阿加 (Salman Ali Agha) 完成令人难以置信的鱼跃接球后，以 55 分被罚下场，以 187 比 6 离开东道主。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:34:42.619Z",
+    "isImportant": false
+  },
+  {
     "id": "https://www.bbc.co.uk/sport/cricket/videos/cqlwrrqnr51o#7",
     "title": "“真是个收获啊！” - 考克斯因失误而被解雇",
     "link": "https://www.bbc.co.uk/sport/cricket/videos/cqlwrrqnr51o?at_medium=RSS&at_campaign=rss",
@@ -1362,6 +2088,17 @@
     "category": "商业",
     "fetchedAt": "2026-08-27T18:44:21.840Z",
     "isImportant": true
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/c204dj7vng2o#15",
+    "title": "萨顿对皇家血统鼓手本·撒切尔的预测",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c204dj7vng2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 27 Aug 2026 16:04:56 GMT",
+    "content": "BBC 体育足球专家克里斯·萨顿 (Chris Sutton) 与皇家血统鼓手本·撒切尔 (Ben Thatcher) 以及 BBC 读者和 AI 进行了对本周末英超联赛比赛的预测。",
+    "source": "BBC Sport",
+    "category": "体育",
+    "fetchedAt": "2026-08-29T13:35:12.626Z",
+    "isImportant": false
   },
   {
     "id": "https://www.bbc.co.uk/sport/football/articles/c204dj7vng2o#2",
@@ -1460,743 +2197,6 @@
     "source": "TechCrunch",
     "category": "人工智能",
     "fetchedAt": "2026-08-27T18:49:38.146Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy8znx3g4e2o#1",
-    "title": "水母迫使法国核电站部分关闭",
-    "link": "https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 14:49:23 GMT",
-    "content": "这是水母连续第二年迫使法国北部的格拉沃利讷电站关闭。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-27T18:44:00.828Z",
-    "isImportant": false
-  },
-  {
-    "id": "108355025",
-    "title": "盘前涨幅最大的股票：Nvidia、HP、Salesforce、Dollar General、Everpure 等",
-    "link": "https://www.cnbc.com/2026/08/27/stocks-making-the-biggest-moves-premarket-nvda-hp-crm-dg-p.html",
-    "pubDate": "Thu, 27 Aug 2026 14:45:58 GMT",
-    "content": "这些是盘前涨幅最大的股票。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2026-08-27T18:48:55.892Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo#0",
-    "title": "欧足联准备对因凡蒂诺提起刑事诉讼",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 14:42:09 GMT",
-    "content": "欧足联正在对国际足联主席因凡蒂诺提起刑事诉讼，指控其出售世界杯股份的计划被取消。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:45:56.908Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/clyj50j91xgo#5",
-    "title": "托特纳姆热刺租借曼城球员马尔穆什",
-    "link": "https://www.bbc.co.uk/sport/football/articles/clyj50j91xgo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 14:34:14 GMT",
-    "content": "托特纳姆热刺租借曼城前锋奥马尔·马尔穆什至赛季结束，并有义务在明年夏天以 6000 万英镑的价格永久保留这笔交易。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:51.805Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3157663",
-    "title": "Android 应用程序将面临 AI 内存危机",
-    "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-    "pubDate": "Thu, 27 Aug 2026 14:27:04 +0000",
-    "content": "谷歌正在为 Android 应用程序设定新的内存使用限制，因为人工智能数据中心会导致硬件短缺，这可能导致低成本手机内存减少。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2026-08-27T18:49:41.122Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgjq49g8wwqo#1",
-    "title": "“沉默就是同谋”——顶级足球运动员对喀麦隆女性被杀事件进行猛烈抨击",
-    "link": "https://www.bbc.co.uk/news/articles/cgjq49g8wwqo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 14:26:15 GMT",
-    "content": "一周内至少八名妇女被杀，引发了喀麦隆的愤怒。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-27T18:43:59.398Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c980e1d2vpgo#2",
-    "title": "由于前锋缺席训练，阿森纳只有可能退出阿尔瓦雷斯",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c980e1d2vpgo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 14:18:57 GMT",
-    "content": "自从私下被告知俱乐部不会将他出售给巴塞罗那以来，朱利安·阿尔瓦雷斯就没有参加过马德里竞技队的训练。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:14.324Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cew92l07kwzo#1",
-    "title": "和平委员会加沙特使批评以色列的袭击和哈马斯的行动",
-    "link": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 14:17:24 GMT",
-    "content": "尼古拉·姆拉德诺夫警告说，去年十月停火协议的破裂将成为该地区“无可挽回的局面”。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-28T19:50:16.968Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cew92l07kwzo#0",
-    "title": "和平委员会加沙特使批评以色列的袭击和哈马斯的行动",
-    "link": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 14:17:24 GMT",
-    "content": "尼古拉·姆拉德诺夫警告说，去年 10 月停火协议的破裂将成为该地区“无法挽回的局面”。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-27T18:43:46.789Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c14dl88djrmo#5",
-    "title": "莱顿东方批评雷克瑟姆新球衣上的徽章",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c14dl88djrmo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 14:12:51 GMT",
-    "content": "莱顿东方批评雷克斯汉姆及其名人老板瑞安·雷诺兹和罗布·麦克在他们的新球衣上贴上了与他们自己的徽章相呼应的徽章。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:40.976Z",
-    "isImportant": false
-  },
-  {
-    "id": "108355064",
-    "title": "堪萨斯城联储施密德称通胀“顽固”且“粘性”，政策利率不具有限制性",
-    "link": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
-    "pubDate": "Thu, 27 Aug 2026 14:11:29 GMT",
-    "content": "这位政策制定者没有呼吁加息。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2026-08-27T18:48:54.458Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3156027",
-    "title": "人工智能经常失控并攻击其他公司",
-    "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-    "pubDate": "Thu, 27 Aug 2026 14:01:42 +0000",
-    "content": "回顾一下 Anthropic、Meta 和 OpenAI 制造的所有涉及法学硕士的事件，这些事件在互联网上肆意攻击真实的公司和个人。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2026-08-27T18:49:42.631Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/cricket/videos/cr4vlxx1rv6o#7",
-    "title": "“多么美好的一个早晨啊！” - 英格兰在上议院举行的第一场令人难忘的会议",
-    "link": "https://www.bbc.co.uk/sport/cricket/videos/cr4vlxx1rv6o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 13:36:52 GMT",
-    "content": "赢得抛掷比赛后，巴基斯坦队充分利用了洛德球场的条件，在第二次测试的第一天午餐时将英格兰队以 80-4 击败。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-28T19:53:30.236Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/cricket/videos/cr4vlxx1rv6o#3",
-    "title": "“多么美好的一个早晨啊！” - 英格兰在上议院举行的第一场令人难忘的会议",
-    "link": "https://www.bbc.co.uk/sport/cricket/videos/cr4vlxx1rv6o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 13:36:52 GMT",
-    "content": "赢得抛掷比赛后，巴基斯坦队充分利用了洛德球场的条件，在第二次测试的第一天午餐时将英格兰队以 80-4 击败。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:28.517Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c0qxzqdwekwo#5",
-    "title": "格拉利什热衷于埃弗顿，曼城则关注恩迪亚耶",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c0qxzqdwekwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 13:32:55 GMT",
-    "content": "消息人士告诉英国广播公司体育频道，如果杰克·格拉利什在转会窗口剩余的时间内离开曼城，他更愿意返回埃弗顿。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:45.424Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o#0",
-    "title": "Meta 和解对英国意味着什么，以及交易后的其他问题",
-    "link": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 13:24:03 GMT",
-    "content": "其他社交媒体公司尚未做出回应，而活动人士的辩论还远未结束。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-27T18:44:23.292Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/boxing/articles/cgrvyen5dxyo#2",
-    "title": "我会把 Itauma 送回高中 - Hrgovic",
-    "link": "https://www.bbc.co.uk/sport/boxing/articles/cgrvyen5dxyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 13:22:54 GMT",
-    "content": "菲利普·赫尔戈维奇告诉英国重量级拳王摩西·伊塔玛，周六他们争夺空缺的 IBF 重量级世界冠军时，他将“送他回高中”。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:19.207Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cr4vl0lw4qwo#1",
-    "title": "卡拉格因未缴税款面临破产申请",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cr4vl0lw4qwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 13:05:37 GMT",
-    "content": "前利物浦和英格兰球员杰米·卡拉格因未付税款而面临破产。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:04.264Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3157528",
-    "title": "Plaud 的新款耳机配有支持 eSIM 的外壳，用于与 AI 代理对话",
-    "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-    "pubDate": "Thu, 27 Aug 2026 13:00:00 +0000",
-    "content": "Plaud 的新款“agentic”耳塞售价为 249 美元。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2026-08-27T18:49:43.603Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckgw9gw34yqo#1",
-    "title": "窃贼在四分钟内抢劫西班牙博物馆的青铜时代文物",
-    "link": "https://www.bbc.co.uk/news/articles/ckgw9gw34yqo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 12:41:16 GMT",
-    "content": "维耶纳宝藏是一个独特的宝藏，里面有近十公斤的黄金、碗、瓶子和手镯，其历史可以追溯到青铜时代。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-27T18:43:55.205Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/ckg70leqdvlo#6",
-    "title": "切尔基面临曼城首发位置的争夺",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckg70leqdvlo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 12:31:32 GMT",
-    "content": "拉扬·切尔基（Rayan Cherki）作为曼城主教练，将恩佐·马雷斯卡（Enzo Maresca）从开局不利的局面中拯救出来——但他能得到他想要的比赛时间吗？",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:56.865Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/rugby-league/articles/cp3093lkqy3o#9",
-    "title": "诊断 MND 后 Arrow 将参加 100 场 Rabbitohs 比赛",
-    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cp3093lkqy3o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 12:13:10 GMT",
-    "content": "南悉尼兔子队获得了特殊许可，将 Jai Arrow 纳入球队，这样他就可以为俱乐部打 100 场比赛，尽管他被诊断出 MND。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:47:27.652Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/cricket/videos/cevw9jx7wrxo#7",
-    "title": "“没有斗篷的超人”——里兹万以时尚的方式捕捉盖伊",
-    "link": "https://www.bbc.co.uk/sport/cricket/videos/cevw9jx7wrxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 12:02:32 GMT",
-    "content": "在罗德斯球场对阵巴基斯坦的第二场测试赛的第一天，英格兰队开局不佳，埃米利奥·盖伊在穆罕默德·里兹万精彩的鱼跃接球后仅获得八分。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-28T19:53:30.842Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/cricket/videos/cevw9jx7wrxo#3",
-    "title": "“没有斗篷的超人”——里兹万以时尚的方式捕捉盖伊",
-    "link": "https://www.bbc.co.uk/sport/cricket/videos/cevw9jx7wrxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 12:02:32 GMT",
-    "content": "在罗德斯球场对阵巴基斯坦的第二场测试赛的第一天，英格兰队开局不佳，埃米利奥·盖伊在穆罕默德·里兹万精彩的鱼跃接球后仅获得八分。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:30.961Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/formula1/articles/c8jdyl78022o#6",
-    "title": "科拉平托将在 2027 赛季留在阿尔派",
-    "link": "https://www.bbc.co.uk/sport/formula1/articles/c8jdyl78022o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 11:56:09 GMT",
-    "content": "一级方程式车队宣布，佛朗哥·科拉平托 (Franco Colapinto) 将在 2027 赛季继续留在 Alpine。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:47:06.889Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3157523",
-    "title": "OpenAI 开始在印度 ChatGPT 的免费版和 Go 版上展示广告",
-    "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-    "pubDate": "Thu, 27 Aug 2026 11:35:59 +0000",
-    "content": "OpenAI 在印度每周拥有超过 1 亿活跃的 ChatGPT 用户，其中很大一部分使用免费或低价的 Go 版本。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2026-08-27T18:49:45.624Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cpwl54kddeko#1",
-    "title": "耶路撒冷中央电视台袭击修女的男子因精神健康问题被无罪释放",
-    "link": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 11:23:28 GMT",
-    "content": "耶路撒冷一家法院表示，犹太袭击者袭击修女时患有精神病，这一事件引起了愤怒。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-27T18:43:52.464Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/c93ep37jq8wo#5",
-    "title": "深受喜爱的冰淇淋店 106 年后关门",
-    "link": "https://www.bbc.co.uk/news/videos/c93ep37jq8wo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 11:16:40 GMT",
-    "content": "自 20 年代以来，这家家族经营的商店一直是布里斯托尔布里斯灵顿的常客。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-27T18:45:38.623Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/cricket/videos/c98018v6r72o#12",
-    "title": "沃恩批评英格兰在卡塞事件后的“借口”",
-    "link": "https://www.bbc.co.uk/sport/cricket/videos/c98018v6r72o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 11:15:48 GMT",
-    "content": "迈克尔·沃恩和乔纳森·阿格纽在测试赛特别节目中发表讲话，在投球手布莱登·卡斯在夜总会外被戴上手铐后批评了英格兰的文化和态度，这是最近涉及英格兰板球队的一系列事件中的最新一起。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-28T19:53:53.322Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/cricket/videos/c98018v6r72o#7",
-    "title": "沃恩批评英格兰在卡塞事件后的“借口”",
-    "link": "https://www.bbc.co.uk/sport/cricket/videos/c98018v6r72o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 11:15:48 GMT",
-    "content": "迈克尔·沃恩和乔纳森·阿格纽在测试赛特别节目中发表讲话，在投球手布莱登·卡斯在夜总会外被戴上手铐后批评了英格兰的文化和态度，这是最近涉及英格兰板球队的一系列事件中的最新一起。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:47:08.995Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cx2zk7lg622o#5",
-    "title": "莫耶斯和埃弗顿的老板意见一致吗？",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cx2zk7lg622o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 10:35:26 GMT",
-    "content": "大卫·莫耶斯表示，埃弗顿的老板认为上赛季错过欧洲赛场是“失败”，这让他感到惊讶。 菲尔·麦克纳尔蒂问他们是否意见一致。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:35.823Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c33kvgd3xpyo#6",
-    "title": "利物浦接近以 1.2 亿英镑收购巴黎圣日耳曼球队巴克拉",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c33kvgd3xpyo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 10:31:21 GMT",
-    "content": "利物浦即将与巴黎圣日耳曼就布拉德利·巴克拉达成协议，这增加了人们对科迪·加克波在安菲尔德的未来的疑虑。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:58.311Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o#3",
-    "title": "尼泊尔西藏山洪爆发的原因是什么？",
-    "link": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 10:17:45 GMT",
-    "content": "至少270人在大规模山洪中丧生，另有800多人失踪。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-27T18:44:15.031Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c89jwgpv5nxo#9",
-    "title": "为什么谢菲尔德联队的案件可能是对新足球监管机构的考验",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c89jwgpv5nxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 09:59:40 GMT",
-    "content": "就在几个月前，谢菲尔德星期三似乎对新独立足球监管机构的权力进行了第一次真正的考验。 现在看来很可能是谢菲尔德联队。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:47:31.785Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cd948kn02e5o#0",
-    "title": "我们对尼泊尔和西藏致命洪水的了解",
-    "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 09:55:02 GMT",
-    "content": "尼泊尔和西藏边境的洪水和山体滑坡已造成数百人死亡。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-27T18:43:40.345Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cly464k252yo#0",
-    "title": "科学家表示，冰川崩塌可能导致尼泊尔-西藏地区发生毁灭性洪水",
-    "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 09:50:10 GMT",
-    "content": "科学家的初步调查表明，冰川崩塌是造成这一现象的原因，凸显了喜马拉雅冰川迅速融化的问题。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-27T18:43:37.833Z",
-    "isImportant": true
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo#0",
-    "title": "插入式太阳能电池板即将来到您附近的一家商店 - 以下是您需要了解的信息",
-    "link": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 09:41:14 GMT",
-    "content": "英国政府声称面板可以帮助家庭“大幅削减”能源费用。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-27T18:44:25.744Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo#3",
-    "title": "插入式太阳能电池板即将来到您附近的一家商店 - 以下是您需要了解的信息",
-    "link": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 09:41:14 GMT",
-    "content": "英国政府声称面板可以帮助家庭“大幅削减”能源费用。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-27T18:45:22.649Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cvgyln21jrmo#9",
-    "title": "德拉普以5000万英镑加盟森林队重建职业生涯",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvgyln21jrmo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 09:05:49 GMT",
-    "content": "BBC 体育频道探讨了利亚姆·德拉普在切尔西出了什么问题，以及他如何在新环境中东山再起。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:47:23.102Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sounds/play/w3ct8mfq#5",
-    "title": "全球故事",
-    "link": "https://www.bbc.co.uk/sounds/play/w3ct8mfq?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 09:00:00 GMT",
-    "content": "美国的经济压力可能引发全球贸易冲突",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-28T19:51:57.551Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8e3lyzre2no#3",
-    "title": "冰淇淋店开业 106 周年“时代的终结”",
-    "link": "https://www.bbc.co.uk/news/articles/c8e3lyzre2no?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 08:59:38 GMT",
-    "content": "塔尔家族表示，他们“非常震惊”地宣布，由于成本上升，他们将不得不关闭。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-27T18:45:24.813Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cvgyl2dvvv0o#2",
-    "title": "同性恋世界杯球星加入沙特俱乐部遭到球迷强烈反对",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvgyl2dvvv0o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 08:52:41 GMT",
-    "content": "西班牙前锋埃丝特·冈萨雷斯在与沙特女子超级联赛球队卡德西亚签约后遭到强烈反对。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:17.575Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cge4y57ygvdo#9",
-    "title": "随着沃特金斯接近退出，维拉花费近 6500 万英镑收购切尔西的杰克逊",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cge4y57ygvdo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 08:48:20 GMT",
-    "content": "塞内加尔前锋尼古拉斯·杰克逊在切尔西效力三年后即将转会至维拉公园球场。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:47:34.109Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn9n9n5p9eqo#1",
-    "title": "想让您的工作申请脱颖而出吗？ 雇主表示他们正在寻找这些技能",
-    "link": "https://www.bbc.co.uk/news/articles/cn9n9n5p9eqo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 08:47:36 GMT",
-    "content": "专家们确定了六项关键技能，这些技能将与未来十年获得和保住工作的资格同等重要。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-27T18:44:35.113Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/boxing/videos/c9982vyr72po#12",
-    "title": "为什么 21 岁成为重量级冠军对于 Itauma 来说是一件“大事”",
-    "link": "https://www.bbc.co.uk/sport/boxing/videos/c9982vyr72po?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 07:43:53 GMT",
-    "content": "英国重量级拳王摩西·伊塔玛 (Moses Itauma) 将于周六与菲利普·赫尔戈维奇 (Filip Hrgovic) 争夺空缺的 IBF 世界重量级拳王头衔。 如果他赢得这场比赛，伊塔玛将成为自迈克·泰森以来最年轻的重量级冠军，并表示“期望”他为英国拳击界扛起旗帜。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-28T19:53:52.360Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/boxing/videos/c9982vyr72po#3",
-    "title": "为什么 21 岁成为重量级冠军对于 Itauma 来说是一件“大事”",
-    "link": "https://www.bbc.co.uk/sport/boxing/videos/c9982vyr72po?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 07:43:53 GMT",
-    "content": "英国重量级拳王摩西·伊塔玛 (Moses Itauma) 将于周六与菲利普·赫尔戈维奇 (Filip Hrgovic) 争夺空缺的 IBF 世界重量级拳王头衔。 如果他赢得这场比赛，伊塔玛将成为自迈克·泰森以来最年轻的重量级冠军，并表示“期望”他为英国拳击界扛起旗帜。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:33.627Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o#5",
-    "title": "切尔西同意以 4000 万英镑收购亚特兰大后卫阿哈诺",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 07:28:01 GMT",
-    "content": "切尔西同意签下亚特兰大后卫诚实阿哈诺，价值高达 4000 万英镑。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:38.402Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cd08z840p8lo#2",
-    "title": "“洪水夺走了一切”：尼泊尔幸存者描述亲人被冲走的恐惧",
-    "link": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 07:09:52 GMT",
-    "content": "一名妇女说，她的父亲、母亲、姐妹和姐妹的孩子在她眼前被带走。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-27T18:44:04.385Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c9864p3wz1jo#9",
-    "title": "为什么埃雷拉可以在西班牙丙级联赛免费踢球",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c9864p3wz1jo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 07:02:50 GMT",
-    "content": "安德尔·埃雷拉（Ander Herrera）曾代表一些世界上最大的俱乐部效力，但现在他回到家乡，在西班牙第三级别联赛中免费踢球 - 这就是原因。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:47:23.908Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3157522",
-    "title": "Nvidia 即将完成对 Hugging Face 的收购",
-    "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-    "pubDate": "Thu, 27 Aug 2026 06:32:51 +0000",
-    "content": "据报道，英伟达已同意以 129 亿美元收购流行的开源人工智能中心 Hugging Face，此举将使英伟达既能保护其芯片帝国，又能重返云业务。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2026-08-27T18:49:46.677Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/articles/clyj5wlq385o#15",
-    "title": "每周体育测验：悉尼马拉松奖牌出了什么问题？",
-    "link": "https://www.bbc.co.uk/sport/articles/clyj5wlq385o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 06:30:13 GMT",
-    "content": "过去7天里，您对体育界发生的事情有多少关注？",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-28T19:54:02.006Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/articles/clyj5wlq385o#9",
-    "title": "每周体育测验：悉尼马拉松奖牌出了什么问题？",
-    "link": "https://www.bbc.co.uk/sport/articles/clyj5wlq385o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 06:30:13 GMT",
-    "content": "过去7天里，您对体育界发生的事情有多少关注？",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:47:21.243Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/golf/articles/c99dvrrr1gno#15",
-    "title": "走出马特的阴影并遇见迈克尔·乔丹 - 亚历克斯·菲茨帕特里克的崛起",
-    "link": "https://www.bbc.co.uk/sport/golf/articles/c99dvrrr1gno?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 06:12:28 GMT",
-    "content": "亚历克斯·菲茨帕特里克 (Alex Fitzpatrick) 向 BBC 体育频道讲述了如何打造自己的身份、对美巡赛的“归属感”，以及他与迈克尔·乔丹的“超现实”会面。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-28T19:54:04.861Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/golf/articles/c99dvrrr1gno#5",
-    "title": "走出马特的阴影并遇见迈克尔·乔丹 - 亚历克斯·菲茨帕特里克的崛起",
-    "link": "https://www.bbc.co.uk/sport/golf/articles/c99dvrrr1gno?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 06:12:28 GMT",
-    "content": "亚历克斯·菲茨帕特里克 (Alex Fitzpatrick) 向 BBC 体育频道讲述了如何打造自己的身份、对美巡赛的“归属感”，以及他与迈克尔·乔丹的“超现实”会面。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:42.961Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/cq63431rgljo#3",
-    "title": "尼泊尔发生致命山洪后，人们从泥浆中被救出",
-    "link": "https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 06:02:03 GMT",
-    "content": "救援人员奋力抵达灾区，尼泊尔和西藏边境沿线至少有 160 人死亡。",
-    "source": "BBC News",
-    "category": "国际",
-    "fetchedAt": "2026-08-27T18:44:17.722Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cpd777qnlxxo#6",
-    "title": "通过我们的每日测验来锻炼你的足球大脑",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cpd777qnlxxo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Thu, 27 Aug 2026 05:59:44 GMT",
-    "content": "通过今天的《我是谁？》、《五中五》和《脑筋急转弯》来测试您的球知识。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:46:53.288Z",
-    "isImportant": false
-  },
-  {
-    "id": "108354921",
-    "title": "Z.ai发布仅在中国芯片上运行的新人工智能模型后股价飙升8%",
-    "link": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
-    "pubDate": "Thu, 27 Aug 2026 05:34:13 GMT",
-    "content": "这家中国人工智能公司表示，该模型已在全球秘密推出一周。",
-    "source": "CNBC",
-    "category": "股市",
-    "fetchedAt": "2026-08-27T18:48:57.400Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3157433",
-    "title": "病毒式 AI 初创公司 Instinct 已融资 3.5 亿美元，估值为 2.5B 美元",
-    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-    "pubDate": "Thu, 27 Aug 2026 00:24:57 +0000",
-    "content": "这家初创公司成立仅一年，但已经引起了大量的炒作（和资金），同时也引发了隐私问题。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2026-08-27T18:49:48.177Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://techcrunch.com/?p=3157431",
-    "title": "由于“需求激增”，亚马逊刚刚将 Nvidia 芯片订单增加了两倍",
-    "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-    "pubDate": "Wed, 26 Aug 2026 23:47:18 +0000",
-    "content": "亚马逊将在未来两年内为其数据中心再增加 200 万个 Nvidia GPU 芯片。 但这种扩展的合作伙伴关系不仅仅限于购买更多芯片。",
-    "source": "TechCrunch",
-    "category": "人工智能",
-    "fetchedAt": "2026-08-27T18:49:49.027Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o#0",
-    "title": "从灯光到复古宝石：美化您的租赁的五种方法",
-    "link": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Aug 2026 23:08:42 GMT",
-    "content": "专家分享了如何让公寓或房子感觉像自己的一样而又不惹恼房东的技巧。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-27T18:44:30.204Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o#3",
-    "title": "从灯光到复古宝石：美化您的租赁的五种方法",
-    "link": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Aug 2026 23:08:42 GMT",
-    "content": "专家分享了如何让公寓或房子感觉像自己的一样而又不惹恼房东的技巧。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-27T18:45:25.307Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go#1",
-    "title": "Meta 的 180 亿美元和解协议可能会加速社交媒体对儿童安全的清算",
-    "link": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Aug 2026 23:04:24 GMT",
-    "content": "英国广播公司 (BBC) 技术编辑佐伊·克莱曼 (Zoe Kleinman) 写道，也许我们的末日卷轴日子已经屈指可数了。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-27T18:44:32.362Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0klj72p66lo#2",
-    "title": "多莉·帕顿 (Dolly Parton) 的商业头脑如何帮助她取得超越排行榜的成功",
-    "link": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Aug 2026 23:03:46 GMT",
-    "content": "乡村音乐和电影为她带来了名气，而她的创业热情则为她带来了财富。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-28T19:51:20.915Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0klj72p66lo#0",
-    "title": "多莉·帕顿 (Dolly Parton) 的商业头脑如何帮助她取得超越排行榜的成功",
-    "link": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Aug 2026 23:03:46 GMT",
-    "content": "乡村音乐和电影为她带来了名气，而她的创业热情则为她带来了财富。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-27T18:44:31.285Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/videos/c5yd97rqq0yo#7",
-    "title": "斯洛文布拉迪斯拉发队在加时赛中表现出色，晋级冠军联赛",
-    "link": "https://www.bbc.co.uk/sport/football/videos/c5yd97rqq0yo?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Aug 2026 22:37:30 GMT",
-    "content": "加时赛中，克里斯蒂安·马丁内斯的一脚精彩射门足以让布拉迪斯拉发斯洛伐克队超越采列，进入欧冠联赛。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:47:19.361Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o#1",
-    "title": "OpenAI 代理之间的意外聊天导致 Hugging Face 黑客攻击",
-    "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Aug 2026 22:03:45 GMT",
-    "content": "OpenAI 的网络代理联合起来在安全测试期间进行黑客攻击。",
-    "source": "BBC News",
-    "category": "商业",
-    "fetchedAt": "2026-08-27T18:44:32.768Z",
-    "isImportant": false
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/videos/c23xk90x3zko#12",
-    "title": "雅典AEK客场4-0战胜索非亚列夫斯基",
-    "link": "https://www.bbc.co.uk/sport/football/videos/c23xk90x3zko?at_medium=RSS&at_campaign=rss",
-    "pubDate": "Wed, 26 Aug 2026 21:50:40 GMT",
-    "content": "雅典AEK以4-0轻松战胜索非亚列夫斯基，晋级欧冠联赛。",
-    "source": "BBC Sport",
-    "category": "体育",
-    "fetchedAt": "2026-08-27T18:47:38.957Z",
     "isImportant": false
   }
 ]
